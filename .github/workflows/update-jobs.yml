@@ -1,0 +1,67 @@
+name: Update Job Listings
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 06:00 UTC
+  workflow_dispatch: {}    # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+        with:
+          path: wagey-gg-remote-tech-jobs
+
+      - name: Checkout EMEA repo
+        uses: actions/checkout@v4
+        with:
+          repository: 7-of-9/wagey-gg-remote-tech-emea-jobs
+          token: ${{ secrets.REPO_TOKEN }}
+          path: wagey-gg-remote-tech-emea-jobs
+
+      - name: Checkout APAC repo
+        uses: actions/checkout@v4
+        with:
+          repository: 7-of-9/wagey-gg-remote-tech-apac-jobs
+          token: ${{ secrets.REPO_TOKEN }}
+          path: wagey-gg-remote-tech-apac-jobs
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Fetch jobs and generate markdown
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          SYSTEM_USER_ID: ${{ secrets.SYSTEM_USER_ID }}
+        run: node wagey-gg-remote-tech-jobs/scripts/update.mjs
+
+      - name: Commit and push main repo
+        run: |
+          cd wagey-gg-remote-tech-jobs
+          git config user.name "wagey-bot"
+          git config user.email "bot@wagey.gg"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update job listings — $(date -u +'%d-%b-%Y')"
+          git push
+
+      - name: Commit and push EMEA repo
+        run: |
+          cd wagey-gg-remote-tech-emea-jobs
+          git config user.name "wagey-bot"
+          git config user.email "bot@wagey.gg"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update job listings — $(date -u +'%d-%b-%Y')"
+          git push
+
+      - name: Commit and push APAC repo
+        run: |
+          cd wagey-gg-remote-tech-apac-jobs
+          git config user.name "wagey-bot"
+          git config user.email "bot@wagey.gg"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update job listings — $(date -u +'%d-%b-%Y')"
+          git push
