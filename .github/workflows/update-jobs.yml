@@ -2,7 +2,7 @@ name: Update Job Listings
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Daily at 06:00 UTC
+    - cron: '0 * * * *'  # Every hour, on the hour
   workflow_dispatch: {}    # Manual trigger
 
 jobs:
@@ -12,6 +12,7 @@ jobs:
       - name: Checkout main repo
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.REPO_TOKEN }}
           path: wagey-gg-remote-tech-jobs
 
       - name: Checkout EMEA repo
@@ -37,15 +38,16 @@ jobs:
         env:
           API_BASE_URL: ${{ secrets.API_BASE_URL }}
           SYSTEM_USER_ID: ${{ secrets.SYSTEM_USER_ID }}
-        run: node wagey-gg-remote-tech-jobs/scripts/update.mjs
+        run: node wagey-gg-remote-tech-jobs/scripts/publish-github-jobs.mjs
 
       - name: Commit and push main repo
         run: |
           cd wagey-gg-remote-tech-jobs
           git config user.name "wagey-bot"
           git config user.email "bot@wagey.gg"
-          git add -A
-          git diff --cached --quiet || git commit -m "Update job listings — $(date -u +'%d-%b-%Y')"
+          git add README.md data/ LICENSE
+          MSG=$(cat data/commit-msg.txt 2>/dev/null || echo "Update job listings")
+          git diff --cached --quiet || git commit -m "$MSG"
           git push
 
       - name: Commit and push EMEA repo
@@ -53,8 +55,9 @@ jobs:
           cd wagey-gg-remote-tech-emea-jobs
           git config user.name "wagey-bot"
           git config user.email "bot@wagey.gg"
-          git add -A
-          git diff --cached --quiet || git commit -m "Update job listings — $(date -u +'%d-%b-%Y')"
+          git add README.md data/ LICENSE
+          MSG=$(cat data/commit-msg.txt 2>/dev/null || echo "Update job listings")
+          git diff --cached --quiet || git commit -m "$MSG"
           git push
 
       - name: Commit and push APAC repo
@@ -62,6 +65,7 @@ jobs:
           cd wagey-gg-remote-tech-apac-jobs
           git config user.name "wagey-bot"
           git config user.email "bot@wagey.gg"
-          git add -A
-          git diff --cached --quiet || git commit -m "Update job listings — $(date -u +'%d-%b-%Y')"
+          git add README.md data/ LICENSE
+          MSG=$(cat data/commit-msg.txt 2>/dev/null || echo "Update job listings")
+          git diff --cached --quiet || git commit -m "$MSG"
           git push
