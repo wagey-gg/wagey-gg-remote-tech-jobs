@@ -130,43 +130,73 @@ function esc(str) {
 }
 
 // ============================================================================
-// FETCH JOBS
+// FETCH JOBS (with exponential backoff retry)
 // ============================================================================
+
+const MAX_RETRIES = 5;
+const INITIAL_DELAY_MS = 3000; // 3s, 6s, 12s, 24s, 48s
+
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 async function fetchJobs() {
   // Use a large hours value to get ALL applyable jobs, not just recent ones
   const url = `${API_BASE}/api/matching-data?hours=8760`;
-  console.log(`Fetching from ${url} ...`);
 
-  const resp = await fetch(url, {
-    headers: {
-      'x-user-id': USER_ID,
-      'Accept': 'application/x-ndjson',
-      'Accept-Encoding': 'gzip',
-    },
-  });
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    console.log(`Fetching from ${url} ... (attempt ${attempt}/${MAX_RETRIES})`);
 
-  if (!resp.ok) {
-    throw new Error(`API returned ${resp.status}: ${await resp.text()}`);
-  }
+    try {
+      const resp = await fetch(url, {
+        headers: {
+          'x-user-id': USER_ID,
+          'Accept': 'application/x-ndjson',
+          'Accept-Encoding': 'gzip',
+        },
+        signal: AbortSignal.timeout(120_000), // 2 minute timeout per attempt
+      });
 
-  const text = await resp.text();
-  const lines = text.split('\n').filter(l => l.trim());
+      if (!resp.ok) {
+        const body = await resp.text().catch(() => '(no body)');
+        const isRetryable = resp.status >= 500 || resp.status === 429;
+        if (isRetryable && attempt < MAX_RETRIES) {
+          const delay = INITIAL_DELAY_MS * Math.pow(2, attempt - 1);
+          console.warn(`  API returned ${resp.status} — retrying in ${delay / 1000}s ...`);
+          await sleep(delay);
+          continue;
+        }
+        throw new Error(`API returned ${resp.status}: ${body.slice(0, 500)}`);
+      }
 
-  const jobs = [];
-  let meta = null;
+      const text = await resp.text();
+      const lines = text.split('\n').filter(l => l.trim());
 
-  for (const line of lines) {
-    const obj = JSON.parse(line);
-    if (obj.type === 'meta') {
-      meta = obj;
-    } else if (obj.type === 'job') {
-      jobs.push(obj.d);
+      const jobs = [];
+      let meta = null;
+
+      for (const line of lines) {
+        const obj = JSON.parse(line);
+        if (obj.type === 'meta') {
+          meta = obj;
+        } else if (obj.type === 'job') {
+          jobs.push(obj.d);
+        }
+      }
+
+      console.log(`Fetched ${jobs.length} jobs`);
+      return { jobs, meta };
+
+    } catch (err) {
+      if (attempt < MAX_RETRIES) {
+        const delay = INITIAL_DELAY_MS * Math.pow(2, attempt - 1);
+        console.warn(`  Fetch failed: ${err.message} — retrying in ${delay / 1000}s ...`);
+        await sleep(delay);
+        continue;
+      }
+      throw err;
     }
   }
-
-  console.log(`Fetched ${jobs.length} jobs`);
-  return { jobs, meta };
 }
 
 // ============================================================================
@@ -527,3 +557,4 @@ main().catch(err => {
   console.error('Fatal:', err);
   process.exit(1);
 });
+
