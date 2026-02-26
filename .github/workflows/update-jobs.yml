@@ -14,6 +14,7 @@ jobs:
         with:
           token: ${{ secrets.REPO_TOKEN }}
           path: wagey-gg-remote-tech-jobs
+          fetch-depth: 50
 
       - name: Checkout EMEA repo
         uses: actions/checkout@v4
@@ -21,6 +22,7 @@ jobs:
           repository: 7-of-9/wagey-gg-remote-tech-emea-jobs
           token: ${{ secrets.REPO_TOKEN }}
           path: wagey-gg-remote-tech-emea-jobs
+          fetch-depth: 50
 
       - name: Checkout APAC repo
         uses: actions/checkout@v4
@@ -28,6 +30,7 @@ jobs:
           repository: 7-of-9/wagey-gg-remote-tech-apac-jobs
           token: ${{ secrets.REPO_TOKEN }}
           path: wagey-gg-remote-tech-apac-jobs
+          fetch-depth: 50
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
