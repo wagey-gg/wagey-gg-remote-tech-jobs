@@ -470,7 +470,7 @@ function mainReadme(groups, allJobs, logos, historyTable) {
     .slice(0, 20);
   */
 
-  return `# Remote Tech Jobs — Updated Hourly
+  return `# Remote Tech Jobs — Updated Daily
 
 > Every job is checked against the employer's live careers page. Every job can be applied to in one click at [wagey.gg](https://wagey.gg?ref=${REF}).
 
@@ -519,7 +519,7 @@ ${jobTable(groups.LATAM, logos)}
 
 ${historyTable}
 
-*Updated automatically every hour. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
+*Updated automatically every day at 9:18 AM UTC. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
 `;
 }
 
@@ -529,7 +529,7 @@ function regionReadme(regionCode, regionLabel, jobs, allGroups, logos, historyTa
   const verified = jobs.filter(j => j.verifiedAt).length;
   const now = fmtDateTime(new Date().toISOString());
 
-  return `# Remote Tech Jobs — ${regionLabel} — Updated Hourly
+  return `# Remote Tech Jobs — ${regionLabel} — Updated Daily
 
 > Every job is checked against the employer's live careers page. Every job can be applied to in one click at [wagey.gg](https://wagey.gg?ref=${REF}).
 
@@ -553,7 +553,7 @@ ${jobTable(jobs, logos)}
 
 ${historyTable}
 
-*Updated automatically every hour. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
+*Updated automatically every day at 9:18 AM UTC. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
 `;
 }
 
