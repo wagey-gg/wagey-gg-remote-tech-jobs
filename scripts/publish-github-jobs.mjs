@@ -564,7 +564,7 @@ ${historyTable}
 
 function buildDataJson(jobs) {
   return jobs.map(j => {
-    const isRedacted = j.visibility === 'teaser' || j.visibility === 'fomo';
+    const isRedacted = j.visibility !== 'full';
     return {
       id: j.id,
       title: j.title,
@@ -579,7 +579,7 @@ function buildDataJson(jobs) {
       verifiedAt: j.verifiedAt || null,
       scrapedAt: j.scrapedAt || null,
       url: isRedacted ? null : jobUrl(j),
-      visibility: j.visibility || 'full',
+      visibility: isRedacted ? 'teaser' : 'full',
     };
   });
 }
@@ -632,7 +632,7 @@ async function main() {
   // Headline stats for commit messages
   const totalSalary = jobs.filter(j => j.salaryMin || j.salaryMax || j.salary).length;
   const totalVerified = jobs.filter(j => j.verifiedAt).length;
-  const teaserCount = jobs.filter(j => j.visibility === 'teaser').length;
+  const teaserCount = jobs.filter(j => j.visibility !== 'full').length;
   const now = fmtDateTime(new Date().toISOString());
   const emeaCount = (groups.EMEA || []).length;
   const apacCount = (groups.APAC || []).length;
