@@ -9,7 +9,7 @@
  *
  * Environment:
  *   API_BASE_URL    — Base URL of the wagey.gg API (default: https://wagey.gg)
- *   SYSTEM_USER_ID  — User ID for API auth (default: system_github_publish)
+ *   SYSTEM_USER_ID  — User ID for API auth (required)
  *
  * Writes to sibling repo directories:
  *   ../wagey-gg-remote-tech-jobs/      (this repo — WW + NA + LATAM)
@@ -26,7 +26,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 
 const API_BASE = process.env.API_BASE_URL || 'https://wagey.gg';
-const USER_ID = process.env.SYSTEM_USER_ID || 'system_github_publish';
+const USER_ID = process.env.SYSTEM_USER_ID;
+if (!USER_ID) { console.error('SYSTEM_USER_ID env var is required'); process.exit(1); }
 const DRY_RUN = process.argv.includes('--dry-run');
 const REF = 'github';
 
@@ -472,7 +473,7 @@ function mainReadme(groups, allJobs, logos, historyTable) {
 
   return `# Remote Tech Jobs — Updated Daily
 
-> Every job is checked against the employer's live careers page. Every job can be applied to in one click at [wagey.gg](https://wagey.gg?ref=${REF}).
+> Every job is checked for liveness daily. Apply in one click at [wagey.gg](https://wagey.gg?ref=${REF}).
 
 ## Jobs by Region
 
@@ -531,7 +532,7 @@ function regionReadme(regionCode, regionLabel, jobs, allGroups, logos, historyTa
 
   return `# Remote Tech Jobs — ${regionLabel} — Updated Daily
 
-> Every job is checked against the employer's live careers page. Every job can be applied to in one click at [wagey.gg](https://wagey.gg?ref=${REF}).
+> Every job is checked for liveness daily. Apply in one click at [wagey.gg](https://wagey.gg?ref=${REF}).
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
@@ -563,21 +564,21 @@ ${historyTable}
 
 function buildDataJson(jobs) {
   return jobs.map(j => {
-    const isTeaser = j.visibility === 'teaser';
+    const isRedacted = j.visibility === 'teaser' || j.visibility === 'fomo';
     return {
       id: j.id,
       title: j.title,
-      company: isTeaser ? null : j.company,
+      company: isRedacted ? null : j.company,
       region: j.region,
-      salary: fmtSalary(j),
-      salaryMin: j.salaryMin || null,
-      salaryMax: j.salaryMax || null,
+      salary: isRedacted ? null : fmtSalary(j),
+      salaryMin: isRedacted ? null : (j.salaryMin || null),
+      salaryMax: isRedacted ? null : (j.salaryMax || null),
       skills: parseSkills(j.skills),
       seniority: j.seniority || null,
       ats: j.ats || null,
       verifiedAt: j.verifiedAt || null,
       scrapedAt: j.scrapedAt || null,
-      url: isTeaser ? null : jobUrl(j),
+      url: isRedacted ? null : jobUrl(j),
       visibility: j.visibility || 'full',
     };
   });
