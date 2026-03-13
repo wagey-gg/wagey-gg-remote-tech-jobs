@@ -438,10 +438,20 @@ ${rows.join('\n')}
 }
 
 // ============================================================================
+// FOOTER
+// ============================================================================
+
+function buildFooter(startTime, durationS) {
+  const ts = fmtDateTime(startTime.toISOString());
+  const year = startTime.getUTCFullYear();
+  return `<sub>Generated ${ts} \u00B7 ${durationS}s \u00B7 \u00A9 ${year} Dominic Morris</sub>`;
+}
+
+// ============================================================================
 // README TEMPLATES
 // ============================================================================
 
-function mainReadme(groups, allJobs, logos, historyTable) {
+function mainReadme(groups, allJobs, logos, historyTable, footer) {
   const totalJobs = allJobs.length;
   const totalSalary = allJobs.filter(j => j.salaryMin || j.salaryMax || j.salary).length;
   const totalVerified = allJobs.filter(j => j.verifiedAt).length;
@@ -520,11 +530,13 @@ ${jobTable(groups.LATAM, logos)}
 
 ${historyTable}
 
-*Updated automatically every day at 9:18 AM UTC. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
+*Updated daily. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
+
+${footer}
 `;
 }
 
-function regionReadme(regionCode, regionLabel, jobs, allGroups, logos, historyTable) {
+function regionReadme(regionCode, regionLabel, jobs, allGroups, logos, historyTable, footer) {
   const totalJobs = jobs.length;
   const withSalary = jobs.filter(j => j.salaryMin || j.salaryMax || j.salary).length;
   const verified = jobs.filter(j => j.verifiedAt).length;
@@ -554,7 +566,9 @@ ${jobTable(jobs, logos)}
 
 ${historyTable}
 
-*Updated automatically every day at 9:18 AM UTC. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
+*Updated daily. Powered by [wagey.gg](https://wagey.gg?ref=${REF}).*
+
+${footer}
 `;
 }
 
@@ -603,6 +617,7 @@ function writeFile(path, content) {
 // ============================================================================
 
 async function main() {
+  const startTime = new Date();
   console.log(`\n=== wagey.gg GitHub Job Publisher ===`);
   console.log(`API: ${API_BASE}`);
   console.log(`User: ${USER_ID}`);
@@ -646,18 +661,22 @@ async function main() {
   const historyTable = buildHistoryTable();
   console.log(`  History: ${historyTable ? historyTable.split('\n').length - 4 : 0} entries`);
 
+  // Timing for footer
+  const durationS = Math.round((Date.now() - startTime.getTime()) / 1000);
+  const footer = buildFooter(startTime, durationS);
+
   console.log('\n--- Main repo ---');
-  writeFile(join(REPOS.main, 'README.md'), mainReadme(groups, jobs, logos, historyTable));
+  writeFile(join(REPOS.main, 'README.md'), mainReadme(groups, jobs, logos, historyTable, footer));
   writeFile(join(REPOS.main, 'data', 'jobs.json'), JSON.stringify(buildDataJson(jobs), null, 2));
   writeFile(join(REPOS.main, 'data', 'commit-msg.txt'), mainMsg);
 
   console.log('\n--- EMEA repo ---');
-  writeFile(join(REPOS.emea, 'README.md'), regionReadme('EMEA', 'Europe & Middle East', groups.EMEA || [], groups, logos, historyTable));
+  writeFile(join(REPOS.emea, 'README.md'), regionReadme('EMEA', 'Europe & Middle East', groups.EMEA || [], groups, logos, historyTable, footer));
   writeFile(join(REPOS.emea, 'data', 'jobs.json'), JSON.stringify(buildDataJson(groups.EMEA || []), null, 2));
   writeFile(join(REPOS.emea, 'data', 'commit-msg.txt'), emeaMsg);
 
   console.log('\n--- APAC repo ---');
-  writeFile(join(REPOS.apac, 'README.md'), regionReadme('APAC', 'Asia-Pacific', groups.APAC || [], groups, logos, historyTable));
+  writeFile(join(REPOS.apac, 'README.md'), regionReadme('APAC', 'Asia-Pacific', groups.APAC || [], groups, logos, historyTable, footer));
   writeFile(join(REPOS.apac, 'data', 'jobs.json'), JSON.stringify(buildDataJson(groups.APAC || []), null, 2));
   writeFile(join(REPOS.apac, 'data', 'commit-msg.txt'), apacMsg);
 

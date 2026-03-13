@@ -2,7 +2,7 @@ name: Update Job Listings
 
 on:
   schedule:
-    - cron: '18 9 * * *'  # Daily at 9:18 AM UTC
+    - cron: '5 9 * * *'   # Daily at 9:05 AM UTC (~13 min GH Actions drift → lands ~9:18)
   workflow_dispatch: {}    # Manual trigger
 
 jobs:
