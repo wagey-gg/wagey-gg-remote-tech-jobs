@@ -365258,27 +365258,6 @@
     "visibility": "full"
   },
   {
-    "id": "95b72f1dcb826d0f",
-    "title": "Optical Engineering Manager",
-    "company": "comind",
-    "region": "EMEA",
-    "salary": "$28k/year",
-    "salaryMin": 27525,
-    "salaryMax": 27525,
-    "skills": [
-      "Team Management",
-      "Supplier Management",
-      "Assembly",
-      "Documentation"
-    ],
-    "seniority": "staff",
-    "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:59:45.270Z",
-    "scrapedAt": "2026-06-22T10:51:28.041Z",
-    "url": "https://wagey.gg/jobs/95b72f1dcb826d0f-optical-engineering-manager-at-comind?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "82552ae758a85b9c",
     "title": "Corporate Finance & Strategy Analyst",
     "company": "pavebank",
@@ -670553,33 +670532,6 @@
     "verifiedAt": "2026-07-31T18:23:18.045Z",
     "scrapedAt": "2026-07-31T18:23:13.276Z",
     "url": "https://wagey.gg/jobs/3353afd9e6558931-account-executive-majors-at-zscaler?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "051b47e214966288",
-    "title": "Senior Manager FP&A",
-    "company": "Tripadvisor",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Product Marketing",
-      "Learning & Development",
-      "Workday",
-      "E-commerce",
-      "SQL",
-      "Financial Modeling",
-      "Python",
-      "Reporting",
-      "Procurement",
-      "Close"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-07-31T18:23:22.820Z",
-    "scrapedAt": "2026-07-31T18:23:15.635Z",
-    "url": "https://wagey.gg/jobs/051b47e214966288-senior-manager-fp-a-at-tripadvisor?ref=github",
     "visibility": "full"
   },
   {
