@@ -6,12 +6,12 @@
 
 | Region | Jobs | With Salary | Verified |
 |--------|------|-------------|----------|
-| [Remote Worldwide](#ww) | 661 | 204 | 661 |
-| [North America](#na) | 12,705 | 8,945 | 12,699 |
-| [Latin America](#latam) | 639 | 143 | 638 |
-| [Europe & Middle East](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) | 7,807 | 1,925 | 7,799 |
-| [Asia-Pacific](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs) | 2,626 | 297 | 2,626 |
-| **Total as of 6-Oct-2026 15:51 UTC** | **24,616** | **11,569** | **24,601** |
+| [Remote Worldwide](#ww) | 668 | 204 | 668 |
+| [North America](#na) | 12,761 | 9,007 | 12,760 |
+| [Latin America](#latam) | 660 | 144 | 660 |
+| [Europe & Middle East](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) | 7,841 | 1,924 | 7,841 |
+| [Asia-Pacific](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs) | 2,629 | 300 | 2,629 |
+| **Total as of 6-Oct-2026 23:05 UTC** | **24,735** | **11,633** | **24,734** |
 
 > Upload your CV at [wagey.gg](https://wagey.gg?ref=github) for smart matching and one-click apply.
 
@@ -24,69 +24,76 @@
 
 ## Other Regions
 
-- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 7,807 jobs
-- [**Asia-Pacific**](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs) — 2,626 jobs
+- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 7,841 jobs
+- [**Asia-Pacific**](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs) — 2,629 jobs
 
 ---
 
-## <a id="ww"></a>Remote Worldwide (661)
+## <a id="ww"></a>Remote Worldwide (668)
 
 True remote — no location restriction.
 
 | Company | Role | Salary USD | Age | |
 |---------|------|------------|-----|---|
-| ░░░░░░░░░ | Senior Business Development Manager -... <br><sub>🌐 Remote - International • WW</sub> | $1000k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | User Acquisition Manager <br><sub>🌐 Remote - Global, Remote • WW</sub> | $50k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior PPC Specialist <br><sub>🌐 Remote - Global, Remote • WW</sub> | $50k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Product Operations Manager <br><sub>🌐 Remote • WW</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Account Manager DACH (f/m/d) <br><sub>🌐 Remote • WW</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Adoption Strategist - ANZ  <br><sub>🌐 Remote • WW</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Principal Linux Security Engineer <br><sub>🌐 Remote • WW</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Compliance Analyst / Senior Complianc... <br><sub>🌐 Remote - APAC; EMEA; Remote Roles - • WW</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Software Engineer - Mission Sy... <br><sub>🌐 Remote • WW</sub> | $160k–$210k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Implementation Specialist <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Kubernetes Engineer (Mid–Senior) \| D... <br><sub>🌐 Remote • WW</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Tabletop Exercise (TTX) Specialist <br><sub>🌐 Remote - East Coast Region • WW</sub> | $100k–$135k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Junior Marketer <br><sub>🌐 Remote - – Anywhere • WW</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Field CISO <br><sub>🌐 Remote • WW</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Manager, IT & Security <br><sub>🌐 Remote - Anywhere • WW</sub> | $160k–$180k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Data and Analytics Engineer <br><sub>🌐 Remote - LATAM (Remote), US (Remote • WW</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Head of Business Development <br><sub>🌐 Remote • WW</sub> | $350k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Director, Medical Science Liaison (We... <br><sub>🌐 Remote • WW</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Partner Enablement Manager <br><sub>🌐 Remote • WW</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Principal Software Engineer - Query E... <br><sub>🌐 Remote - Anywhere • WW</sub> | $160k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Financial Controller - Heritage Fencing <br><sub>🌐 Remote - Anywhere • WW</sub> | $2000k+/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Freelance Product Designer (Fractional) <br><sub>🌐 Remote • WW</sub> | $100k–$120k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Sr. Data Architect, Databricks Champion <br><sub>🌐 Remote - LATAM (Remote), US (Remote • WW</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Salesforce Administrator <br><sub>🌐 Remote • WW</sub> | $75k–$85k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Account Associate <br><sub>🌐 Remote • WW</sub> | $80k–$90k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Flight Test Planning Specialist <br><sub>🌐 Remote - Anywhere • WW</sub> | $96k–$132k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Content Marketing Manager, Profession... <br><sub>🌐 Remote - 1 Remote • WW</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | National Sales Manager <br><sub>🌐 Remote - 1 Remote • WW</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Endpoint Agent – Senior Staff Softwar... <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Principal Engineer, Streaming Systems <br><sub>🌐 Remote • WW</sub> | $180k–$400k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Head of AI Native Operations <br><sub>🌐 Remote - Global • WW</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Data Scientist - Product Analytics <br><sub>🌐 Remote • WW</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Staff Product Manager: Product Discov... <br><sub>🌐 Remote • WW</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Iaș... <br><sub>🌐 Remote • WW</sub> | $30k–$80k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Content Lead  <br><sub>🌐 Remote • WW</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Product Engineer <br><sub>🌐 Remote • WW</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Manager, Social & Integrated C... <br><sub>🌐 Remote • WW</sub> | $130k–$145k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Energetics Facilities Engineer <br><sub>🌐 Remote • WW</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Sr Accountant <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Account Executive  <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Compensation Analyst <br><sub>🌐 Remote - Anywhere • WW</sub> | $150k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Endpoint Support Engineer <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Quality Match Specialist <br><sub>🌐 Remote - (UKR) • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Data Analyst, Business Intelli... <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Clinical Research Writer <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Scheduler <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Project Controls Manager <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Document Control Manager <br><sub>🌐 Remote • WW</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Account Director Nordics <br><sub>🌐 Remote - Nordics • WW</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Manual QA <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Credentialing Specialist <br><sub>🌐 Remote • WW</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Sr. Technical Program Manager, GTM Te... <br><sub>🌐 Remote • WW</sub> | $150k–$205k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Associate Project Manager, Innovation <br><sub>🌐 Remote • WW</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote • WW</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Analytics Manager <br><sub>🌐 Remote • WW</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Business Development Manager -... <br><sub>🌐 Remote - International • WW</sub> | $1000k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | User Acquisition Manager <br><sub>🌐 Remote - Global, Remote • WW</sub> | $50k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior PPC Specialist <br><sub>🌐 Remote - Global, Remote • WW</sub> | $50k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Product Operations Manager <br><sub>🌐 Remote • WW</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Account Manager DACH (f/m/d) <br><sub>🌐 Remote • WW</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Principal Linux Security Engineer <br><sub>🌐 Remote • WW</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Compliance Analyst / Senior Complianc... <br><sub>🌐 Remote - APAC; EMEA; Remote Roles - • WW</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Redhorse Corporation - Senior Softwar... <br><sub>🌐 Remote • WW</sub> | $160k–$210k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Kubernetes Engineer (Mid–Senior) \| D... <br><sub>🌐 Remote • WW</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Tabletop Exercise (TTX) Specialist <br><sub>🌐 Remote - East Coast Region • WW</sub> | $100k–$135k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Junior Marketer <br><sub>🌐 Remote - – Anywhere • WW</sub> | $50k–$60k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Manager, IT & Security <br><sub>🌐 Remote - Anywhere • WW</sub> | $160k–$180k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Data and Analytics Engineer <br><sub>🌐 Remote - LATAM (Remote), US (Remote • WW</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Head of Business Development <br><sub>🌐 Remote • WW</sub> | $350k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Kyverna Therapeutics - Director, Medi... <br><sub>🌐 Remote • WW</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Partner Enablement Manager <br><sub>🌐 Remote • WW</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Principal Software Engineer - Query E... <br><sub>🌐 Remote - Anywhere • WW</sub> | $160k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Freelance Product Designer (Fractional) <br><sub>🌐 Remote - Anywhere • WW</sub> | $100k–$120k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Sr. Data Architect, Databricks Champion <br><sub>🌐 Remote - LATAM (Remote), US (Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Salesforce Administrator <br><sub>🌐 Remote • WW</sub> | $75k–$85k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Account Associate <br><sub>🌐 Remote • WW</sub> | $80k–$90k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Flight Test Planning Specialist <br><sub>🌐 Remote - Anywhere • WW</sub> | $96k–$132k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | National Sales Manager <br><sub>🌐 Remote - 1 Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Endpoint Agent – Senior Staff Softwar... <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Head of AI Native Operations <br><sub>🌐 Remote - Global • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Data Scientist - Product Analytics <br><sub>🌐 Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Content Lead  <br><sub>🌐 Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Product Engineer <br><sub>🌐 Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Manager, Social & Integrated C... <br><sub>🌐 Remote • WW</sub> | $130k–$145k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░ | System Administrator (IT & Security O... <br><sub>🌐 Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Head of Production Test Engineering <br><sub>🌐 Remote - Global Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░ | Senior Fullstack Engineer, Tech Found... <br><sub>🌐 Remote - Anywhere • WW</sub> | $196k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░ | Head of Product Marketing & Growth <br><sub>🌐 Remote - Global - Remote • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░░ | Deployment Architect - Email & SMS / ... <br><sub>🌐 Remote • WW</sub> | $140k–$180k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░░ | Platform Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Software Engineer II <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Research Engineer <br><sub>🌐 Remote • WW</sub> | $600k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Fractional Founding Designer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=e16ddaf4f91df524" alt="" height="16"> Elastic | Software Engineer II <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 2d | [Apply](https://wagey.gg/jobs/3a4b06f4dec3cb42-software-engineer-ii-at-elastic?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=e1903ca6289a75b3" alt="" height="16"> AssemblyAI | Senior Research Engineer <br><sub>🌐 Remote • WW</sub> | $600k/year | 2d | [Apply](https://wagey.gg/jobs/9ac289afb0bdaa47-senior-research-engineer-at-assemblyai?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=a1ef5fad6301404a" alt="" height="16"> Clera | Fractional Founding Designer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 2d | [Apply](https://wagey.gg/jobs/adbaa24a442dea63-fractional-founding-designer-at-clera?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_7c3b3c7b98514081" alt="" height="16"> Railsware | Senior DevOps Engineer <br><sub>🌐 Remote • WW</sub> |  | 2d | [Apply](https://wagey.gg/jobs/262352bc2c9a459e-senior-devops-engineer-at-railsware?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_a7a0ec43907e2e2f" alt="" height="16"> higgsfieldai | Content Editor <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 2d | [Apply](https://wagey.gg/jobs/eac8ea972b8134f1-content-editor-at-higgsfieldai?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=e16ddaf4f91df524" alt="" height="16"> Elastic | Senior Java Engineer - Distributed Sy... <br><sub>🌐 Remote - Anywhere • WW</sub> | $133k/year | 2d | [Apply](https://wagey.gg/jobs/f5d4aa9b4e0dd8d3-senior-java-engineer-distributed-systems-serverless-at-elastic?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=9f3fda2fef6dda85" alt="" height="16"> Canonical | Enterprise Account Executive <br><sub>🌐 Remote - Home based - Worldwide • WW</sub> |  | 2d | [Apply](https://wagey.gg/jobs/59cd501ddea58fa2-enterprise-account-executive-at-canonical?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Keyfactor, Inc. | Team Lead, Customer Support <br><sub>🌐 Remote • WW</sub> |  | 2d | [Apply](https://wagey.gg/jobs/d30a73bd63ee208b-team-lead-customer-support-at-keyfactor-inc?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=e16ddaf4f91df524" alt="" height="16"> Elastic | Senior Java Engineer - Distributed Sy... <br><sub>🌐 Remote - Anywhere • WW</sub> | $133k/year | 3d | [Apply](https://wagey.gg/jobs/f5d4aa9b4e0dd8d3-senior-java-engineer-distributed-systems-serverless-at-elastic?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=9f3fda2fef6dda85" alt="" height="16"> Canonical | Enterprise Account Executive <br><sub>🌐 Remote - Home based - Worldwide • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/59cd501ddea58fa2-enterprise-account-executive-at-canonical?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Keyfactor, Inc. | Team Lead, Customer Support <br><sub>🌐 Remote • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/d30a73bd63ee208b-team-lead-customer-support-at-keyfactor-inc?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Ennoble Care | Director of Compliance (Remote) <br><sub>🌐 Remote • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/835979785c08611b-director-of-compliance-remote-at-ennoble-care?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Diana Health | Clinical Talent Scout (Q4 contractor) <br><sub>🌐 Remote • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/8819963071407ab6-clinical-talent-scout-q4-contractor-at-diana-health?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_765c61ae5c8f4fb6" alt="" height="16"> cgsfederal | Contact Government Services, LLC - eD... <br><sub>🌐 Remote • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/e86293fb1f82dde8-contact-government-services-llc-ediscovery-deputy-program-manager-at-cgsfederal?ref=github) |
@@ -322,10 +329,10 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> G2i Inc. | DevOps Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/b69a151e045d13f7-devops-engineer-at-g2i-inc?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Anduril Industries | Senior Supplier Industrialization Eng... <br><sub>🌐 Remote • WW</sub> |  | 3d | [Apply](https://wagey.gg/jobs/3c8622009ffda105-senior-supplier-industrialization-engineer-electromagnetic-warfare-at-anduril-in?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_502ae9496e7d4bdd" alt="" height="16"> RigUp | Lead, Accounts Receivable Operations <br><sub>🌐 Remote • WW</sub> |  | 66d | [Apply](https://wagey.gg/jobs/44a0825b0a62ebb7-lead-accounts-receivable-operations-at-rigup?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> New Era Technology | Scrum Master <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 66d | [Apply](https://wagey.gg/jobs/55ad22ea44382ae5-scrum-master-at-new-era-technology?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> New Era Technology | Junior Developer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 66d | [Apply](https://wagey.gg/jobs/bc31650e0fdd0030-junior-developer-at-new-era-technology?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=413c94bd1126c0b7" alt="" height="16"> Glydways |  Software Engineer (Safety & Certific... <br><sub>🌐 Remote • WW</sub> |  | 66d | [Apply](https://wagey.gg/jobs/6cd49eaa1f18b548-software-engineer-safety-certification-tooling-at-glydways?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c1447df97279246f" alt="" height="16"> Ubiminds | Ubiminds - Senior AI Software Archite... <br><sub>🌐 Remote • WW</sub> |  | 66d | [Apply](https://wagey.gg/jobs/8b20449c99b9c725-ubiminds-senior-ai-software-architect-553-at-ubiminds?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> New Era Technology | Scrum Master <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 67d | [Apply](https://wagey.gg/jobs/55ad22ea44382ae5-scrum-master-at-new-era-technology?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> New Era Technology | Junior Developer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 67d | [Apply](https://wagey.gg/jobs/bc31650e0fdd0030-junior-developer-at-new-era-technology?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=413c94bd1126c0b7" alt="" height="16"> Glydways |  Software Engineer (Safety & Certific... <br><sub>🌐 Remote • WW</sub> |  | 67d | [Apply](https://wagey.gg/jobs/6cd49eaa1f18b548-software-engineer-safety-certification-tooling-at-glydways?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c1447df97279246f" alt="" height="16"> Ubiminds | Ubiminds - Senior AI Software Archite... <br><sub>🌐 Remote • WW</sub> |  | 67d | [Apply](https://wagey.gg/jobs/8b20449c99b9c725-ubiminds-senior-ai-software-architect-553-at-ubiminds?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_faf163a02ae36646" alt="" height="16"> foxelligroup |  Klaviyo Email Marketing Specialist\|... <br><sub>🌐 Remote - UTC+2 • WW</sub> |  | 67d | [Apply](https://wagey.gg/jobs/7a7945aa2de54d6f-klaviyo-email-marketing-specialist-dtc-e-commerce-100-remote-eu-at-foxelligroup?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=cb67ea9fb501b165" alt="" height="16"> Kyivstar | Kyivstar - Product Manager, Big Data ... <br><sub>🌐 Remote - All • WW</sub> |  | 67d | [Apply](https://wagey.gg/jobs/692fc2cb03d4b209-kyivstar-product-manager-big-data-ai-solutions-at-kyivstar?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=28cc693e7df3b7e4" alt="" height="16"> BestEgg | Best Egg - Associate Product Operatio... <br><sub>🌐 Remote - / Flexible • WW</sub> |  | 68d | [Apply](https://wagey.gg/jobs/e26ab142698c2b25-best-egg-associate-product-operations-manager-at-bestegg?ref=github) |
@@ -334,12 +341,12 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=413c94bd1126c0b7" alt="" height="16"> Glydways | Product Design / Studio Engineer <br><sub>🌐 Remote • WW</sub> |  | 68d | [Apply](https://wagey.gg/jobs/2e5a58240549ca46-product-design-studio-engineer-at-glydways?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> happy-sleep | Product Designer II <br><sub>🌐 Remote • WW</sub> |  | 68d | [Apply](https://wagey.gg/jobs/7978091462091c85-product-designer-ii-at-happy-sleep?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tiberius Aerospace Inc. | Tiberius Aerospace Inc. <br><sub>🌐 Remote • WW</sub> |  | 68d | [Apply](https://wagey.gg/jobs/a41065eb8a728654-tiberius-aerospace-inc-at-tiberius-aerospace-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=28cc693e7df3b7e4" alt="" height="16"> BestEgg | Best Egg - Senior Product Manager <br><sub>🌐 Remote - / Flexible • WW</sub> |  | 68d | [Apply](https://wagey.gg/jobs/9b82ca1f645fe5be-best-egg-senior-product-manager-at-bestegg?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=28cc693e7df3b7e4" alt="" height="16"> BestEgg | Best Egg - Senior Product Manager <br><sub>🌐 Remote - / Flexible • WW</sub> |  | 69d | [Apply](https://wagey.gg/jobs/9b82ca1f645fe5be-best-egg-senior-product-manager-at-bestegg?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=80453ddfaa9c8aaa" alt="" height="16"> SKELAR | Creative Marketing Manager - Liven <br><sub>🌐 Remote - Global, Remote • WW</sub> |  | 69d | [Apply](https://wagey.gg/jobs/c7cf790797d9f1b4-creative-marketing-manager-liven-at-skelar?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9f3fda2fef6dda85" alt="" height="16"> Canonical | Regional SDR Director <br><sub>🌐 Remote - Home Based - Americas; Hom • WW</sub> |  | 69d | [Apply](https://wagey.gg/jobs/251b1b5a424076fa-regional-sdr-director-at-canonical?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Design Engineer  <br><sub>🌐 Remote - Global • WW</sub> |  | 69d | [Apply](https://wagey.gg/jobs/d37463d51f4509f7-design-engineer-at-trust-wallet?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Garner Health | Senior Strategic Accounts Manager (Sm... <br><sub>🌐 Remote • WW</sub> | $140k–$165k/year | 69d | [Apply](https://wagey.gg/jobs/75ca460e969a2a83-senior-strategic-accounts-manager-small-market-at-garner-health?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Senior Mobile Engineer (React Native) <br><sub>🌐 Remote - Global • WW</sub> |  | 69d | [Apply](https://wagey.gg/jobs/56a08291a51d84bc-senior-mobile-engineer-react-native-at-trust-wallet?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Senior Mobile Engineer (React Native) <br><sub>🌐 Remote - Global • WW</sub> |  | 70d | [Apply](https://wagey.gg/jobs/56a08291a51d84bc-senior-mobile-engineer-react-native-at-trust-wallet?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=1c3a260359cb9280" alt="" height="16"> oplabs | Senior Software Engineer, Protocol (R... <br><sub>🌐 Remote (Global) - Hybrid • WW</sub> | $237k–$299k/year | 70d | [Apply](https://wagey.gg/jobs/002b04746c5d4b0c-senior-software-engineer-protocol-rust-at-oplabs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=30424453e285515b" alt="" height="16"> supabase | Performance Engineer - Benchmarking <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 70d | [Apply](https://wagey.gg/jobs/a5cd600ccf984268-performance-engineer-benchmarking-at-supabase?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=30424453e285515b" alt="" height="16"> supabase | Performance Engineer - Performance An... <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 70d | [Apply](https://wagey.gg/jobs/a4984aa2313c3b75-performance-engineer-performance-analysis-tuning-at-supabase?ref=github) |
@@ -348,15 +355,15 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_553b1674d3b7a7e9" alt="" height="16"> GoFundMe | Manager, Compensation <br><sub>🌐 Remote • WW</sub> | $143k–$214k/year | 70d | [Apply](https://wagey.gg/jobs/b596a64634713842-manager-compensation-at-gofundme?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> EQT Corporation | STAQ Director  <br><sub>🌐 Remote • WW</sub> |  | 70d | [Apply](https://wagey.gg/jobs/392dff4a33fe62b5-staq-director-at-eqt-corporation?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=b0fb8a932d0ec75b" alt="" height="16"> superside | Superside - Lead Creative Strategist ... <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 70d | [Apply](https://wagey.gg/jobs/5406a37b3f360e5e-superside-lead-creative-strategist-performance-marketing-at-superside?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_dc94134efb623d12" alt="" height="16"> distru | Distru - Senior AI Product Engineer <br><sub>🌐 Remote - Worldwide • WW</sub> |  | 70d | [Apply](https://wagey.gg/jobs/a76af3c1dc547467-distru-senior-ai-product-engineer-at-distru?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_dc94134efb623d12" alt="" height="16"> distru | Distru - Senior AI Product Engineer <br><sub>🌐 Remote - Worldwide • WW</sub> |  | 71d | [Apply](https://wagey.gg/jobs/a76af3c1dc547467-distru-senior-ai-product-engineer-at-distru?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=30424453e285515b" alt="" height="16"> supabase | Release Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 71d | [Apply](https://wagey.gg/jobs/f65ab437a87d94ee-release-engineer-at-supabase?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_31c78e01393f1c12" alt="" height="16"> sprymethods | Spry Methods - Senior Systems Adminis... <br><sub>🌐 Remote • WW</sub> |  | 71d | [Apply](https://wagey.gg/jobs/0bac488be7fe4c56-spry-methods-senior-systems-administrator-data-platform-sme-at-sprymethods?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_aafd0b130058113d" alt="" height="16"> neuroscale | Founding SDR <br><sub>🌐 Remote • WW</sub> |  | 71d | [Apply](https://wagey.gg/jobs/4c09c5ca2a73cb50-founding-sdr-at-neuroscale?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c1447df97279246f" alt="" height="16"> Ubiminds | Ubiminds - Join our Talent Community <br><sub>🌐 Remote • WW</sub> |  | 73d | [Apply](https://wagey.gg/jobs/4f5e11f214808c4b-ubiminds-join-our-talent-community-at-ubiminds?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=e88d2fcd1e6d33ee" alt="" height="16"> AIFund | career - Enterprise Account Executive... <br><sub>🌐 Remote • WW</sub> |  | 73d | [Apply](https://wagey.gg/jobs/738c2c51ee1a93c0-career-enterprise-account-executive-ai-for-industrial-safety-at-aifund?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=6cfe61694ee1bb13" alt="" height="16"> Found | Sr. Pharmacy Operations Manager <br><sub>🌐 Remote • WW</sub> |  | 75d | [Apply](https://wagey.gg/jobs/ea1692b26fd3e172-sr-pharmacy-operations-manager-at-found?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Zoomget | Director of Growth Marketing - Amazon... <br><sub>🌐 Remote • WW</sub> | $150k–$180k/year | 75d | [Apply](https://wagey.gg/jobs/e74e136bb4248d23-director-of-growth-marketing-amazon-and-ecommerce-marketplaces-at-zoomget?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> istaridigital.ai | Deployment Strategist <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 75d | [Apply](https://wagey.gg/jobs/5b44182179aeb543-deployment-strategist-at-istaridigital-ai?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c1447df97279246f" alt="" height="16"> Ubiminds | Ubiminds - Join our Talent Community <br><sub>🌐 Remote • WW</sub> |  | 74d | [Apply](https://wagey.gg/jobs/4f5e11f214808c4b-ubiminds-join-our-talent-community-at-ubiminds?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=e88d2fcd1e6d33ee" alt="" height="16"> AIFund | career - Enterprise Account Executive... <br><sub>🌐 Remote • WW</sub> |  | 74d | [Apply](https://wagey.gg/jobs/738c2c51ee1a93c0-career-enterprise-account-executive-ai-for-industrial-safety-at-aifund?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=6cfe61694ee1bb13" alt="" height="16"> Found | Sr. Pharmacy Operations Manager <br><sub>🌐 Remote • WW</sub> |  | 76d | [Apply](https://wagey.gg/jobs/ea1692b26fd3e172-sr-pharmacy-operations-manager-at-found?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Zoomget | Director of Growth Marketing - Amazon... <br><sub>🌐 Remote • WW</sub> | $150k–$180k/year | 76d | [Apply](https://wagey.gg/jobs/e74e136bb4248d23-director-of-growth-marketing-amazon-and-ecommerce-marketplaces-at-zoomget?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> istaridigital.ai | Deployment Strategist <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 76d | [Apply](https://wagey.gg/jobs/5b44182179aeb543-deployment-strategist-at-istaridigital-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_21da4b1ac6df9f30" alt="" height="16"> artemis | Technology Alliances Manager <br><sub>🌐 Remote • WW</sub> |  | 76d | [Apply](https://wagey.gg/jobs/2599adecab61f71c-technology-alliances-manager-at-artemis?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> glacis-ai | Senior Account Executive (Enterprise) <br><sub>🌐 Remote • WW</sub> | $75k/year | 76d | [Apply](https://wagey.gg/jobs/680538ee6ad67511-senior-account-executive-enterprise-at-glacis-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=02558a70324e7c4f" alt="" height="16"> Alan | Psychothérapeute - Québec <br><sub>🌐 Remote • WW</sub> |  | 76d | [Apply](https://wagey.gg/jobs/0eac00dc5ed409bb-psychoth-rapeute-qu-bec-at-alan?ref=github) |
@@ -403,10 +410,10 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_c7c3496b449c4d50" alt="" height="16"> Listen Labs | Sales Recruiter (Contractor) <br><sub>🌐 Remote • WW</sub> |  | 89d | [Apply](https://wagey.gg/jobs/b21433ffe84a18b8-sales-recruiter-contractor-at-listen-labs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_12fbd7e656ebec04" alt="" height="16"> Reactivate | Development Manager <br><sub>🌐 Remote - Anywhere • WW</sub> | $120k–$135k/year | 89d | [Apply](https://wagey.gg/jobs/4baab273c739576e-development-manager-at-reactivate?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> RapidFort, Inc. | Director of Sales Operations  <br><sub>🌐 Remote • WW</sub> | $160k–$180k/year | 89d | [Apply](https://wagey.gg/jobs/6ae244ad22c859b2-director-of-sales-operations-at-rapidfort-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=66548accc78c6b91" alt="" height="16"> offchainlabs | Offchain - Senior Software Engineer, ... <br><sub>🌐 Remote • WW</sub> |  | 90d | [Apply](https://wagey.gg/jobs/435ee27518dda354-offchain-senior-software-engineer-developer-platform-at-offchainlabs?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> HSP Group | Senior Global Service Associate - Leg... <br><sub>🌐 Remote - Hungary - Remote • WW</sub> |  | 90d | [Apply](https://wagey.gg/jobs/6d091aca58b8100c-senior-global-service-associate-legal-entity-management-at-hsp-group?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=9241c490986071fe" alt="" height="16"> truv | Community Manager <br><sub>🌐 Remote • WW</sub> |  | 90d | [Apply](https://wagey.gg/jobs/550a980b5f7c9629-community-manager-at-truv?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Senior Product Manager <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 91d | [Apply](https://wagey.gg/jobs/c48fe3d2a6c963e2-senior-product-manager-at-elasticelastic-logo?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=66548accc78c6b91" alt="" height="16"> offchainlabs | Offchain - Senior Software Engineer, ... <br><sub>🌐 Remote • WW</sub> |  | 91d | [Apply](https://wagey.gg/jobs/435ee27518dda354-offchain-senior-software-engineer-developer-platform-at-offchainlabs?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> HSP Group | Senior Global Service Associate - Leg... <br><sub>🌐 Remote - Hungary - Remote • WW</sub> |  | 91d | [Apply](https://wagey.gg/jobs/6d091aca58b8100c-senior-global-service-associate-legal-entity-management-at-hsp-group?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=9241c490986071fe" alt="" height="16"> truv | Community Manager <br><sub>🌐 Remote • WW</sub> |  | 91d | [Apply](https://wagey.gg/jobs/550a980b5f7c9629-community-manager-at-truv?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Senior Product Manager <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 92d | [Apply](https://wagey.gg/jobs/c48fe3d2a6c963e2-senior-product-manager-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Software Engineer II - Full Stack <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 94d | [Apply](https://wagey.gg/jobs/1364bca7c467221b-software-engineer-ii-full-stack-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="16"> Binance | Growth Campaign Manager <br><sub>🌐 Remote - CIS Region / Global • WW</sub> |  | 96d | [Apply](https://wagey.gg/jobs/016f4d34f241d81c-growth-campaign-manager-at-binance?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="16"> Binance | Binance - Senior Growth Manager <br><sub>🌐 Remote - CIS Region / Global • WW</sub> |  | 96d | [Apply](https://wagey.gg/jobs/357530f95c87b621-binance-senior-growth-manager-at-binance?ref=github) |
@@ -419,21 +426,21 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_5636ab44b85392c4" alt="" height="16"> soniresources | Soni - Business Development Director ... <br><sub>🌐 Remote • WW</sub> |  | 103d | [Apply](https://wagey.gg/jobs/12c16cb83d3fcfb1-soni-business-development-director-national-accounting-finance-practice-at-sonir?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Senior Product Marketing Manager <br><sub>🌐 WW</sub> |  | 103d | [Apply](https://wagey.gg/jobs/3ae29642df3454d8-senior-product-marketing-manager-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_a08d04c8309fb4ae" alt="" height="16"> Finyard | Market Analyst <br><sub>🌐 Remote • WW</sub> |  | 103d | [Apply](https://wagey.gg/jobs/d9f70fd8e6010e29-market-analyst-at-finyard?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Join Our Engineering Talent Network <br><sub>🌐 Remote - Global • WW</sub> |  | 103d | [Apply](https://wagey.gg/jobs/0677e720ff97a081-join-our-engineering-talent-network-at-trust-wallet?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Join Our Engineering Talent Network <br><sub>🌐 Remote - Global • WW</sub> |  | 104d | [Apply](https://wagey.gg/jobs/0677e720ff97a081-join-our-engineering-talent-network-at-trust-wallet?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=3c7816184fcf2e12" alt="" height="16"> Horizen Labs | Join Our Talent Pool <br><sub>🌐 Remote - Global • WW</sub> |  | 104d | [Apply](https://wagey.gg/jobs/2322dc9cb9aa136f-join-our-talent-pool-at-horizen-labs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_baa973f0c63f54a9" alt="" height="16"> macroscopic | Future Opportunities @ Macroscopic Ve... <br><sub>🌐 Remote • WW</sub> |  | 104d | [Apply](https://wagey.gg/jobs/0db4952a57caeab3-future-opportunities-macroscopic-ventures-at-macroscopic?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_3511453b1c071816" alt="" height="16"> capsule | GTM Operations Analyst (Contractor) <br><sub>🌐 Remote • WW</sub> |  | 104d | [Apply](https://wagey.gg/jobs/54d71ceee1f8345a-gtm-operations-analyst-contractor-at-capsule?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Consulting Architect <br><sub>🌐 WW</sub> |  | 104d | [Apply](https://wagey.gg/jobs/d033ad031322276d-consulting-architect-at-elasticelastic-logo?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Consulting Architect <br><sub>🌐 WW</sub> |  | 105d | [Apply](https://wagey.gg/jobs/d033ad031322276d-consulting-architect-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=413c94bd1126c0b7" alt="" height="16"> Glydways | Data Platform Engineering Lead <br><sub>🌐 Remote • WW</sub> |  | 105d | [Apply](https://wagey.gg/jobs/15949772fa199355-data-platform-engineering-lead-at-glydways?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=1a5f457594c77e82" alt="" height="16"> Sezzle | Senior Payments Engineer — Acquiring ... <br><sub>🌐 Remote - Türkiye, Remote • WW</sub> | $60k–$114k/year | 105d | [Apply](https://wagey.gg/jobs/bce9e434c215c37d-senior-payments-engineer-acquiring-payment-processing-at-sezzle?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_6eacd0055020106d" alt="" height="16"> nextgenfed | NextGen Federal Systems - Senior Soft... <br><sub>🌐 Remote • WW</sub> |  | 105d | [Apply](https://wagey.gg/jobs/97167757cb5b6098-nextgen-federal-systems-senior-software-engineer-at-nextgenfed?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=25bcc31450e1f5a9" alt="" height="16"> Hometap | Underwriter <br><sub>🌐 Remote • WW</sub> | $75k/year | 105d | [Apply](https://wagey.gg/jobs/2c8e2f66ba7618e6-underwriter-at-hometap?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=25bcc31450e1f5a9" alt="" height="16"> Hometap | Underwriter <br><sub>🌐 Remote • WW</sub> | $75k/year | 106d | [Apply](https://wagey.gg/jobs/2c8e2f66ba7618e6-underwriter-at-hometap?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9158c72baba2f116" alt="" height="16"> Enveritas | Fellowship - Impact <br><sub>🌐 Remote - Global - Remote Work • WW</sub> |  | 106d | [Apply](https://wagey.gg/jobs/f555349d2ea0636c-fellowship-impact-at-enveritas?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=30424453e285515b" alt="" height="16"> supabase | Engineering Manager <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 106d | [Apply](https://wagey.gg/jobs/adec51c959b33245-engineering-manager-at-supabase?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_3e7b5617e6d48e76" alt="" height="16"> Ritual | New here? Subscribe and mute notifica... <br><sub>🌐 Remote • WW</sub> |  | 106d | [Apply](https://wagey.gg/jobs/ac213b8c014f26a0-new-here-subscribe-and-mute-notifications-to-avoid-noise-at-ritual?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Loka, Inc | DevOps Lead <br><sub>🌐 Remote - North Macedonia • WW</sub> |  | 108d | [Apply](https://wagey.gg/jobs/1d8d30199753de2d-devops-lead-at-loka-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Fraud Intelligence Lead <br><sub>🌐 WW</sub> | $125k/year | 108d | [Apply](https://wagey.gg/jobs/726057e5db8202a5-fraud-intelligence-lead-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Senior Software Engineer <br><sub>🌐 WW</sub> | $160k/year | 108d | [Apply](https://wagey.gg/jobs/b7ac683c76e9ff48-senior-software-engineer-at-elasticelastic-logo?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Fraud Intelligence Lead <br><sub>🌐 WW</sub> | $125k/year | 109d | [Apply](https://wagey.gg/jobs/726057e5db8202a5-fraud-intelligence-lead-at-airbnb?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Senior Software Engineer <br><sub>🌐 WW</sub> | $160k/year | 109d | [Apply](https://wagey.gg/jobs/b7ac683c76e9ff48-senior-software-engineer-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | Entefy - Senior Data Scientist <br><sub>🌐 Remote • WW</sub> |  | 109d | [Apply](https://wagey.gg/jobs/7e783efc8a336262-entefy-senior-data-scientist-at-entefy?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Principal Product Manager Infrastruct... <br><sub>🌐 Remote - Anywhere • WW</sub> | $160k/year | 109d | [Apply](https://wagey.gg/jobs/5013fab006150bf0-principal-product-manager-infrastructure-observability-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Principal Software Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> | $160k/year | 109d | [Apply](https://wagey.gg/jobs/fa52561d76b9c289-principal-software-engineer-at-elasticelastic-logo?ref=github) |
@@ -445,19 +452,19 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> molecule.xyz | Paralegal <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/9e236f90d4099943-paralegal-at-molecule-xyz?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_e29304b96e8afb02" alt="" height="16"> aghanim | Senior Marketing Designer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/4d8ecc39ec4d79d4-senior-marketing-designer-at-aghanim?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_faf163a02ae36646" alt="" height="16"> foxelligroup | Customer Support & Sales Agent ( Quil... <br><sub>🌐 Remote - UTC+2 • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/8f8827b95b5b0ce3-customer-support-sales-agent-quilting-specialist-e-commerce-remote-at-foxelligro?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=5baa6ecf3ba0bb71" alt="" height="16"> JetBrains | Head of B2B Marketing <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/65bfc068645a32d4-head-of-b2b-marketing-at-jetbrains?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Definium Therapeutics | Senior MSL - East(Multiple Territories) <br><sub>🌐 Remote • WW</sub> | $226k–$255k/year | 110d | [Apply](https://wagey.gg/jobs/0bc8edf24ff166b0-senior-msl-east-multiple-territories-at-definium-therapeutics?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Article Group | Freelance Senior Presentation Designe... <br><sub>🌐 Remote • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/15932c31a66c7020-freelance-senior-presentation-designer-keynotes-events-contract-at-article-group?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Article Group | Freelance Associate Creative Director... <br><sub>🌐 Remote • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/3cdbab61669b2716-freelance-associate-creative-director-design-keynotes-events-contract-at-article?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=62add1569b667259" alt="" height="16"> peoplegrove | PeopleGrove - Product Operations Manager <br><sub>🌐 Remote • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/eea6f5f133c5db6b-peoplegrove-product-operations-manager-at-peoplegrove?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=b5c73e740a06fedb" alt="" height="16"> pathpoint | Pathpoint - Join our Talent Community <br><sub>🌐 Remote • WW</sub> |  | 110d | [Apply](https://wagey.gg/jobs/e9f3a5498a810890-pathpoint-join-our-talent-community-at-pathpoint?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=5baa6ecf3ba0bb71" alt="" height="16"> JetBrains | Head of B2B Marketing <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/65bfc068645a32d4-head-of-b2b-marketing-at-jetbrains?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Definium Therapeutics | Senior MSL - East(Multiple Territories) <br><sub>🌐 Remote • WW</sub> | $226k–$255k/year | 111d | [Apply](https://wagey.gg/jobs/0bc8edf24ff166b0-senior-msl-east-multiple-territories-at-definium-therapeutics?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Article Group | Freelance Senior Presentation Designe... <br><sub>🌐 Remote • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/15932c31a66c7020-freelance-senior-presentation-designer-keynotes-events-contract-at-article-group?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Article Group | Freelance Associate Creative Director... <br><sub>🌐 Remote • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/3cdbab61669b2716-freelance-associate-creative-director-design-keynotes-events-contract-at-article?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=62add1569b667259" alt="" height="16"> peoplegrove | PeopleGrove - Product Operations Manager <br><sub>🌐 Remote • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/eea6f5f133c5db6b-peoplegrove-product-operations-manager-at-peoplegrove?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=b5c73e740a06fedb" alt="" height="16"> pathpoint | Pathpoint - Join our Talent Community <br><sub>🌐 Remote • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/e9f3a5498a810890-pathpoint-join-our-talent-community-at-pathpoint?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=5f4d7c3215edf1da" alt="" height="16"> VRChat | Senior People Generalist at VRChat <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/96ef188a538cf227-senior-people-generalist-at-vrchat-at-vrchat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=5f4d7c3215edf1da" alt="" height="16"> VRChat | VRChat - Senior Data Scientist <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/c5824c638a0ddaa9-vrchat-senior-data-scientist-at-vrchat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Principal Product Manager, AI agents <br><sub>🌐 WW</sub> | $162k/year | 111d | [Apply](https://wagey.gg/jobs/202d3bf54681b1bb-principal-product-manager-ai-agents-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Principal Data Scientist <br><sub>🌐 WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/286f2c935b2ce90e-principal-data-scientist-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=62add1569b667259" alt="" height="16"> PeopleGrove | PeopleGrove - Lead Product Manager <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 111d | [Apply](https://wagey.gg/jobs/862c505714aebfb9-peoplegrove-lead-product-manager-at-peoplegrove?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=14dd24ea5da8b924" alt="" height="16"> doxel | Doxel - Director, GTM Enablement & Tr... <br><sub>🌐 Remote • WW</sub> |  | 117d | [Apply](https://wagey.gg/jobs/ab69c8ce8bba2f60-doxel-director-gtm-enablement-training-at-doxel?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> kairos-project | General Expression of Interest (EOI) <br><sub>🌐 Remote • WW</sub> | $1400k/year | 118d | [Apply](https://wagey.gg/jobs/134eda74991e18e0-general-expression-of-interest-eoi-at-kairos-project?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=14dd24ea5da8b924" alt="" height="16"> doxel | Doxel - Director, GTM Enablement & Tr... <br><sub>🌐 Remote • WW</sub> |  | 118d | [Apply](https://wagey.gg/jobs/ab69c8ce8bba2f60-doxel-director-gtm-enablement-training-at-doxel?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> kairos-project | General Expression of Interest (EOI) <br><sub>🌐 Remote • WW</sub> | $1400k/year | 119d | [Apply](https://wagey.gg/jobs/134eda74991e18e0-general-expression-of-interest-eoi-at-kairos-project?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2afd410e2e5b23da" alt="" height="16"> B12 | Marketing Manager <br><sub>🌐 Remote • WW</sub> |  | 122d | [Apply](https://wagey.gg/jobs/a073a97884cd4d68-marketing-manager-at-b12?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_3a5669c7794ae33a" alt="" height="16"> GFiber | Future Opportunities with Engineering... <br><sub>🌐 WW</sub> |  | 123d | [Apply](https://wagey.gg/jobs/006ec3afec7c7817-future-opportunities-with-engineering-technology-at-gfiber?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_cedf732972a64f20" alt="" height="16"> Pushpay | Software Development Engineer 3, Nurture <br><sub>🌐 Remote • WW</sub> | $104k–$115k/year | 123d | [Apply](https://wagey.gg/jobs/3a41c163334ddecb-software-development-engineer-3-nurture-at-pushpay?ref=github) |
@@ -471,29 +478,29 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Software Engineer II - Full Stack <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 128d | [Apply](https://wagey.gg/jobs/a675d1a128930a96-software-engineer-ii-full-stack-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=704acb5c2c61265f" alt="" height="16"> Anagram | Defi Researcher <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 129d | [Apply](https://wagey.gg/jobs/f2b1f475c055baa1-defi-researcher-at-anagram?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=25bcc31450e1f5a9" alt="" height="16"> Hometap | Tax Manager <br><sub>🌐 Remote - Anywhere • WW</sub> | $130k–$145k/year | 129d | [Apply](https://wagey.gg/jobs/7d54a6f9bf215048-tax-manager-at-hometap?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=07aeb755d97ee1e2" alt="" height="16"> heartbeathealth | Heartbeat Health - VP, Business Devel... <br><sub>🌐 Remote • WW</sub> |  | 131d | [Apply](https://wagey.gg/jobs/6441658cc8f4f980-heartbeat-health-vp-business-development-risk-bearing-provider-groups-at-heartbe?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=07aeb755d97ee1e2" alt="" height="16"> heartbeathealth | Heartbeat Health - VP, Business Devel... <br><sub>🌐 Remote • WW</sub> |  | 132d | [Apply](https://wagey.gg/jobs/6441658cc8f4f980-heartbeat-health-vp-business-development-risk-bearing-provider-groups-at-heartbe?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Principal, Marketing Strategic... <br><sub>🌐 Remote - Anywhere • WW</sub> | $204k/year | 132d | [Apply](https://wagey.gg/jobs/2fef761ec2ccf629-senior-principal-marketing-strategic-finance-analytics-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Principal AI/ML Researcher / Engineer... <br><sub>🌐 WW</sub> |  | 132d | [Apply](https://wagey.gg/jobs/dd6e4845bdbfb221-principal-ai-ml-researcher-engineer-in-bayesian-large-foundational-systems-and-d?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_bedc8cfcc5b644c2" alt="" height="16"> paralleldomain | Parallel Domain - Technical Account D... <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 132d | [Apply](https://wagey.gg/jobs/55a0582840fba17b-parallel-domain-technical-account-director-automotive-at-paralleldomain?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Principal AI/ML Researcher / Engineer... <br><sub>🌐 WW</sub> |  | 133d | [Apply](https://wagey.gg/jobs/dd6e4845bdbfb221-principal-ai-ml-researcher-engineer-in-bayesian-large-foundational-systems-and-d?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_bedc8cfcc5b644c2" alt="" height="16"> paralleldomain | Parallel Domain - Technical Account D... <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 133d | [Apply](https://wagey.gg/jobs/55a0582840fba17b-parallel-domain-technical-account-director-automotive-at-paralleldomain?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Principal Machine Learning Engineer- ... <br><sub>🌐 Remote • WW</sub> | $292k/year | 133d | [Apply](https://wagey.gg/jobs/e19ba1eebf5fb2d0-principal-machine-learning-engineer-llm-fine-tuning-and-optimization-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Software Engineer, Quality Pla... <br><sub>🌐 WW</sub> | $191k/year | 133d | [Apply](https://wagey.gg/jobs/daf4bfddb568a7dc-senior-software-engineer-quality-platform-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Data Scientist - Inference, Gl... <br><sub>🌐 WW</sub> |  | 133d | [Apply](https://wagey.gg/jobs/62145511c4d3c7af-senior-data-scientist-inference-global-markets-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Future of Life Organizati | Future of Life Organizations - AI Saf... <br><sub>🌐 Remote • WW</sub> | $160k–$210k/year | 134d | [Apply](https://wagey.gg/jobs/fc34b3acf7256a17-future-of-life-organizations-ai-safety-argumentation-platform-research-engineer-?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Software Engineer, Quality Pla... <br><sub>🌐 WW</sub> | $191k/year | 134d | [Apply](https://wagey.gg/jobs/daf4bfddb568a7dc-senior-software-engineer-quality-platform-at-airbnb?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Data Scientist - Inference, Gl... <br><sub>🌐 WW</sub> |  | 134d | [Apply](https://wagey.gg/jobs/62145511c4d3c7af-senior-data-scientist-inference-global-markets-at-airbnb?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Future of Life Organizati | Future of Life Organizations - AI Saf... <br><sub>🌐 Remote • WW</sub> | $160k–$210k/year | 135d | [Apply](https://wagey.gg/jobs/fc34b3acf7256a17-future-of-life-organizations-ai-safety-argumentation-platform-research-engineer-?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Connectivity Partner Lead <br><sub>🌐 Remote - Anywhere • WW</sub> | $196k/year | 135d | [Apply](https://wagey.gg/jobs/21c771aa875f5704-senior-connectivity-partner-lead-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=99a4707ae54c4b52" alt="" height="16"> Fueled | Senior Full Stack Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 136d | [Apply](https://wagey.gg/jobs/204f9f5fba868b23-senior-full-stack-engineer-at-fueled?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Cadence Solutions | Senior Product Manager <br><sub>🌐 Remote • WW</sub> | $200k–$240k/year | 136d | [Apply](https://wagey.gg/jobs/86d1f3e7505cf812-senior-product-manager-at-cadence-solutions?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief Operating ... <br><sub>🌐 Remote • WW</sub> |  | 137d | [Apply](https://wagey.gg/jobs/d9b67442fcc68579-arootah-fractional-chief-operating-officer-advisor-network-opportunity-overview-?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief Financial ... <br><sub>🌐 Remote • WW</sub> |  | 137d | [Apply](https://wagey.gg/jobs/550f4d177ed52d1a-arootah-fractional-chief-financial-officer-head-of-finance-advisor-network-oppor?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief Compliance... <br><sub>🌐 Remote • WW</sub> |  | 137d | [Apply](https://wagey.gg/jobs/6b4d80c87ce22e65-arootah-fractional-chief-compliance-officer-advisor-network-opportunity-overview?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief AI Officer... <br><sub>🌐 Remote • WW</sub> |  | 137d | [Apply](https://wagey.gg/jobs/d18072b7119dcbf9-arootah-fractional-chief-ai-officer-ai-strategy-leader-advisor-network-at-aroota?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Arootah | Arootah - Fractional Chief Technology... <br><sub>🌐 Remote • WW</sub> | $520k–$780k/year | 137d | [Apply](https://wagey.gg/jobs/7df66f03a19756ac-arootah-fractional-chief-technology-officer-advisor-network-opportunity-overview?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=5f4d7c3215edf1da" alt="" height="16"> vrchat | VRChat - Senior/Staff Platform Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 137d | [Apply](https://wagey.gg/jobs/8bb23a5cd9909849-vrchat-senior-staff-platform-engineer-at-vrchat?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=99a4707ae54c4b52" alt="" height="16"> Fueled | Senior Full Stack Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 137d | [Apply](https://wagey.gg/jobs/204f9f5fba868b23-senior-full-stack-engineer-at-fueled?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Cadence Solutions | Senior Product Manager <br><sub>🌐 Remote • WW</sub> | $200k–$240k/year | 137d | [Apply](https://wagey.gg/jobs/86d1f3e7505cf812-senior-product-manager-at-cadence-solutions?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief Operating ... <br><sub>🌐 Remote • WW</sub> |  | 138d | [Apply](https://wagey.gg/jobs/d9b67442fcc68579-arootah-fractional-chief-operating-officer-advisor-network-opportunity-overview-?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief Financial ... <br><sub>🌐 Remote • WW</sub> |  | 138d | [Apply](https://wagey.gg/jobs/550f4d177ed52d1a-arootah-fractional-chief-financial-officer-head-of-finance-advisor-network-oppor?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief Compliance... <br><sub>🌐 Remote • WW</sub> |  | 138d | [Apply](https://wagey.gg/jobs/6b4d80c87ce22e65-arootah-fractional-chief-compliance-officer-advisor-network-opportunity-overview?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> arootah | Arootah - Fractional Chief AI Officer... <br><sub>🌐 Remote • WW</sub> |  | 138d | [Apply](https://wagey.gg/jobs/d18072b7119dcbf9-arootah-fractional-chief-ai-officer-ai-strategy-leader-advisor-network-at-aroota?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Arootah | Arootah - Fractional Chief Technology... <br><sub>🌐 Remote • WW</sub> | $520k–$780k/year | 138d | [Apply](https://wagey.gg/jobs/7df66f03a19756ac-arootah-fractional-chief-technology-officer-advisor-network-opportunity-overview?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=5f4d7c3215edf1da" alt="" height="16"> vrchat | VRChat - Senior/Staff Platform Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 138d | [Apply](https://wagey.gg/jobs/8bb23a5cd9909849-vrchat-senior-staff-platform-engineer-at-vrchat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> molecule.xyz | AI Scientist - Entrepreneur in Residence <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 139d | [Apply](https://wagey.gg/jobs/156e4e673e3dd636-ai-scientist-entrepreneur-in-residence-at-molecule-xyz?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_8bf82318ba895efa" alt="" height="16"> plantingspace | Technical Project Manager <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 139d | [Apply](https://wagey.gg/jobs/2eb765d88fd22654-technical-project-manager-at-plantingspace?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | Entefy - ML Engineer - Computer Vision <br><sub>🌐 Remote • WW</sub> |  | 140d | [Apply](https://wagey.gg/jobs/157c35abae16c2f2-entefy-ml-engineer-computer-vision-at-entefy?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> RapidFort, Inc. | Senior OS Engineer — Linux Security &... <br><sub>🌐 Remote • WW</sub> | $150k–$200k/year | 140d | [Apply](https://wagey.gg/jobs/cdd6f826fc5639fe-senior-os-engineer-linux-security-container-supply-chain-at-rapidfort-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_ef155f2528ca012c" alt="" height="16"> t5datacenters | EverOn Data Center Services <br><sub>🌐 Remote • WW</sub> |  | 143d | [Apply](https://wagey.gg/jobs/a856b5b09b8ea896-everon-data-center-services-at-t5datacenters?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Principal Product Marketing Manager <br><sub>🌐 Remote - Anywhere • WW</sub> | $169k/year | 144d | [Apply](https://wagey.gg/jobs/44612e4e205dcef2-principal-product-marketing-manager-at-elasticelastic-logo?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_ef155f2528ca012c" alt="" height="16"> t5datacenters | EverOn Data Center Services <br><sub>🌐 Remote • WW</sub> |  | 144d | [Apply](https://wagey.gg/jobs/a856b5b09b8ea896-everon-data-center-services-at-t5datacenters?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Principal Product Marketing Manager <br><sub>🌐 Remote - Anywhere • WW</sub> | $169k/year | 145d | [Apply](https://wagey.gg/jobs/44612e4e205dcef2-principal-product-marketing-manager-at-elasticelastic-logo?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=30424453e285515b" alt="" height="16"> supabase | Edge Functions Engineer <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 146d | [Apply](https://wagey.gg/jobs/0ea49ab7756d82be-edge-functions-engineer-at-supabase?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=1af6e4521eff60ca" alt="" height="16"> appen | CrowdGen by Appen - Remote Work From ... <br><sub>🌐 Remote - Laos • WW</sub> |  | 146d | [Apply](https://wagey.gg/jobs/fd586b09cbf74ce5-crowdgen-by-appen-remote-work-from-home-lao-voice-recording-project-at-appen?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | ML Engineer <br><sub>🌐 Remote • WW</sub> |  | 148d | [Apply](https://wagey.gg/jobs/afab558978018c8e-ml-engineer-at-entefy?ref=github) |
@@ -501,7 +508,7 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=66548accc78c6b91" alt="" height="16"> Offchain Labs | Offchain Labs - Senior Security Engin... <br><sub>🌐 Remote • WW</sub> |  | 148d | [Apply](https://wagey.gg/jobs/cd03f45a1b885b72-offchain-labs-senior-security-engineer-offensive-at-offchain-labs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9f3fda2fef6dda85" alt="" height="16"> Canonical | Embedded Devices Software Solution Sa... <br><sub>🌐 Remote - Home based - Worldwide • WW</sub> |  | 149d | [Apply](https://wagey.gg/jobs/8c5f896415c50d02-embedded-devices-software-solution-sales-account-manager-at-canonical?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=c0591efdd2d790f2" alt="" height="16"> teamsnap | TeamSnap - Enterprise Account Executive <br><sub>🌐 Remote • WW</sub> | $150k/year | 149d | [Apply](https://wagey.gg/jobs/0ff4b5ec6c08fbf7-teamsnap-enterprise-account-executive-at-teamsnap?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Head of Fundraising, Airbnb.org <br><sub>🌐 WW</sub> | $255k/year | 154d | [Apply](https://wagey.gg/jobs/3724646238c5b5a5-head-of-fundraising-airbnb-org-at-airbnb?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Head of Fundraising, Airbnb.org <br><sub>🌐 WW</sub> | $255k/year | 155d | [Apply](https://wagey.gg/jobs/3724646238c5b5a5-head-of-fundraising-airbnb-org-at-airbnb?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> asymmetric.re | Security Engineer <br><sub>🌐 Remote - AMER/EMEA/APAC • WW</sub> |  | 155d | [Apply](https://wagey.gg/jobs/fddb33ef00c2a3f8-security-engineer-at-asymmetric-re?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Software Engineer, Guest & Host, Foun... <br><sub>🌐 WW</sub> |  | 160d | [Apply](https://wagey.gg/jobs/b6e706f09948495a-software-engineer-guest-host-foundation-at-airbnb?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=aee88a33a7d6aa39" alt="" height="16"> Orderly | Liquidity Operations Analyst <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 161d | [Apply](https://wagey.gg/jobs/2b6ef9b7c390d956-liquidity-operations-analyst-at-orderly?ref=github) |
@@ -512,571 +519,589 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_9fb5d9c7e15c2691" alt="" height="16"> Coral AI | Senior ML Engineer <br><sub>🌐 WW</sub> |  | 161d | [Apply](https://wagey.gg/jobs/10ba3300d04d8f8c-senior-ml-engineer-at-coral-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Programs & Business Operations... <br><sub>🌐 Remote - Anywhere • WW</sub> | $204k/year | 163d | [Apply](https://wagey.gg/jobs/6e48955342b02869-senior-programs-business-operations-lead-airbnb-services-at-airbnb?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Staff Platform Manager, Business Host... <br><sub>🌐 WW</sub> | $200k/year | 163d | [Apply](https://wagey.gg/jobs/cc0503bfbd29ef2c-staff-platform-manager-business-host-payouts-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_e487c7e8ec9b39b3" alt="" height="16"> ghj | Interim FP&A Director <br><sub>🌐 Remote • WW</sub> |  | 164d | [Apply](https://wagey.gg/jobs/6eccd5e423778c7a-interim-fp-a-director-at-ghj?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_e487c7e8ec9b39b3" alt="" height="16"> ghj | Interim FP&A Director <br><sub>🌐 Remote • WW</sub> |  | 165d | [Apply](https://wagey.gg/jobs/6eccd5e423778c7a-interim-fp-a-director-at-ghj?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Senior Software Engineer, Community S... <br><sub>🌐 WW</sub> |  | 166d | [Apply](https://wagey.gg/jobs/2934a95f1665cd53-senior-software-engineer-community-support-engineering-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Buzz Solutions | Business Development Representative <br><sub>🌐 Remote • WW</sub> |  | 166d | [Apply](https://wagey.gg/jobs/3672f50c27f296d5-business-development-representative-at-buzz-solutions?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Senior Engineering Manager <br><sub>🌐 Remote - Global • WW</sub> |  | 166d | [Apply](https://wagey.gg/jobs/3c49d28fc9148f65-senior-engineering-manager-at-trust-wallet?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_963fafbcaf5ecf95" alt="" height="16"> Levanta | Sales Development Representative  <br><sub>🌐 Remote - Macedonia (Remote) • WW</sub> |  | 166d | [Apply](https://wagey.gg/jobs/8e6349b07ab55d7b-sales-development-representative-at-levanta?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Ōura | Senior iOS Engineer, Connectivity  <br><sub>🌐 Remote - New York, New York • WW</sub> | $172k–$203k/year | 166d | [Apply](https://wagey.gg/jobs/d3ebef9ea68a9216-senior-ios-engineer-connectivity-at-ura?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Bolt.new | Community Manager  <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 166d | [Apply](https://wagey.gg/jobs/e73bb2d6f520f5f9-community-manager-at-bolt-new?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Buzz Solutions | Business Development Representative <br><sub>🌐 Remote • WW</sub> |  | 167d | [Apply](https://wagey.gg/jobs/3672f50c27f296d5-business-development-representative-at-buzz-solutions?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> trust-wallet | Senior Engineering Manager <br><sub>🌐 Remote - Global • WW</sub> |  | 167d | [Apply](https://wagey.gg/jobs/3c49d28fc9148f65-senior-engineering-manager-at-trust-wallet?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_963fafbcaf5ecf95" alt="" height="16"> Levanta | Sales Development Representative  <br><sub>🌐 Remote - Macedonia (Remote) • WW</sub> |  | 167d | [Apply](https://wagey.gg/jobs/8e6349b07ab55d7b-sales-development-representative-at-levanta?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Ōura | Senior iOS Engineer, Connectivity  <br><sub>🌐 Remote - New York, New York • WW</sub> | $172k–$203k/year | 167d | [Apply](https://wagey.gg/jobs/d3ebef9ea68a9216-senior-ios-engineer-connectivity-at-ura?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Bolt.new | Community Manager  <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 167d | [Apply](https://wagey.gg/jobs/e73bb2d6f520f5f9-community-manager-at-bolt-new?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=5232054ec1cada3d" alt="" height="16"> Metabase | Technical Product Lead <br><sub>🌐 Remote - Global Remote • WW</sub> |  | 167d | [Apply](https://wagey.gg/jobs/f2fa63de758993e5-technical-product-lead-at-metabase?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Programs & Business Operations Lead, ... <br><sub>🌐 Remote - Anywhere • WW</sub> | $168k/year | 167d | [Apply](https://wagey.gg/jobs/6d8ddbbc58d1f140-programs-business-operations-lead-airbnb-services-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=9158c72baba2f116" alt="" height="16"> Enveritas | Senior Impact Analyst <br><sub>🌐 Remote - Global - Remote Work • WW</sub> |  | 171d | [Apply](https://wagey.gg/jobs/580006795822109c-senior-impact-analyst-at-enveritas?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=9158c72baba2f116" alt="" height="16"> Enveritas | Senior Impact Analyst <br><sub>🌐 Remote - Global - Remote Work • WW</sub> |  | 172d | [Apply](https://wagey.gg/jobs/580006795822109c-senior-impact-analyst-at-enveritas?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Whiterabbit.ai | Whiterabbit.ai - Research Scientist I... <br><sub>🌐 Remote • WW</sub> |  | 172d | [Apply](https://wagey.gg/jobs/b0f2f94093cbb7bc-whiterabbit-ai-research-scientist-intern-2026-at-whiterabbit-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=547d4588770ce9de" alt="" height="16"> KnowBe4 | Organic Search Manager (Remote) <br><sub>🌐 Remote - Anywhere • WW</sub> | $120k–$130k/year | 173d | [Apply](https://wagey.gg/jobs/daff6c8a0761129b-organic-search-manager-remote-at-knowbe4?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> KoBold Metals Zambia | Data Scientist <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 174d | [Apply](https://wagey.gg/jobs/9aa934f10f65d06d-data-scientist-at-kobold-metals-zambia?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | Entefy - Senior Machine Learning Engi... <br><sub>🌐 Remote • WW</sub> |  | 174d | [Apply](https://wagey.gg/jobs/6bae5152c5693446-entefy-senior-machine-learning-engineer-at-entefy?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | Entefy - Senior Full Stack Engineer <br><sub>🌐 Remote • WW</sub> |  | 174d | [Apply](https://wagey.gg/jobs/43ae598277caf4fe-entefy-senior-full-stack-engineer-at-entefy?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | Entefy - Senior Machine Learning Engi... <br><sub>🌐 Remote • WW</sub> |  | 175d | [Apply](https://wagey.gg/jobs/6bae5152c5693446-entefy-senior-machine-learning-engineer-at-entefy?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_825392e5b82e7335" alt="" height="16"> Entefy | Entefy - Senior Full Stack Engineer <br><sub>🌐 Remote • WW</sub> |  | 175d | [Apply](https://wagey.gg/jobs/43ae598277caf4fe-entefy-senior-full-stack-engineer-at-entefy?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_518c4b5cec4d00bd" alt="" height="16"> mach9 | Solutions Consultant <br><sub>🌐 Remote • WW</sub> |  | 175d | [Apply](https://wagey.gg/jobs/5cad061c30bd6183-solutions-consultant-at-mach9?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Lightning Labs | AI Product Engineer <br><sub>🌐 Remote • WW</sub> |  | 175d | [Apply](https://wagey.gg/jobs/5bb28e0d2858c602-ai-product-engineer-at-lightning-labs?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=07aeb755d97ee1e2" alt="" height="16"> heartbeathealth | Heartbeat Health - Virtual Care Cardi... <br><sub>🌐 Remote • WW</sub> |  | 175d | [Apply](https://wagey.gg/jobs/b45888f440b09d18-heartbeat-health-virtual-care-cardiologist-full-time-at-heartbeathealth?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=b0fb8a932d0ec75b" alt="" height="16"> Superside | Superside - Senior Account Manager <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 175d | [Apply](https://wagey.gg/jobs/c085b57e2d57c647-superside-senior-account-manager-at-superside?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=e7d23be489c54d89" alt="" height="16"> Blockstream | Business Development Manager <br><sub>🌐 Remote • WW</sub> |  | 177d | [Apply](https://wagey.gg/jobs/732da1cd4d11af6f-business-development-manager-at-blockstream?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_47d66729653b2b73" alt="" height="16"> decilegroup | Product Manager (Remote) <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 179d | [Apply](https://wagey.gg/jobs/43a345a4f5183028-product-manager-remote-at-decilegroup?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=30424453e285515b" alt="" height="16"> supabase | Product Engineer - Auth <br><sub>🌐 Remote - Anywhere • WW</sub> |  | 180d | [Apply](https://wagey.gg/jobs/280fcf6dfde139ae-product-engineer-auth-at-supabase?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> get-vocal-pbc | Vocal Media - Social Media Manager — ... <br><sub>🌐 Remote • WW</sub> |  | 181d | [Apply](https://wagey.gg/jobs/a1ecdf230b45d03f-vocal-media-social-media-manager-ai-content-at-get-vocal-pbc?ref=github) |
 
 
 ---
 
-## <a id="na"></a>North America (12,705)
+## <a id="na"></a>North America (12,761)
 
 | Company | Role | Salary USD | Age | |
 |---------|------|------------|-----|---|
-| <img src="https://wagey.gg/api/company-logo?id=co_c7914189689474ee" alt="" height="16"> temporal | Senior Professional Services Engineer... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/f0175d62225ff3b5-senior-professional-services-engineer-west-at-temporal?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_c7914189689474ee" alt="" height="16"> temporal | Senior Professional Services Engineer... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/1a09d154694dd79c-senior-professional-services-engineer-east-at-temporal?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=5664905910de7756" alt="" height="16"> elevenlabs | Analytics Engineer <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/197b05fb442664ea-analytics-engineer-at-elevenlabs?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=64ce6913c7a33dc1" alt="" height="16"> delinea | Senior Technical Account Manager <br><sub>🌐 Remote - U.S. Remote • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/2685d6cbbce5f729-senior-technical-account-manager-at-delinea?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=9df3b01c60df20d1" alt="" height="16"> access | Procurement Associate <br><sub>🌐 Remote - USA * • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/322931177a326d50-procurement-associate-at-access?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c0b6b911ef10ce08" alt="" height="16"> Zscaler | Account Executive - Enterprise, Texas <br><sub>🏢 Remote - Texas, USA - Hybrid • NA</sub> | $140k/year | 1h | [Apply](https://wagey.gg/jobs/93057f6397ed117f-account-executive-enterprise-texas-at-zscaler?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Sparksoft Corporation | Junior DevOps Engineer <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/a10fdb926b6a01cb-junior-devops-engineer-at-sparksoft-corporation?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Sparksoft Corporation | Jr. Full Stack Developer  <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/394d997bdf9a12e2-jr-full-stack-developer-at-sparksoft-corporation?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Sparksoft Corporation | Full Stack Developer - Mid-Level <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 1h | [Apply](https://wagey.gg/jobs/13fe0a0bf028dd41-full-stack-developer-mid-level-at-sparksoft-corporation?ref=github) |
-| ░░░░ | DevOps Engineer - Mid Level  <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Container Infrastructure Engineer <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Cloud Infrastructure Engineer - (Junior) <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Mobile Engineer - Grafana Ops ... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $175k–$210k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Civil Engineer <br><sub>🌐 Remote - USA * • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Enterprise Sales Executive <br><sub>🌐 Remote - USA * • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Enterprise Sales Executive <br><sub>🌐 Remote - USA * • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Commercial Counsel, Revenue <br><sub>🌐 Remote - Based - US • NA</sub> | $165k–$185k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Lead Sales Operations Analyst <br><sub>🌐 Remote - United States, Remote • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Global Vertical Head of Regulatory Co... <br><sub>🏢 San Francisco • NA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Care Navigator- Licensed Nurse - Remo... <br><sub>🌐 Remote - MT (Mountain) • NA</sub> | $46k–$52k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Engineering Manager, GPU (ML Accelera... <br><sub>🏢 San Francisco, CA \| New York City, • NA</sub> | $500k–$850k/year | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Vice President <br><sub>🏢 San Francisco • NA</sub> | $244k–$305k/year | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | AV Event Production Coordinator <br><sub>🌐 Remote - USA • NA</sub> |  | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Full Stack Software Engineer <br><sub>🌐 Remote - Canada • NA</sub> | $200k–$275k/year | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Engineering Manager, Product <br><sub>🌐 Remote - United States • NA</sub> | $204k–$289k/year | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Product Manager, Clear <br><sub>🌐 Remote - Austin, TX • NA</sub> |  | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | GTM Recruiter <br><sub>🌐 Remote - New York City, New York, U • NA</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Software Test Engineer <br><sub>🏢 Toronto, Canada • NA</sub> | $138k–$172k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Blockchain Data Wizard, Analyst or Sc... <br><sub>🏢 New York, New York, USA • NA</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Designer, Web Presence & Platform <br><sub>🌐 Remote - United States • NA</sub> | $133k–$200k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Directeur·rice principal·e de la qual... <br><sub>🏢 NA</sub> | $160k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Producer <br><sub>🏢 US - United States - Hybrid • NA</sub> | $91k–$140k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Campaign Manager <br><sub>🌐 Remote - USA • NA</sub> | $90k–$120k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Director of Procurement (Remote) <br><sub>🌐 Remote - USA • NA</sub> | $104k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Director of Finance <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | General Ledger Accountant <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Head of FP&A and Strategic Finance  <br><sub>🌐 Remote - USA (Remote) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | GTM Systems Specialist  <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Staff Data Scientist, DocV <br><sub>🌐 Remote - California - Remote • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Amazon 3PF Operations Associate <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Security Engineer II - Identity and A... <br><sub>🌐 Remote - Canada • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Design Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Account Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Account Executive, Inside Sales <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Forward Deployed Scientist <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | General Application <br><sub>🌐 Remote - USA * • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Research Scientist <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Founding Data Engineer (Pricing/Comps) <br><sub>🌐 Remote - USA * • NA</sub> | $160k–$220k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Staff Applied AI Engineer - Enterpris... <br><sub>🏢 New York City, NY (Hybrid); San Fra • NA</sub> | $230k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Software Engineer, Data Platform <br><sub>🌐 Remote - United States, Remote • NA</sub> | $190k–$230k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Business Development Representative <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | VP of Engineering <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Account Executive <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Product Marketing Manager <br><sub>🌐 Remote - Toronto, ON (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Marketing Operations Lead <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Solutions Consultant, Digital Assets <br><sub>🌐 Remote - USA • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Business Systems Engineering Manager <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Lead Product Manager, Digital Assets <br><sub>🌐 Remote - USA • NA</sub> | $120k–$180k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Head of Sales Readiness <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Account Based Marketing Manager <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Principal Software Engineer <br><sub>🏢 San Francisco, California • NA</sub> | $224k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Machine Learning Engineer - Ne... <br><sub>🏢 San Francisco, CA; Sunnyvale, CA; S • NA</sub> | $137k–$202k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Sr. Machine Learning Engineer <br><sub>🌐 Remote - Canada • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Machine Learning Infrastructur... <br><sub>🌐 Remote - USA • NA</sub> | $200k–$400k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Accounts Payable Specialist <br><sub>🏢 San Francisco , California , United • NA</sub> | $95k–$125k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Security Trust and Assurance Manager <br><sub>🏢 Austin • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | ML Engineer - API Platform <br><sub>🌐 Remote - San Francisco, California, • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Intermediate Software Engineer, Secur... <br><sub>🌐 Remote - Canada • NA</sub> |  | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Staff Software Engineer, Data Enginee... <br><sub>🌐 Remote - USA - Remote • NA</sub> | $132k–$170k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Machine Learning Engineer <br><sub>🏢 Remote - U.S, Ann Arbor, MI - Hybri • NA</sub> | $177k–$213k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Lead Software Engineer – Real-Time Ev... <br><sub>🌐 Remote - USA • NA</sub> | $200k–$210k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Staff Software Engineer <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $62k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Lead Machine Learning Engineer <br><sub>🌐 Remote - USA - Remote • NA</sub> | $235k–$285k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Analytics Engineer, Data Platform <br><sub>🌐 Remote - USA • NA</sub> | $124k–$135k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Software Engineer I, Integrati... <br><sub>🌐 Remote - USA * • NA</sub> | $144k–$185k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Staff Software Engineer, Dev Ops <br><sub>🌐 Remote - Canada - Ontario; Canada - • NA</sub> | $106k–$169k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineering Manager .NET <br><sub>🌐 Remote - United States (Remote) • NA</sub> | $142k–$145k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Lead Data Engineer <br><sub>🌐 Remote - USA • NA</sub> | $140k–$160k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | DevOps Engineer <br><sub>🌐 Remote - USA • NA</sub> | $165k–$190k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineer <br><sub>🌐 Remote - USA • NA</sub> | $115k–$135k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Legal Counsel, Payments & Fintech <br><sub>🌐 Remote - USA • NA</sub> | $150k–$160k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Manager, Detection Engineering (Rapid... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $164k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Staff AI Platform Engineer <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Staff Endpoint Software Engineer, (Py... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Principal Software Engineer, AI SIEM <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $216k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Staff AI Platform Engineer, Infrastru... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Backend Software Engineer, Obs... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $132k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior AI Platform Engineer, Infrastr... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $132k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Staff Software Engineer, Time and Sch... <br><sub>🏢 New York, NY - Hybrid; Toronto, Ont • NA</sub> | $163k–$204k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Staff Backend Software Engineer - Age... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Staff Infrastructure Engineer <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Global Head of AV Driver Training <br><sub>🏢 Sunnyvale, California USA - Hybrid • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Enterprise Partner Marketing M... <br><sub>🌐 Remote - USA • NA</sub> | $160k–$175k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior QA Engineer  <br><sub>🌐 Remote - USA * • NA</sub> | $120k–$170k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Privacy & Regulatory Counsel <br><sub>🌐 Remote - United States • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Security Solution Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | GTM Finance Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Client Support Associate  <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Software Engineer - Card Netwo... <br><sub>🌐 Remote - Canada • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Financial Analyst <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Security Engineer, Detection a... <br><sub>🌐 Remote - Ontario OR British Columbi • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Manager, Security & Compliance <br><sub>🌐 Remote - US (Remote) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | SPAR Research Manager <br><sub>🌐 Remote - USA * • NA</sub> | $105k–$145k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Implementation Project Manager <br><sub>🌐 Remote - USA • NA</sub> | $65k–$75k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Founding ML Engineer, Computer Vision... <br><sub>🌐 Remote - USA * • NA</sub> | $200k–$260k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Growth Recruiter <br><sub>🌐 Remote - Palo Alto, CA; Asia; Canad • NA</sub> | $105k–$174k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Expert Team Lead, Engineering <br><sub>🌐 Remote - Palo Alto, CA; Asia; Austr • NA</sub> | $104k–$170k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Director of Global Growth Marketing a... <br><sub>🏢 New York, NY • NA</sub> | $200k–$280k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | AI Tutor - Video (Weekend) <br><sub>🌐 Remote - USA • NA</sub> | $83k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Associate Program Manager - APAC <br><sub>🏢 Needham, MA, United States • NA</sub> | $62k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Growth & Field Marketing Manager (Bra... <br><sub>🌐 Remote - Americas • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | VP of Solutions Architecture  <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Enterprise Account Director- SoCal <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Engineering Manager, Grafana F... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Engineering Manager, Grafana F... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Manager, Global Engagement Str... <br><sub>🏢 Dallas, Texas, United States - Hybr • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Director, Global Engagement Strategy ... <br><sub>🏢 Dallas, Texas, United States - Hybr • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Director, Enterprise Portfolio Manage... <br><sub>🌐 Remote - USA • NA</sub> | $150k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Sr. Project Engineer, RSX (Remote con... <br><sub>🏢 Long Beach, California - Hybrid • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Data Scientist (Remote) <br><sub>🌐 Remote - Canada • NA</sub> | $125k–$145k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Aviation Cyber Certification E... <br><sub>🌐 Remote - Boston or Remote • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Program Chief Engineer, Cyclops (Remo... <br><sub>🌐 Remote - Long Beach, California • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Program Chief Engineer, RSX (Remote c... <br><sub>🌐 Remote - Long Beach, California • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Airworthiness & Certification ... <br><sub>🌐 Remote - Boston or Remote • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Safety & Mission Assurance Engineer (... <br><sub>🌐 Remote - Long Beach, California • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineer <br><sub>🌐 Remote - San Francisco, California, • NA</sub> | $140k–$285k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Product Manager <br><sub>🏢 New York City, NY, United States • NA</sub> | $185k–$250k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Backend Engineer <br><sub>🌐 Remote - Argentina, Brazil, Canada, • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Analytics Engineer, Full-stack <br><sub>🌐 Remote - USA • NA</sub> | $100k–$250k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Sr. Staff Machine Learning Systems En... <br><sub>🌐 Remote - United States • NA</sub> | $240k–$265k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Machine Learning Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Staff Software Engineer, Infrastructure <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Forward Deployed Engineer (Design + BIM) <br><sub>🏢 San Francisco, California, United S • NA</sub> | $150k–$200k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Staff Software Engineer, Product <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Director, Talent Acquisition <br><sub>🌐 Remote - United States • NA</sub> | $180k–$312k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Chief Architect, HealthShare <br><sub>🏢 Boston, MA • NA</sub> | $172k–$230k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Engineer, Production Support <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Principal Frontend Engineer <br><sub>🏢 United States • NA</sub> | $250k–$300k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Frontend Engineer, Data Visualization <br><sub>🌐 Remote - USA • NA</sub> | $160k–$250k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Technical Lead, MSPs <br><sub>🏢 United States • NA</sub> | $140k–$190k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | R&D Attorney <br><sub>🏢 NA</sub> | $150k–$240k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Security Operations Specialist <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Manager, Quality, Volume Tiers <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $160k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Technology Evangelist <br><sub>🌐 Remote - San Francisco, California, • NA</sub> | $12k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | General Interest <br><sub>🌐 Remote - San Francisco, California, • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Account Executive, Public Sector <br><sub>🌐 Remote - USA • NA</sub> | $130k–$150k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Sr Engineering Manager-Android & Devi... <br><sub>🌐 Remote - USA • NA</sub> | $154k–$212k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Customer Success Manager <br><sub>🌐 Remote - Florida, United States • NA</sub> | $85k–$135k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Principal Product Manager, Sandboxes <br><sub>🌐 Remote - United States, Canada • NA</sub> | $184k–$263k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Expert Database Architect <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $155k–$210k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Founding Engineer <br><sub>🏢 San Mateo, California, United State • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Tech Lead <br><sub>🏢 Toronto, Ontario, Canada • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Sales Engineer <br><sub>🌐 Remote - Americas • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | BSA Operations Manager <br><sub>🏢 New York, NY, United States • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Product Lead, Inpatient <br><sub>🏢 San Francisco, California, United S • NA</sub> | $203k–$283k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Staff Data Engineer, Analytics <br><sub>🌐 Remote - Americas • NA</sub> | $207k–$290k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Coach Development Manager <br><sub>🌐 Remote - San Francisco, California, • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Operations and Logistics Assoc... <br><sub>🏢 Ashville, Ohio, United States • NA</sub> | $97k–$129k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior / Staff Backend Engineer, Maps <br><sub>🏢 New York , New York, United States • NA</sub> | $200k–$300k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Chief Technology Advisor <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $151k–$205k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Electrical Technician <br><sub>🏢 Los Angeles, California, United Sta • NA</sub> | $62k–$83k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Founding Account Executive <br><sub>🏢 San Francisco, California , United  • NA</sub> | $250k–$300k/year | 13h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Staff Software Engineer, AI Teammates <br><sub>🏢 San Francisco,  California,  United • NA</sub> | $248k–$282k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Data Engineer <br><sub>🌐 Remote - Canada • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Federal Account Executive <br><sub>🌐 Remote - Tysons, Virginia, United S • NA</sub> | $250k–$400k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Founding Data Engineer <br><sub>🏢 San Francisco, California, United S • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Software Engineer, Native Delivery <br><sub>🌐 Remote - USA * • NA</sub> | $180k–$400k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Customer Success/Operations Associate <br><sub>🌐 Remote - USA • NA</sub> | $85k–$110k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineer I <br><sub>🏢 United States • NA</sub> | $86k–$128k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Software Engineer II <br><sub>🏢 Vancouver, British Columbia, Canada • NA</sub> | $110k–$120k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Principal FW/SW Engineer <br><sub>🌐 Remote - Toronto, Ontario, Canada • NA</sub> | $185k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Counsel, Product Legal (Yield) <br><sub>🏢 San Francisco, California, United S • NA</sub> | $180k–$270k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Research Engineer, Robotics Evals <br><sub>🌐 Remote - San Francisco, California, • NA</sub> | $80k–$230k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Machine Learning Engineer, Discovery <br><sub>🌐 Remote - USA • NA</sub> | $180k–$245k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Expert Team Lead, SWE <br><sub>🌐 Remote - Palo Alto, CA; Asia; Austr • NA</sub> | $104k–$170k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Regional Business Consultant <br><sub>🌐 Remote - Boston, MA, United States • NA</sub> | $80k–$90k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Lead Program Systems Engineer, Cyclops <br><sub>🏢 Huntsville, Alabama • NA</sub> | $150k–$230k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineer, AI Teammates Exper... <br><sub>🏢 San Francisco,  California,  United • NA</sub> | $202k–$299k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Account Executive, Enterprise Expansion <br><sub>🌐 Remote - New York, New York, United • NA</sub> | $250k–$350k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Robot Service Technician Assistant (P... <br><sub>🌐 Remote - Flagstaff, Arizona • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Forward Deployed Engineer <br><sub>🌐 Remote - USA • NA</sub> | $200k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Software Engineering Development Prog... <br><sub>🏢 Waltham, MA - Hybrid • NA</sub> | $90k–$105k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Manager, Credit Risk Operations <br><sub>🏢 San Francisco, California, United S • NA</sub> | $130k–$160k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Robot Service Technician Assistant (W... <br><sub>🌐 Remote - Wilmington, North Carolina • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Patient Engagement Specialist I (Temp... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $17k–$215k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Marketing Operations Manager (Contract) <br><sub>🌐 Remote - US Remote • NA</sub> | $156k–$270k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $215k–$270k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Product Designer, Growth (Senior/Staff) <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Manager of Security and Compliance <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Product Analytics Engineer <br><sub>🏢 US, Remote - Hybrid • NA</sub> | $143k–$187k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Director, Provider Growth Marketing <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Account Executive, Enterprise (US)  <br><sub>🏢 Remote_US • NA</sub> | $150k–$180k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | VP of Customer Success <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Customer Success Manager \| United Ki... <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Marketing Data Scientist <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Finance Data Scientist <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Enterprise Marketing Manager, Partner... <br><sub>🏢 Remote Canada - Hybrid • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Benefit Plan Configuration Specialist... <br><sub>🌐 Remote - CT (Central) • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Business Systems Analyst  (1099 Contr... <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | CX Specialist (Temp) <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Program Manager <br><sub>🌐 Remote - Texas Remote • NA</sub> | $260k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Product Manager, File and Remit <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Sr. Visual/Deck Designer <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Field Marketing Director <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Procurement and Contracting Administr... <br><sub>🌐 Remote - USA * • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Analytics Engineer <br><sub>🌐 Remote - USA • NA</sub> | $140k–$180k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Data Analyst II <br><sub>🌐 Remote - Americas • NA</sub> | $146k–$171k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Sr. Manager, Carrier Operations & Gov... <br><sub>🌐 Remote - USA • NA</sub> | $156k–$194k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Counsel, Americas Employment <br><sub>🌐 Remote - USA • NA</sub> | $235k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Field Marketing Manager (Remote - Cen... <br><sub>🌐 Remote - USA • NA</sub> | $100k–$155k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Sr Manager, Operational Finance <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $135k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Quality & Compliance Manager, Compute... <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $92k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Director of Operations & Communications <br><sub>🏢 Remote - United States - Hybrid • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Sr Manager, Operational Finance <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $135k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Quality & Compliance Manager, Compute... <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $92k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Revenue Accounting Transformation Man... <br><sub>🌐 Remote - USA • NA</sub> | $107k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Associate, National Provider Contracting <br><sub>🌐 Remote - USA * • NA</sub> | $97k–$127k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Media Monitoring Freelancer <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $37k–$52k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Customer Success Operations Manager <br><sub>🌐 Remote - USA * • NA</sub> | $105k–$120k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Engineer - Site Design <br><sub>🏢 Fort Worth, TX; Oklahoma - Remote;  • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Principal Engineer - Site Design <br><sub>🏢 Dallas, TX; Fort Worth, TX; Oklahom • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Client Manager - Site Design <br><sub>🏢 Dallas, TX; Fort Worth, TX; Oklahom • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Analytics Engineer <br><sub>🌐 Remote - Canada • NA</sub> | $167k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Mission Logistics & Global Trade Manager <br><sub>🌐 Remote - Huntington Beach, Californ • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Manager of Business Analytics, Fraud ... <br><sub>🏢 Richmond, VA, Arlington, VA, or Rem • NA</sub> | $128k–$165k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Engineering Manager - Mobile <br><sub>🌐 Remote - United States, Remote • NA</sub> | $265k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Admissions Specialist, PHP/IOP (PST)  <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Business Analyst III <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Talent Acquisition Partner, Co... <br><sub>🌐 Remote - USA * • NA</sub> | $114k–$143k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Site Reliability Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Director of Information Security <br><sub>🌐 Remote - San Fransisco, Bay Area OR • NA</sub> | $180k–$230k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Director of Finance <br><sub>🌐 Remote - San Francisco, Bay Area OR • NA</sub> | $160k–$240k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Director, elluminate Business Develop... <br><sub>🌐 Remote - USA * • NA</sub> | $125k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Detection Engineer, Protective Services <br><sub>🌐 Remote - United States - Remote • NA</sub> | $131k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Director of Engagement Managers <br><sub>🌐 Remote - USA • NA</sub> | $406k+/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Project Manager I <br><sub>🌐 Remote - USA • NA</sub> | $60k–$85k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Media Monitoring Freelancer <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $37k–$52k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Project Manager, Operations (C... <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Staff Product Manager, Consumer Growt... <br><sub>🌐 Remote - CT (Central) • NA</sub> | $230k–$290k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Seasonal, Virtual Patient Support Spe... <br><sub>🏢 New York, NY or Remote - Hybrid • NA</sub> | $50k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Client Support Representative (REMOTE) <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Field Enablement Manager <br><sub>🏢 Vancouver Hybrid, Remote - Hybrid • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Client Partner, Public Sector (State ... <br><sub>🌐 Remote - USA * • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Sales Engineer  - United States <br><sub>🌐 Remote - Denver, CO - Remote • NA</sub> | $94k–$172k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Staff Engineer – AI-Native Commerce <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Counsel <br><sub>🌐 Remote - USA • NA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Private Equity Partnerships <br><sub>🌐 Remote - New York City, New York, U • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Digital Marketing Manager <br><sub>🏢 Sunnyvale, California, United State • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Accountant <br><sub>🌐 Remote - USA • NA</sub> | $250k+/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Design Manager <br><sub>🌐 Remote - Canada • NA</sub> | $229k–$286k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Security Assurance Analyst <br><sub>🌐 Remote - USA • NA</sub> | $179k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Associate Account Executive <br><sub>🌐 Remote - HQ - USA * • NA</sub> | $120k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Staff Revenue Accountant <br><sub>🏢 Mapbox US - Hybrid • NA</sub> | $102k–$130k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Staff Fullstack Engineer (Ruby/Vue.js... <br><sub>🌐 Remote - Canada • NA</sub> | $153k–$259k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Staff Commercial Pricing Strategist <br><sub>🌐 Remote - Canada • NA</sub> | $139k–$235k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Head of Growth Marketing, Self-Service <br><sub>🌐 Remote - USA * • NA</sub> | $160k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Support Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $113k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Industrial Compute <br><sub>🏢 United States • NA</sub> | $150k–$300k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Staff Engineer, Guest & Host (... <br><sub>🌐 Remote - USA * • NA</sub> | $248k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Open Source Enterprise Sales Manager <br><sub>🌐 Remote - Home Based - Americas • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Creative Strategist & Producer <br><sub>🏢 United States • NA</sub> | $83k–$167k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Associate, Options Clearing <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Customer Succes Manager <br><sub>🌐 Remote - United States - Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | VP of Global Growth <br><sub>🏢 United States • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Palliative Oncology Nurse Navigator <br><sub>🌐 Remote - USA * • NA</sub> | $96k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Video Producer  <br><sub>🌐 Remote - USA • NA</sub> | $130k–$185k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Cloud Engineers (Remote USA) <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | GTM Enablement Manager <br><sub>🌐 Remote - Canada Remote • NA</sub> | $64k–$80k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Solutions Engineer <br><sub>🌐 Remote - USA * • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Commercial Counsel (Remote) <br><sub>🌐 Remote - United States • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Commercial Counsel - Enterpris... <br><sub>🌐 Remote - United States • NA</sub> | $168k–$231k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Applied AI Engineer <br><sub>🌐 Remote - United States - Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Forward Deployed Engineer <br><sub>🌐 Remote - CT (Central) • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Product Manager, Integrations <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Quality Assurance Specialist – Applie... <br><sub>🌐 Remote - PT (Pacific) • NA</sub> | $88k–$103k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Associate Director, Product (Data) <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Data Product Manager <br><sub>🌐 Remote - Americas • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Forward Deployed Architect <br><sub>🌐 Remote - (North America) • NA</sub> | $175k–$225k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Forward Deployed Engineer <br><sub>🌐 Remote - (North America) • NA</sub> | $150k–$225k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Product Manager, Real Time <br><sub>🌐 Remote - (North America) • NA</sub> | $240k–$320k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Product Manager, Marketing Orchestration <br><sub>🌐 Remote - (North America) • NA</sub> | $240k–$320k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Manager, Data Recruiting <br><sub>🌐 Remote - USA • NA</sub> | $122k–$190k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Corporate Health Senior Manager <br><sub>🌐 Remote - U.S. Remote • NA</sub> | $626k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Customer Support Representative <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Sr Deployment Program Manager, Robotics  <br><sub>🌐 Remote - USA • NA</sub> | $150k–$180k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Nurse Care Coordinator Manager (RN) -... <br><sub>🌐 Remote - PT (Pacific) • NA</sub> | $100k–$120k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Salesforce Developer <br><sub>🌐 Remote - US • NA</sub> | $116k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Order Data Integrity Analyst <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Principal Product Manager, AI Platform <br><sub>🌐 Remote - USA * • NA</sub> | $160k–$230k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Head of Product Marketing <br><sub>🌐 Remote - USA * • NA</sub> | $180k–$225k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $75k–$265k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Fullstack Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $150k–$220k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Data Validation Analyst <br><sub>🌐 Remote - USA • NA</sub> | $125k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Staff Mobile Engineer (P4) <br><sub>🌐 Remote - USA • NA</sub> | $171k–$214k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Financial Manager, Partnerships <br><sub>🌐 Remote - CT (Central) • NA</sub> | $142k–$177k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Program Manager, Carrier Operations &... <br><sub>🌐 Remote - CT (Central) • NA</sub> | $117k–$146k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Sr. Web UX Designer I (Remote Eligibl... <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Partner Operations Data Analyst (Remo... <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Director of Deal Strategy & Pricing (... <br><sub>🌐 Remote - USA • NA</sub> | $100k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Fullstack Engineer, Customer C... <br><sub>🌐 Remote - USA • NA</sub> | $175k–$205k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Project Engineer - Site Design <br><sub>🏢 Fort Worth, TX; Oklahoma - Remote;  • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Director, Customer Success <br><sub>🌐 Remote - USA - Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Collections Associate <br><sub>🌐 Remote - USA • NA</sub> | $70k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Data Analyst - Reconciliation <br><sub>🌐 Remote - Canada • NA</sub> | $192k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Engineering Manager - Bank Accounts <br><sub>🌐 Remote - Canada • NA</sub> | $201k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Customer Support Manager - Risk <br><sub>🌐 Remote - Canada • NA</sub> | $115k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Sales Commission Analyst <br><sub>🏢 Remote, US - Hybrid • NA</sub> | $48k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Technical Program Manager <br><sub>🌐 Remote - Americas • NA</sub> | $220k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Technical Program Manager <br><sub>🌐 Remote - Americas • NA</sub> | $220k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Corporate Counsel <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $150k–$185k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Recruiter, Tech / G&A <br><sub>🌐 Remote - USA • NA</sub> | $118k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Field Hardware Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Field Hardware Technician <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Analytics Engineer <br><sub>🌐 Remote - USA • NA</sub> | $312k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Talent Acquisition Lead, Technology <br><sub>🌐 Remote - USA * • NA</sub> | $120k–$150k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Brand Success Manager - Biling... <br><sub>🌐 Remote - USA • NA</sub> | $132k–$181k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Commercial Counsel <br><sub>🌐 Remote - USA • NA</sub> | $160k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Data Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Filipino Translation & Localization S... <br><sub>🌐 Remote - USA * • NA</sub> | $70k–$90k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Air Account Executive <br><sub>🌐 Remote - Missouri-Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Air Account Executive <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Account Executive, Air, T1200 <br><sub>🌐 Remote - Kentucky-Remote • NA</sub> | $73k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Director, Learning & Development <br><sub>🌐 Remote - USA * • NA</sub> | $140k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Customer Success Manager- West <br><sub>🌐 Remote - MT (Mountain) • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Researcher, Employment & Econo... <br><sub>🌐 Remote - USA • NA</sub> | $129k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Account Manager, TMT <br><sub>🌐 Remote - USA • NA</sub> | $100k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Marketing Operations Manager  <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $140k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Global Brand & PR Program Manager <br><sub>🏢 New York; San Francisco • NA</sub> | $145k–$195k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Global Channel Operations Manager <br><sub>🌐 Remote - United States - Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Accounting Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Staff Biostatistician <br><sub>🏢 Redwood City, CA (Hybrid) or Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Software Engineer, Full Stack <br><sub>🏢 San Francisco, CA; Sunnyvale, CA; S • NA</sub> | $131k–$192k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Software Engineering Intern <br><sub>🌐 Remote - USA • NA</sub> | $121k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Software Engineer - Full Stack... <br><sub>🏢 Washington, D.C. Metro Area • NA</sub> | $180k–$240k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Careers - Senior Data Engineer, Product <br><sub>🏢 NA</sub> | $198k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Full Stack Developer [U.S. Citizenshi... <br><sub>🌐 Remote - USA • NA</sub> | $75k–$100k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Product Engineer <br><sub>🏢 San Francisco, California, United S • NA</sub> | $180k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Lead Cloud Engineers <br><sub>🏢 United States • NA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Staff Software Engineer, Full Stack <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Software Engineer in Test <br><sub>🌐 Remote - USA * • NA</sub> | $120k–$140k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Data Scientist, Growth Data  <br><sub>🌐 Remote - Canada • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Manager, Internal Controls <br><sub>🌐 Remote - Canada • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Clinical Sales Specialist, Pulmonary <br><sub>🌐 Remote - United States - Remote • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | GTM Recruitment Manager  <br><sub>🌐 Remote - USA Remote • NA</sub> | $82k–$156k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Manager, Field Marketing EMEA South &... <br><sub>🌐 Remote - USA • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Contracts Counsel  <br><sub>🌐 Remote - USA (Remote) • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Software Engineer, Agentic AI Systems <br><sub>🌐 Remote - USA • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Customer Success Manager <br><sub>🌐 Remote - Canada Remote • NA</sub> | $72k–$92k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Staff Product Designer [relocation to... <br><sub>🏢 New York • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior DevOps Engineer, Cloud Delivery <br><sub>🌐 Remote - US Remote • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Customer Success \| Team Lead \| Remo... <br><sub>🌐 Remote - Washington State • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Staff Customer Support Programs & Sup... <br><sub>🏢 US, Remote - Hybrid • NA</sub> | $154k+/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Lifecycle Marketing Manager <br><sub>🌐 Remote - USA • NA</sub> | $122k–$190k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Staff Product Manager, Enterprise Pro... <br><sub>🌐 Remote - USA • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Global Events Systems & Operations Co... <br><sub>🏢 San Francisco • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Legal Operations Lead  <br><sub>🌐 Remote - USA • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Creative Lead, Copy (Remote US) <br><sub>🌐 Remote - USA • NA</sub> | $120k–$130k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | QA Engineer II <br><sub>🌐 Remote - North Carolina • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Account Partner, Large Pro Par... <br><sub>🌐 Remote - USA • NA</sub> | $110k–$170k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Technical Program Manager, Inf... <br><sub>🌐 Remote - USA • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Remote Estimator (Heavy Civil and Ear... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Principal Product Manager, Security <br><sub>🌐 Remote - USA • NA</sub> | $208k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Sales Recruiter — Americas <br><sub>🏢 Remote - California, USA; Santa Cla • NA</sub> | $117k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Sales Development Representative <br><sub>🌐 Remote - USA • NA</sub> | $65k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Revenue Intelligence Operations Direc... <br><sub>🌐 Remote - USA • NA</sub> | $246k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Software Engineer, AI Platform... <br><sub>🏢 United States - Hybrid • NA</sub> | $197k–$222k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Project Manager <br><sub>🌐 Remote - United States - Remote • NA</sub> | $120k–$178k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Manager, Developer Evangelism ... <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Executive Business Partner <br><sub>🏢 Remote - US - Hybrid • NA</sub> | $106k–$133k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Win... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Wes... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Wes... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Was... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Vir... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Tul... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Tuc... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Tem... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Tal... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Tam... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Tac... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Sun... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - St.... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Syr... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Sto... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - St.... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Sta... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Sta... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Spo... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Sil... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Sea... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Sco... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Sav... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Practice Lead \| Dynatrace/Observabil... <br><sub>🏢 Atlanta, GA • NA</sub> | $170k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Sai... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - San... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Sal... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Sac... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Roc... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Riv... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Ric... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Res... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Ren... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Red... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Ral... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Pro... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Pro... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Pri... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Por... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Pla... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Pit... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Pho... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Phi... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Pas... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Pal... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Orl... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Oma... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Oak... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Okl... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Nor... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - New... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - New... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - New... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - New... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Nas... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Nap... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Mou... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Min... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Mil... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Mia... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Men... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Mem... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Mad... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Lou... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Los... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Lon... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Lex... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Las... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Kno... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Kir... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Kan... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Jer... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Jac... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Ith... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Irv... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Iow... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Ind... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Hou... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Hun... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Hon... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Har... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Gre... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Gra... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Gai... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Fre... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Fre... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Fri... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - For... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - For... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - For... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Eva... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - El ... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Eug... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Dur... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Det... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Des... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Den... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Day... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Dal... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Cup... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Cul... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Col... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Col... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Team Lead, Android Core Product - Col... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Col... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Col... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Cle... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Chi... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Cin... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Cha... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Cha... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Team Lead, Android Core Product - Cha... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Team Lead, Android Core Product - Cha... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Team Lead, Android Core Product - Cha... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Team Lead, Android Core Product - Car... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Cam... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Bur... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Buf... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Team Lead, Android Core Product - Bou... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Team Lead, Android Core Product - Blo... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Team Lead, Android Core Product - Boi... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Team Lead, Android Core Product - Bir... <br><sub>🌐 Remote - USA • NA</sub> | $140k–$200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=88a1662743f1e311" alt="" height="16"> xbowcareers | Security Engineer <br><sub>🌐 Remote - US remote • NA</sub> |  | 2h | [Apply](https://wagey.gg/jobs/cac3a6e371040dbf-security-engineer-at-xbowcareers?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=222dcd03aed943a8" alt="" height="16"> zapier | People Business Partner <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 2h | [Apply](https://wagey.gg/jobs/be9cbb4bfb45c9bb-people-business-partner-at-zapier?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_ea84c4faa6ba5a33" alt="" height="16"> virtahealth | Member Growth Operations Associate Ma... <br><sub>🌐 Remote - USA * • NA</sub> | $100k–$129k/year | 2h | [Apply](https://wagey.gg/jobs/cfeb470b99fcd290-member-growth-operations-associate-manager-at-virtahealth?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=6f0d4cdcb6e7bd63" alt="" height="16"> skydio | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $172k–$215k/year | 2h | [Apply](https://wagey.gg/jobs/2f560311d3befcd2-senior-manager-solutions-engineering-state-local-educational-sled-top-1200-at-sk?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=6f0d4cdcb6e7bd63" alt="" height="16"> skydio | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $172k–$215k/year | 2h | [Apply](https://wagey.gg/jobs/b9b396e0c07e1c3a-senior-manager-solutions-engineering-majors-west-at-skydio?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=6f0d4cdcb6e7bd63" alt="" height="16"> skydio | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $172k–$215k/year | 2h | [Apply](https://wagey.gg/jobs/6945c0f7a96e9b7a-senior-manager-solutions-engineering-top-1200-west-at-skydio?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c6e1d2cbd7238950" alt="" height="16"> runpod | Affiliate & Creator Marketing Lead <br><sub>🌐 Remote - USA • NA</sub> | $115k–$180k/year | 2h | [Apply](https://wagey.gg/jobs/13e146b23fc4d3de-affiliate-creator-marketing-lead-at-runpod?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=f6968b11b85d1cb8" alt="" height="16"> rebuy | Director, Security and Compliance <br><sub>🌐 Remote - USA • NA</sub> | $175k–$200k/year | 2h | [Apply](https://wagey.gg/jobs/859ffbe34de52a6a-director-security-and-compliance-at-rebuy?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c471b86107460d91" alt="" height="16"> paxos | Product Marketing Lead, Stablecoins <br><sub>🌐 Remote - NYC, New York • NA</sub> |  | 2h | [Apply](https://wagey.gg/jobs/5f5d7f87ee117687-product-marketing-lead-stablecoins-at-paxos?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_e9e07a24bd2c3532" alt="" height="16"> optro | Senior HRIS Systems Manager (Remote) <br><sub>🌐 Remote - United States • NA</sub> |  | 2h | [Apply](https://wagey.gg/jobs/32fc79f71f46ab3a-senior-hris-systems-manager-remote-at-optro?ref=github) |
+| ░░░░░░░ | Senior IT Audit Manager <br><sub>🌐 Remote - United States - Remote • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Director, Product Operations  <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Manager, Customer Success - Americas <br><sub>🌐 Remote - CT (Central) • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Strategic Account Executive, AMER <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Software Engineer II, Core Edge Proce... <br><sub>🌐 Remote - Ontario OR British Columbi • NA</sub> | $93k–$116k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Staff Software Engineer - Core Edge P... <br><sub>🌐 Remote - Canada • NA</sub> | $157k–$196k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Full Stack Engineer, Customer ... <br><sub>🌐 Remote - Canada • NA</sub> | $116k–$145k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Account Executive <br><sub>🌐 Remote - USA • NA</sub> | $77k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Sr. System Engineer, Fleet Support - ... <br><sub>🌐 Remote - USA • NA</sub> | $36k–$54k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Product Design Lead  <br><sub>🌐 Remote - USA - remote • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Regional Sales Director - West <br><sub>🌐 Remote - U.S. Remote • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Customer Experience - Dental Lab Tech... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Talent Sourcer <br><sub>🌐 Remote - USA * • NA</sub> | $624k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior GPU Engineer <br><sub>🌐 Remote - USA • NA</sub> | $190k–$210k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | GPU Engineer <br><sub>🌐 Remote - USA • NA</sub> | $135k–$145k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Integrations Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $130k–$160k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Founding Enterprise Account Executive <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Engineer, Europe to San Francisco <br><sub>🏢 San Francisco • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | AI Outbound Marketing Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Sales Development Representative - Fe... <br><sub>🏢 Boston, Massachusetts, USA; Dallas, • NA</sub> | $45k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Sales Account Executive - SLED - Mid-... <br><sub>🏢 Remote - Maryland, USA; Remote - No • NA</sub> | $121k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | GTM Learning Platforms Manager <br><sub>🏢 Remote - USA - Hybrid • NA</sub> | $146k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Customer Success Manager <br><sub>🌐 Remote - USA • NA</sub> | $120k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Technical Director, AI-Native Cloud &... <br><sub>🌐 Remote - Canada • NA</sub> | $187k–$204k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Directeur technique - Cloud natif, IA... <br><sub>🌐 Remote - Canada - Remote • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Combo Retirement Plan Administrator <br><sub>🏢 Hybrid - USA * • NA</sub> | $85k–$95k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Plan Administrator, (ARPS) <br><sub>🏢 Hybrid - USA * • NA</sub> | $90k–$93k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | HR Manager, EMEA R&D <br><sub>🏢 United States - Hybrid • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Principal Platform Engineer <br><sub>🌐 Remote - Rosslyn, VA or Remote • NA</sub> | $255k–$280k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Delivery Manager <br><sub>🌐 Remote - Canada • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Sr. Director, Scientific Affairs <br><sub>🌐 Remote - USA • NA</sub> | $181k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Director, Events & Experiences <br><sub>🏢 Remote - United States - Hybrid • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Sr. Director, Scientific Affairs <br><sub>🌐 Remote - USA • NA</sub> | $181k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Lead, Member and Provider Services <br><sub>🌐 Remote - USA * • NA</sub> | $56k–$73k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Salesforce Technical Architect, AI an... <br><sub>🌐 Remote - Canada • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Sr. Developer, MuleSoft <br><sub>🌐 Remote - USA • NA</sub> | $94k–$266k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Salesforce Agentforce Architect (Tech... <br><sub>🌐 Remote - USA • NA</sub> | $94k–$266k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Designer/Researcher, Senior - Interac... <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Assistant General Counsel, Commercial... <br><sub>🌐 Remote - USA • NA</sub> | $225k–$250k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Implementation Manager, Core <br><sub>🌐 Remote - USA • NA</sub> | $100k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Software Engineer Intern (Remote) <br><sub>🏢 Hybrid - USA * • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Vice President of Engineering <br><sub>🏢 Hybrid - USA * • NA</sub> | $275k–$325k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Application Security Engineer - South... <br><sub>🌐 Remote - USA * • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Security Software Engineer <br><sub>🌐 Remote - Canada - Remote • NA</sub> | $146k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Staff Renewals Operations Manager <br><sub>🌐 Remote - USA • NA</sub> | $139k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Sr. Customer Success Manager  <br><sub>🌐 Remote - USA • NA</sub> | $125k–$133k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Business Recruiter <br><sub>🌐 Remote - Kitchener-Waterloo, ON; Re • NA</sub> | $108k–$149k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Product Manager, People Product <br><sub>🏢 United States - Remote - Hybrid • NA</sub> | $137k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Product Manager, Agent <br><sub>🌐 Remote - Americas Remote • NA</sub> | $137k–$156k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Software Engineer - Predict  <br><sub>🌐 Remote - Canada • NA</sub> | $157k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Inside Sales Representative <br><sub>🌐 Remote - USA * • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ |  Implementation Business Analyst II <br><sub>🌐 Remote - USA * • NA</sub> | $79k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Launch Manager <br><sub>🏢 Seattle, WA, Remote - Hybrid • NA</sub> | $130k–$160k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Associate Project Manager, Civil Engi... <br><sub>🌐 Remote - USA * • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Director, Clinical Research and Cance... <br><sub>🌐 Remote - United States - Remote • NA</sub> | $175k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Director of Retention <br><sub>🌐 Remote - USA * • NA</sub> | $130k–$150k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Principal Competitive Intelligence Ma... <br><sub>🌐 Remote - United States, Remote • NA</sub> | $146k–$213k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Sales Enablement Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Customer Account Manager, Strategic A... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Intermediate Cloud Security Engineer ... <br><sub>🌐 Remote - US • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Azure Platform Engineer, Remote Ontario <br><sub>🌐 Remote - Toronto, Ontario • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Payments Risk Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Director, Marketing Operations <br><sub>🌐 Remote - USA - Remote • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | DevOps Lead, Cloud Infrastructure <br><sub>🌐 Remote - USA * • NA</sub> | $21k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Manager, Customer Success Management <br><sub>🌐 Remote - USA - Remote • NA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Sales Engineer II, Mid-Market <br><sub>🌐 Remote - United States of America • NA</sub> | $165k–$175k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Software Development Engineer (24-mon... <br><sub>🏢 Bellevue, Washington, United States • NA</sub> | $117k–$156k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Knowledge Graph Data Engineer <br><sub>🏢 Reston, VA - Hybrid • NA</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Tech Lead Data Engineer <br><sub>🌐 Remote - Canada; Latin America - US • NA</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Staff/Senior Staff Software Engineer,... <br><sub>🏢 Austin, Texas, United States • NA</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Engineering Manager <br><sub>🌐 Remote - USA • NA</sub> | $225k–$300k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Staff Software Engineer, Frontend <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Product Designer <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Enterprise Account Executive <br><sub>🌐 Remote - Americas • NA</sub> | $1000k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | AI Infrastructure Engineer <br><sub>🌐 Remote - Americas • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Customer Success Engineer <br><sub>🌐 Remote - Americas • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Sr. HR Business Partner <br><sub>🌐 Remote - Ontario • NA</sub> | $98k–$132k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Compensation Manager <br><sub>🌐 Remote - US Remote • NA</sub> | $333k+/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Telehealth Physician (MD/DO), Medicar... <br><sub>🌐 Remote - USA • NA</sub> | $250k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Data Analyst, Reporting <br><sub>🌐 Remote - US Remote • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Customer Support Representative  <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Revenue Operations Program Man... <br><sub>🏢 US, Remote - Hybrid • NA</sub> | $145k–$160k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - United States Remote • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | AI software Engineer - Project Tricor... <br><sub>🌐 Remote - CT (Central) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Account Executive <br><sub>🌐 Remote - USA * • NA</sub> | $135k–$150k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Manager, Payor Relations <br><sub>🌐 Remote - Americas • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | CX Coordinator, Pharmacy <br><sub>🌐 Remote - Canada • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | CX Coordinator, Shipping <br><sub>🌐 Remote - Canada • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Tech Lead, Foundations <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $165k–$185k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Chief Operating Officer <br><sub>🌐 Remote - USA • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Software Engineer, Foundations <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $95k–$120k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Director of Accounting Advisory <br><sub>🌐 Remote - United States - Remote • NA</sub> | $135k–$150k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Content Marketing Manager <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $95k–$110k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Product Manager, AI Copilot & ... <br><sub>🌐 Remote - USA • NA</sub> | $165k–$195k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Sr. Support Operations Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Director, Product Management –... <br><sub>🌐 Remote - USA • NA</sub> | $208k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Staff Cloud Platform Engineer <br><sub>🌐 Remote - USA • NA</sub> | $208k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Manager, Sales Engineering - F... <br><sub>🏢 Remote - Maryland, USA; Remote - Vi • NA</sub> | $201k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Software Engineer, Platform Access (L2) <br><sub>🌐 Remote - CT (Central) • NA</sub> | $117k–$146k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | People Generalist <br><sub>🌐 Remote - Canada • NA</sub> | $91k–$114k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | GTM Innovation Account Executive <br><sub>🌐 Remote - CT (Central) • NA</sub> | $132k–$165k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior, ML Engineer - Tracking <br><sub>🌐 Remote - USA • NA</sub> | $177k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Marketing Strategy Consultant I <br><sub>🌐 Remote - Americas • NA</sub> | $90k–$110k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Sales Development Representative, Mid... <br><sub>🌐 Remote - USA • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Research Scientist - Human-AI Systems <br><sub>🏢 New York City, NY (Hybrid); San Fra • NA</sub> | $200k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Associate Electrical Engineer-Federal... <br><sub>🌐 Remote - USA * • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Strike Engineer <br><sub>🌐 Remote - Santa Clara, CA or Remote • NA</sub> | $120k–$170k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Safety Analysis Engineer <br><sub>🌐 Remote - Santa Clara, CA or Remote • NA</sub> | $85k–$165k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Recruiter - Clinical <br><sub>🌐 Remote - USA • NA</sub> | $84k–$97k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Salesforce Account Executive, Financi... <br><sub>🌐 Remote - USA • NA</sub> | $94k–$277k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Manager of Growth Marketing an... <br><sub>🌐 Remote - USA • NA</sub> | $120k–$140k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Manager / Director, Payer Enro... <br><sub>🌐 Remote - USA * • NA</sub> | $175k–$215k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Inside Sales Representative, Samplize... <br><sub>🌐 Remote - USA * • NA</sub> | $80k–$100k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Director, Sales Development <br><sub>🌐 Remote - USA • NA</sub> | $165k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Backend Engineer Consultant - (remote... <br><sub>🌐 Remote - USA • NA</sub> | $60k–$78k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Virtual Per Diem Therapist  <br><sub>🌐 Remote - MT (Mountain) • NA</sub> | $92k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Director, Strategy & Planning \| Unit... <br><sub>🌐 Remote - United States (Remote) • NA</sub> | $230k–$275k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Virtual Evening Per Diem Therapist <br><sub>🌐 Remote - MT (Mountain) • NA</sub> | $92k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Pipeline Programs Manager <br><sub>🌐 Remote - Canada • NA</sub> | $115k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Head of Reseller & Embedded Solutions <br><sub>🌐 Remote - United States (Remote-Firs • NA</sub> | $210k–$263k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Detection Engineer, Protective... <br><sub>🌐 Remote - United States - remote • NA</sub> | $160k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Partner Manager - Commercial  <br><sub>🌐 Remote - United States - Remote • NA</sub> | $123k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Sr. Software Engineer <br><sub>🌐 Remote - USA • NA</sub> | $140k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Bilingual/Spanish Speaking Health Coach <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $46k–$54k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Implementation Discovery Lead- Evive <br><sub>🌐 Remote - USA • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | SEO/AEO Manager  <br><sub>🌐 Remote - USA • NA</sub> | $128k–$152k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Customer Success Manager <br><sub>🌐 Remote - USA • NA</sub> | $92k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Consultant - Finance ERP Focus <br><sub>🌐 Remote - United States - Remote • NA</sub> | $125k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Experienced Engineering Recruiter <br><sub>🌐 Remote - Americas • NA</sub> | $50k–$70k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Site Reliability Engineer <br><sub>🌐 Remote - Based - US • NA</sub> | $130k–$150k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Structures Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Frontend Developer, Intermediate (Rem... <br><sub>🌐 Remote - Toronto, Ontario • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Director, Global Partner Marketing <br><sub>🌐 Remote - US • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Paid Social Video Editor <br><sub>🌐 Remote - USA • NA</sub> | $112k–$133k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Creative Operations Manager - Paid So... <br><sub>🌐 Remote - USA • NA</sub> | $109k–$143k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Product Designer II <br><sub>🌐 Remote - Boston, MA or Remote • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | AI/SEO Content Specialist <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Staff Product Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Professional Services Engineer... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Professional Services Engineer... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Analytics Engineer <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Technical Account Manager <br><sub>🌐 Remote - U.S. Remote • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Procurement Associate <br><sub>🌐 Remote - USA * • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Account Executive - Enterprise, Texas <br><sub>🏢 Remote - Texas, USA - Hybrid • NA</sub> | $140k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Junior DevOps Engineer <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Jr. Full Stack Developer  <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Full Stack Developer - Mid-Level <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | DevOps Engineer - Mid Level  <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Container Infrastructure Engineer <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Cloud Infrastructure Engineer - (Junior) <br><sub>🏢 Remote/Hybrid if local to Maryland  • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | VP, Global Social Media (Americas) <br><sub>🏢 Needham, MA, United States - Hybrid • NA</sub> | $285k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Mobile Engineer - Grafana Ops ... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $175k–$210k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Civil Engineer <br><sub>🌐 Remote - USA * • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Enterprise Sales Executive <br><sub>🌐 Remote - USA * • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Enterprise Sales Executive <br><sub>🌐 Remote - USA * • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Commercial Counsel, Revenue <br><sub>🌐 Remote - Based - US • NA</sub> | $165k–$185k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Lead Sales Operations Analyst <br><sub>🌐 Remote - United States, Remote • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Global Vertical Head of Regulatory Co... <br><sub>🏢 San Francisco • NA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Care Navigator- Licensed Nurse - Remo... <br><sub>🌐 Remote - MT (Mountain) • NA</sub> | $46k–$52k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Engineering Manager, GPU (ML Accelera... <br><sub>🏢 San Francisco, CA \| New York City, • NA</sub> | $500k–$850k/year | 10h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Vice President <br><sub>🏢 San Francisco • NA</sub> | $244k–$305k/year | 10h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | AV Event Production Coordinator <br><sub>🌐 Remote - USA • NA</sub> |  | 10h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Full Stack Software Engineer <br><sub>🌐 Remote - Canada • NA</sub> | $200k–$275k/year | 10h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Engineering Manager, Product <br><sub>🌐 Remote - United States • NA</sub> | $204k–$289k/year | 10h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Product Manager, Clear <br><sub>🌐 Remote - Austin, TX • NA</sub> |  | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | GTM Recruiter <br><sub>🌐 Remote - New York City, New York, U • NA</sub> |  | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Software Test Engineer <br><sub>🏢 Toronto, Canada • NA</sub> | $138k–$172k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Blockchain Data Wizard, Analyst or Sc... <br><sub>🏢 New York, New York, USA • NA</sub> |  | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Designer, Web Presence & Platform <br><sub>🌐 Remote - United States • NA</sub> | $133k–$200k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Directeur·rice principal·e de la qual... <br><sub>🏢 NA</sub> | $160k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Producer <br><sub>🏢 US - United States - Hybrid • NA</sub> | $91k–$140k/year | 11h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Sr Manager, Strategic Events EMEA — 1... <br><sub>🌐 Remote - USA • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Campaign Manager <br><sub>🌐 Remote - USA • NA</sub> | $90k–$120k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Director of Procurement (Remote) <br><sub>🌐 Remote - USA • NA</sub> | $104k/year | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Director of Finance <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | General Ledger Accountant <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Head of FP&A and Strategic Finance  <br><sub>🌐 Remote - USA (Remote) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | GTM Systems Specialist  <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Staff Data Scientist, DocV <br><sub>🌐 Sacramento, California, United Stat • NA</sub> | $191k–$230k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Amazon 3PF Operations Associate <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $1k–$1k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Security Engineer II - Identity and A... <br><sub>🌐 Remote - British Columbia, Canada • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Design Engineer <br><sub>🌐 Remote - USA • NA</sub> | $195k–$238k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Account Manager <br><sub>🌐 Remote - USA • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Account Executive, Inside Sales <br><sub>🌐 Remote - USA • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Forward Deployed Scientist <br><sub>🌐 Remote - USA • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | General Application <br><sub>🌐 Remote - USA * • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Research Scientist <br><sub>🌐 Remote - USA • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Founding Data Engineer (Pricing/Comps) <br><sub>🌐 Remote - Americas • NA</sub> | $160k–$220k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Staff Applied AI Engineer - Enterpris... <br><sub>🏢 New York City, NY (Hybrid); San Fra • NA</sub> | $230k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Software Engineer, Data Platform <br><sub>🌐 Remote - United States, Remote • NA</sub> | $190k–$230k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Business Development Representative <br><sub>🌐 Remote - USA • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Lone Wolf Technologies <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Lone Wolf Technologies <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Lone Wolf Technologies - Product Mark... <br><sub>🌐 Remote - Toronto, ON (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Lone Wolf Technologies - Marketing Op... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | CertiK - Solutions Consultant, Digita... <br><sub>🌐 Remote - Dubai / Remote • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Lone Wolf Technologies - Business Sys... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | CertiK - Lead Product Manager, Digita... <br><sub>🌐 Remote - US / Remote • NA</sub> | $120k–$180k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Head of Sales Readiness <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Lone Wolf Technologies - Account Base... <br><sub>🌐 Remote - United States (Remote) • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Principal Software Engineer <br><sub>🏢 San Francisco, California • NA</sub> | $224k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Machine Learning Engineer - Ne... <br><sub>🏢 San Francisco, CA; Sunnyvale, CA; S • NA</sub> | $137k–$202k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Sr. Machine Learning Engineer <br><sub>🌐 Remote - Canada • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Machine Learning Infrastructur... <br><sub>🌐 Remote - USA • NA</sub> | $200k–$400k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Accounts Payable Specialist <br><sub>🏢 San Francisco , California , United • NA</sub> | $95k–$125k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Sonar - Security Trust and Assurance ... <br><sub>🏢 Austin, Texas • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | ML Engineer - API Platform <br><sub>🌐 Remote - San Francisco, California, • NA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Intermediate Software Engineer, Secur... <br><sub>🌐 Remote - Canada • NA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Staff Software Engineer, Data Enginee... <br><sub>🌐 Remote - USA - Remote • NA</sub> | $132k–$170k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Machine Learning Engineer <br><sub>🏢 Remote - U.S, Ann Arbor, MI - Hybri • NA</sub> | $177k–$213k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Lead Software Engineer – Real-Time Ev... <br><sub>🌐 Remote - USA • NA</sub> | $200k–$210k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Staff Software Engineer <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $62k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Lead Machine Learning Engineer <br><sub>🌐 Remote - USA - Remote • NA</sub> | $235k–$285k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Analytics Engineer, Data Platform <br><sub>🌐 Remote - USA • NA</sub> | $124k–$135k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Software Engineer I, Integrati... <br><sub>🌐 Remote - USA * • NA</sub> | $144k–$185k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Staff Software Engineer, Dev Ops <br><sub>🌐 Remote - Canada - Ontario; Canada - • NA</sub> | $106k–$169k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Lone Wolf Technologies - Software Eng... <br><sub>🌐 Remote - United States (Remote) • NA</sub> | $142k–$145k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Lead Data Engineer <br><sub>🌐 Remote - USA • NA</sub> | $140k–$160k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | DevOps Engineer <br><sub>🌐 Remote - USA • NA</sub> | $165k–$190k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Software Engineer <br><sub>🌐 Remote - USA • NA</sub> | $115k–$135k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Xsolla - Legal Counsel, Payments & Fi... <br><sub>🌐 Remote - USA • NA</sub> | $150k–$160k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Manager, Detection Engineering (Rapid... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $164k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Staff AI Platform Engineer <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Staff Endpoint Software Engineer, (Py... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Principal Software Engineer, AI SIEM <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $216k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Staff AI Platform Engineer, Infrastru... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Backend Software Engineer, Obs... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $132k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior AI Platform Engineer, Infrastr... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $132k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Staff Software Engineer, Time and Sch... <br><sub>🏢 New York, NY - Hybrid; Toronto, Ont • NA</sub> | $163k–$204k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Staff Backend Software Engineer - Age... <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Staff Infrastructure Engineer <br><sub>🏢 United States, Americas, United Sta • NA</sub> | $156k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Global Head of AV Driver Training <br><sub>🏢 Sunnyvale, California USA - Hybrid • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Enterprise Partner Marketing M... <br><sub>🌐 Remote - USA • NA</sub> | $160k–$175k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior QA Engineer  <br><sub>🌐 Remote - USA * • NA</sub> | $120k–$170k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Privacy & Regulatory Counsel <br><sub>🌐 Remote - North Carolina, United Sta • NA</sub> | $188k–$224k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Security Solution Engineer <br><sub>🌐 United States • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | GTM Finance Manager <br><sub>🌐 United States • NA</sub> | $150k–$180k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Implementation Specialist <br><sub>🌐 Remote - United States • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Client Support Associate  <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Software Engineer - Card Netwo... <br><sub>🌐 Remote - British Columbia, Canada • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Financial Analyst <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Security Engineer, Detection a... <br><sub>🌐 Remote - Ontario OR British Columbi • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Manager, Security & Compliance <br><sub>🌐 United States, United States • NA</sub> | $150k–$190k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | SPAR Research Manager <br><sub>🌐 Remote - USA * • NA</sub> | $105k–$145k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Implementation Project Manager <br><sub>🌐 Remote - USA • NA</sub> | $65k–$75k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Founding ML Engineer, Computer Vision... <br><sub>🌐 Remote - Americas • NA</sub> | $200k–$260k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Growth Recruiter <br><sub>🌐 Remote - Palo Alto, CA; Asia; Canad • NA</sub> | $105k–$174k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Expert Team Lead, Engineering <br><sub>🌐 Remote - Palo Alto, CA; Asia; Austr • NA</sub> | $104k–$170k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Director of Global Growth Marketing a... <br><sub>🏢 New York, NY • NA</sub> | $200k–$280k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | AI Tutor - Video (Weekend) <br><sub>🌐 Remote - USA • NA</sub> | $83k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Associate Program Manager - APAC <br><sub>🏢 Needham, MA, United States • NA</sub> | $62k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Growth & Field Marketing Manager (Bra... <br><sub>🌐 Remote - Americas • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | VP of Solutions Architecture  <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Enterprise Account Director- SoCal <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Engineering Manager, Grafana F... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Engineering Manager, Grafana F... <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Manager, Global Engagement Str... <br><sub>🏢 Dallas, Texas, United States - Hybr • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Director, Global Engagement Strategy ... <br><sub>🏢 Dallas, Texas, United States - Hybr • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Director, Enterprise Portfolio Manage... <br><sub>🌐 Remote - USA • NA</sub> | $150k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Sr. Project Engineer, RSX (Remote con... <br><sub>🌐 Remote - Long Beach, California / H • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | The Athletic Media Company <br><sub>🌐 Remote - Canada • NA</sub> | $125k–$145k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Merlin Labs - Senior Aviation Cyber C... <br><sub>🌐 Remote - Boston or Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Program Chief Engineer, Cyclops (Remo... <br><sub>🌐 Remote - Long Beach, California / H • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Program Chief Engineer, RSX (Remote c... <br><sub>🌐 Remote - Long Beach, California / H • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Merlin Labs - Senior Airworthiness & ... <br><sub>🌐 Remote - Boston or Remote • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Safety & Mission Assurance Engineer (... <br><sub>🌐 Remote - Long Beach, California / H • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Software Engineer <br><sub>🌐 Remote - San Francisco, California, • NA</sub> | $140k–$285k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Product Manager <br><sub>🏢 New York City, NY, United States • NA</sub> | $185k–$250k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Backend Engineer <br><sub>🌐 Remote - Argentina, Brazil, Canada, • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Mainframe Modernization Architect <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $156k–$210k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Analytics Engineer, Full-stack <br><sub>🌐 Remote - USA • NA</sub> | $100k–$250k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Sr. Staff Machine Learning Systems En... <br><sub>🌐 Remote - United States • NA</sub> | $240k–$265k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Machine Learning Infrastructure Engineer <br><sub>🌐 Remote - San Mateo, CA; New York, N • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Machine Learning Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Staff Software Engineer, Infrastructure <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Forward Deployed Engineer (Design + BIM) <br><sub>🏢 San Francisco, California, United S • NA</sub> | $150k–$200k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Staff Software Engineer, Product <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Director, Talent Acquisition <br><sub>🌐 Remote - United States • NA</sub> | $180k–$312k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Chief Architect, HealthShare <br><sub>🏢 Boston, MA • NA</sub> | $172k–$230k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Engineer, Production Support <br><sub>🌐 Remote - USA • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Principal Frontend Engineer <br><sub>🏢 United States • NA</sub> | $250k–$300k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Frontend Engineer, Data Visualization <br><sub>🌐 Remote - USA • NA</sub> | $160k–$250k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Technical Lead, MSPs <br><sub>🏢 United States • NA</sub> | $140k–$190k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | R&D Attorney <br><sub>🏢 North America \| Texas • NA</sub> | $150k–$240k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Security Operations Specialist <br><sub>🌐 Remote - USA • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Manager, Quality, Volume Tiers <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $160k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Technology Evangelist <br><sub>🌐 Remote - San Francisco, California, • NA</sub> | $12k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | General Interest <br><sub>🌐 Remote - San Francisco, California, • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Account Executive, Public Sector <br><sub>🌐 Remote - USA • NA</sub> | $130k–$150k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Sr Engineering Manager-Android & Devi... <br><sub>🌐 Remote - USA • NA</sub> | $154k–$212k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Customer Success Manager <br><sub>🌐 Remote - Florida, United States • NA</sub> | $85k–$135k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Principal Product Manager, Sandboxes <br><sub>🌐 Remote - United States, Canada • NA</sub> | $184k–$263k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Expert Database Architect <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $155k–$210k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Founding Engineer <br><sub>🏢 San Mateo, California, United State • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Tech Lead <br><sub>🏢 Toronto, Ontario, Canada • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Sales Engineer <br><sub>🌐 Remote - Americas • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | BSA Operations Manager <br><sub>🏢 New York, NY, United States • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Product Lead, Inpatient <br><sub>🏢 San Francisco, California, United S • NA</sub> | $203k–$283k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Staff Data Engineer, Analytics <br><sub>🌐 Remote - Americas • NA</sub> | $207k–$290k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Coach Development Manager <br><sub>🌐 Remote - San Francisco, California, • NA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Operations and Logistics Assoc... <br><sub>🏢 Ashville, Ohio, United States • NA</sub> | $97k–$129k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior / Staff Backend Engineer, Maps <br><sub>🏢 New York , New York, United States • NA</sub> | $200k–$300k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Chief Technology Advisor <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $151k–$205k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Electrical Technician <br><sub>🏢 Los Angeles, California, United Sta • NA</sub> | $62k–$83k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Founding Account Executive <br><sub>🏢 San Francisco, California , United  • NA</sub> | $250k–$300k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Staff Software Engineer, AI Teammates <br><sub>🏢 San Francisco,  California,  United • NA</sub> | $248k–$282k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Data Engineer <br><sub>🌐 Remote - Canada • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Federal Account Executive <br><sub>🌐 Remote - Tysons, Virginia, United S • NA</sub> | $250k–$400k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Founding Data Engineer <br><sub>🏢 San Francisco, California, United S • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Software Engineer, Native Delivery <br><sub>🌐 Remote - (North America) • NA</sub> | $180k–$400k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Customer Success/Operations Associate <br><sub>🌐 Remote - USA • NA</sub> | $85k–$110k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Software Engineer I <br><sub>🏢 United States • NA</sub> | $86k–$128k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Software Engineer II <br><sub>🏢 Vancouver, British Columbia, Canada • NA</sub> | $110k–$120k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Principal FW/SW Engineer <br><sub>🌐 Remote - Toronto, Ontario, Canada • NA</sub> | $185k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Counsel, Product Legal (Yield) <br><sub>🏢 San Francisco, California, United S • NA</sub> | $180k–$270k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Research Engineer, Robotics Evals <br><sub>🌐 Remote - San Francisco, California, • NA</sub> | $80k–$230k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Machine Learning Engineer, Discovery <br><sub>🌐 Remote - USA • NA</sub> | $180k–$245k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Expert Team Lead, SWE <br><sub>🌐 Remote - Palo Alto, CA; Asia; Austr • NA</sub> | $104k–$170k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Regional Business Consultant <br><sub>🌐 Remote - Boston, MA, United States • NA</sub> | $80k–$90k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Long Wall - Lead Program Systems Engi... <br><sub>🌐 Remote - Long Beach, California / H • NA</sub> | $150k–$230k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Software Engineer, AI Teammates Exper... <br><sub>🏢 San Francisco,  California,  United • NA</sub> | $202k–$299k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Account Executive, Enterprise Expansion <br><sub>🌐 Remote - New York, New York, United • NA</sub> | $250k–$350k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Robot Service Technician Assistant (P... <br><sub>🌐 Remote - Flagstaff, Arizona • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Forward Deployed Engineer <br><sub>🌐 Remote - USA • NA</sub> | $200k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Software Engineering Development Prog... <br><sub>🏢 Waltham, MA - Hybrid • NA</sub> | $90k–$105k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Manager, Credit Risk Operations <br><sub>🏢 San Francisco, California, United S • NA</sub> | $130k–$160k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Robot Service Technician Assistant (W... <br><sub>🌐 Remote - Wilmington, North Carolina • NA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Patient Engagement Specialist I (Temp... <br><sub>🌐 Menlo Park, California, United Stat • NA</sub> | $44k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $17k–$215k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Marketing Operations Manager (Contract) <br><sub>🌐 Remote - US Remote • NA</sub> | $156k–$270k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Manager, Solutions Engineering... <br><sub>🌐 Remote - US Remote • NA</sub> | $215k–$270k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Field CISO <br><sub>🌐 United States • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Product Designer, Growth (Senior/Staff) <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Manager of Security and Compliance <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Product Analytics Engineer <br><sub>🏢 United States - Hybrid • NA</sub> | $143k–$187k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Director, Provider Growth Marketing <br><sub>🌐 United States • NA</sub> | $212k–$265k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Account Executive, Enterprise (US)  <br><sub>🏢 US, US, US • NA</sub> | $150k–$180k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | VP of Customer Success <br><sub>🌐 United States • NA</sub> | $245k–$345k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Customer Success Manager \| United Ki... <br><sub>🌐 Remote - USA • NA</sub> | $106k–$132k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Marketing Data Scientist <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Finance Data Scientist <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Enterprise Marketing Manager, Partner... <br><sub>🏢 Remote Canada - Hybrid • NA</sub> | $73k–$97k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Benefit Plan Configuration Specialist... <br><sub>🌐 Buffalo, New York, United States -  • NA</sub> | $63k–$73k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Business Systems Analyst  (1099 Contr... <br><sub>🌐 Remote - USA • NA</sub> | $114k–$135k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | CX Specialist (Temp) <br><sub>🌐 Remote - United States • NA</sub> | $52k–$62k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Program Manager <br><sub>🌐 Remote - Texas, United States • NA</sub> | $260k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Product Manager, File and Remit <br><sub>🌐 San Francisco, California, USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Sr. Visual/Deck Designer <br><sub>🌐 US, United States • NA</sub> | $130k–$150k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Field Marketing Director <br><sub>🌐 United States • NA</sub> | $120k–$140k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Procurement and Contracting Administr... <br><sub>🌐 Remote - USA * • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Analytics Engineer <br><sub>🌐 Remote - United States • NA</sub> | $140k–$180k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Data Analyst II <br><sub>🌐 Remote - United States • NA</sub> | $146k–$171k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Sr. Manager, Carrier Operations & Gov... <br><sub>🌐 Remote - USA • NA</sub> | $156k–$194k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Counsel, Americas Employment <br><sub>🌐 Remote - USA • NA</sub> | $235k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Field Marketing Manager (Remote - Cen... <br><sub>🌐 Remote - USA • NA</sub> | $100k–$155k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Sr Manager, Operational Finance <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $135k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Quality & Compliance Manager, Compute... <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $92k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Director of Operations & Communications <br><sub>🏢 Remote - United States - Hybrid • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Sr Manager, Operational Finance <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $135k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Quality & Compliance Manager, Compute... <br><sub>🏢 Remote, United States - Hybrid • NA</sub> | $92k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Revenue Accounting Transformation Man... <br><sub>🌐 Remote - USA • NA</sub> | $107k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Associate, National Provider Contracting <br><sub>🌐 Remote - USA * • NA</sub> | $97k–$127k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Media Monitoring Freelancer <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $37k–$52k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Customer Success Operations Manager <br><sub>🌐 Remote - USA * • NA</sub> | $105k–$120k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Engineer - Site Design <br><sub>🏢 Fort Worth, TX; Oklahoma - Remote;  • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Principal Engineer - Site Design <br><sub>🏢 Dallas, TX; Fort Worth, TX; Oklahom • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Client Manager - Site Design <br><sub>🏢 Dallas, TX; Fort Worth, TX; Oklahom • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Analytics Engineer <br><sub>🌐 Remote - Canada • NA</sub> | $167k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Mission Logistics & Global Trade Manager <br><sub>🌐 Remote - Huntington Beach, Californ • NA</sub> | $150k–$210k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Manager of Business Analytics, Fraud ... <br><sub>🏢 Richmond, VA, Arlington, VA, or Rem • NA</sub> | $128k–$165k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Engineering Manager - Mobile <br><sub>🌐 Remote - United States, Remote • NA</sub> | $265k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Admissions Specialist, PHP/IOP (PST)  <br><sub>🌐 Remote - PT (Pacific) • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Business Analyst III <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Talent Acquisition Partner, Co... <br><sub>🌐 Remote - USA * • NA</sub> | $114k–$143k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Site Reliability Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Director of Information Security <br><sub>🌐 Remote - San Fransisco, Bay Area OR • NA</sub> | $180k–$230k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Director of Finance <br><sub>🌐 Remote - San Francisco, Bay Area OR • NA</sub> | $160k–$240k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Director, elluminate Business Develop... <br><sub>🌐 Remote - USA * • NA</sub> | $125k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Detection Engineer, Protective Services <br><sub>🌐 Remote - United States - Remote • NA</sub> | $131k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Director of Engagement Managers <br><sub>🌐 Remote - USA • NA</sub> | $406k+/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Project Manager I <br><sub>🌐 Remote - USA • NA</sub> | $60k–$85k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Media Monitoring Freelancer <br><sub>🌐 Remote - ET (Eastern) • NA</sub> | $37k–$52k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Project Manager, Operations (C... <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Staff Product Manager, Consumer Growt... <br><sub>🌐 Remote - CT (Central) • NA</sub> | $230k–$290k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Ro - Seasonal, Virtual Patient Suppor... <br><sub>🌐 New York, NY or Remote - Hybrid • NA</sub> | $50k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | EnableComp - Client Support Represent... <br><sub>🌐 Remote - Franklin, TN / United Stat • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Field Enablement Manager <br><sub>🏢 Vancouver Hybrid, Remote - Hybrid • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Client Partner, Public Sector (State ... <br><sub>🌐 Remote - Europe * • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Sales Engineer  - United States <br><sub>🌐 Remote - Denver, CO - Remote • NA</sub> | $94k–$172k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Phoenix Ecommerce Technologies - Staf... <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Counsel <br><sub>🌐 Remote - USA • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Private Equity Partnerships <br><sub>🌐 Remote - New York City, New York, U • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Digital Marketing Manager <br><sub>🏢 Sunnyvale, California, United State • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Accountant <br><sub>🌐 Remote - USA • NA</sub> | $250k+/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Design Manager <br><sub>🌐 Remote - Canada • NA</sub> | $229k–$286k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Security Assurance Analyst <br><sub>🌐 Remote - USA • NA</sub> | $179k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Associate Account Executive <br><sub>🌐 Remote - HQ - USA * • NA</sub> | $120k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Staff Revenue Accountant <br><sub>🏢 Mapbox US - Hybrid • NA</sub> | $102k–$130k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Staff Fullstack Engineer (Ruby/Vue.js... <br><sub>🌐 Remote - Canada • NA</sub> | $153k–$259k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Staff Commercial Pricing Strategist <br><sub>🌐 Remote - Canada • NA</sub> | $139k–$235k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Head of Growth Marketing, Self-Service <br><sub>🌐 Remote - USA * • NA</sub> | $160k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Support Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $113k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Industrial Compute <br><sub>🏢 United States • NA</sub> | $150k–$300k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Staff Engineer, Guest & Host (... <br><sub>🌐 Remote - USA * • NA</sub> | $248k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Open Source Enterprise Sales Manager <br><sub>🌐 Remote - Home Based - Americas • NA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Creative Strategist & Producer <br><sub>🏢 United States • NA</sub> | $83k–$167k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Associate, Options Clearing <br><sub>🌐 Remote - ET (Eastern) • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Customer Succes Manager <br><sub>🌐 Remote - United States - Remote • NA</sub> | $110k–$138k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | VP of Global Growth <br><sub>🏢 United States • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Palliative Oncology Nurse Navigator <br><sub>🌐 Remote - USA * • NA</sub> | $96k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Video Producer  <br><sub>🌐 Remote - United States • NA</sub> | $130k–$185k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Cloud Engineers (Remote USA) <br><sub>🌐 United States • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | GTM Enablement Manager <br><sub>🌐 Remote - Canada Remote • NA</sub> | $64k–$80k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Solutions Engineer <br><sub>🌐 miami, florida, United States • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Commercial Counsel (Remote) <br><sub>🌐 Remote - United States • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Commercial Counsel - Enterpris... <br><sub>🌐 Remote - United States • NA</sub> | $168k–$231k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Applied AI Engineer <br><sub>🌐 Remote - Des Moines, Iowa, United S • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Forward Deployed Engineer <br><sub>🌐 Remote - CT (Central) • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Product Manager, Integrations <br><sub>🌐 Remote - United States • NA</sub> | $160k–$180k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - USA • NA</sub> | $180k–$220k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Quality Assurance Specialist – Applie... <br><sub>🌐 Fresno, California, United States • NA</sub> | $88k–$103k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Associate Director, Product (Data) <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Data Product Manager <br><sub>🌐 Remote - MT (Mountain) • NA</sub> | $118k–$136k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Forward Deployed Architect <br><sub>🌐 Remote - (North America) • NA</sub> | $175k–$225k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Forward Deployed Engineer <br><sub>🌐 Remote - (North America) • NA</sub> | $150k–$225k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Product Manager, Real Time <br><sub>🌐 Remote - (North America) • NA</sub> | $240k–$320k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Product Manager, Marketing Orchestration <br><sub>🌐 Remote - (North America) • NA</sub> | $240k–$320k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Financial Controller - Heritage Fencing <br><sub>🌐 Remote - Anywhere • NA</sub> | $2000k+/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Manager, Data Recruiting <br><sub>🌐 United States • NA</sub> | $122k–$190k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Corporate Health Senior Manager <br><sub>🌐 Remote - U.S. Remote • NA</sub> | $626k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Customer Support Representative <br><sub>🌐 New York, United States • NA</sub> | $50k–$60k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Sr Deployment Program Manager, Robotics  <br><sub>🌐 Remote - USA • NA</sub> | $150k–$180k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Nurse Care Coordinator Manager (RN) -... <br><sub>🌐 Remote - PT (Pacific) • NA</sub> | $100k–$120k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Salesforce Developer <br><sub>🌐 Remote - US • NA</sub> | $116k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Order Data Integrity Analyst <br><sub>🌐 United States • NA</sub> | $60k–$78k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Principal Product Manager, AI Platform <br><sub>🌐 Remote - USA * • NA</sub> | $160k–$230k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Head of Product Marketing <br><sub>🌐 Remote - USA * • NA</sub> | $180k–$225k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $75k–$265k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Fullstack Engineer <br><sub>🌐 Remote - USA * • NA</sub> | $150k–$220k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Data Validation Analyst <br><sub>🌐 Remote - USA • NA</sub> | $125k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Staff Mobile Engineer (P4) <br><sub>🌐 Remote - USA • NA</sub> | $171k–$214k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Financial Manager, Partnerships <br><sub>🌐 Remote - CT (Central) • NA</sub> | $142k–$177k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Program Manager, Carrier Operations &... <br><sub>🌐 Remote - CT (Central) • NA</sub> | $117k–$146k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Sr. Web UX Designer I (Remote Eligibl... <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Partner Operations Data Analyst (Remo... <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Director of Deal Strategy & Pricing (... <br><sub>🌐 Remote - USA • NA</sub> | $100k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Fullstack Engineer, Customer C... <br><sub>🌐 Remote - USA • NA</sub> | $175k–$205k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Project Engineer - Site Design <br><sub>🏢 Fort Worth, TX; Oklahoma - Remote;  • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Director, Customer Success <br><sub>🌐 Remote - USA - Remote • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Collections Associate <br><sub>🌐 Remote - USA • NA</sub> | $70k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Data Analyst - Reconciliation <br><sub>🌐 Remote - Canada • NA</sub> | $192k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Engineering Manager - Bank Accounts <br><sub>🌐 Remote - Canada • NA</sub> | $201k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Customer Support Manager - Risk <br><sub>🌐 Remote - Canada • NA</sub> | $115k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Sales Commission Analyst <br><sub>🏢 Remote, US - Hybrid • NA</sub> | $48k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Technical Program Manager <br><sub>🌐 Remote - Americas • NA</sub> | $220k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Technical Program Manager <br><sub>🌐 Remote - Americas • NA</sub> | $220k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Corporate Counsel <br><sub>🌐 Remote - Anywhere - USA * • NA</sub> | $150k–$185k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Recruiter, Tech / G&A <br><sub>🌐 Remote - USA • NA</sub> | $118k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Field Hardware Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Field Hardware Technician <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Analytics Engineer <br><sub>🌐 Remote - USA • NA</sub> | $312k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Talent Acquisition Lead, Technology <br><sub>🌐 Remote - USA * • NA</sub> | $120k–$150k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Business Intelligence Analyst – Membe... <br><sub>🏢 Hybrid - USA * • NA</sub> | $70k–$75k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Business Intelligence Analyst <br><sub>🏢 Hybrid - USA * • NA</sub> | $70k–$75k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Brand Success Manager - Biling... <br><sub>🌐 Remote - USA • NA</sub> | $132k–$181k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Commercial Counsel <br><sub>🌐 Remote - USA • NA</sub> | $160k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Data Engineer <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Filipino Translation & Localization S... <br><sub>🌐 Remote - USA * • NA</sub> | $70k–$90k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Air Account Executive <br><sub>🌐 Remote - Missouri-Remote • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Air Account Executive <br><sub>🌐 Remote - USA • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Account Executive, Air, T1200 <br><sub>🌐 Remote - Kentucky-Remote • NA</sub> | $73k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Director, Learning & Development <br><sub>🌐 Remote - USA * • NA</sub> | $140k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Customer Success Manager- West <br><sub>🌐 Remote - MT (Mountain) • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Researcher, Employment & Econo... <br><sub>🌐 Remote - USA • NA</sub> | $129k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Account Manager, TMT <br><sub>🌐 Remote - USA • NA</sub> | $100k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Marketing Operations Manager  <br><sub>🏢 Remote - United States - Hybrid • NA</sub> | $140k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Global Brand & PR Program Manager <br><sub>🏢 New York; San Francisco • NA</sub> | $145k–$195k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Azul - Global Channel Operations Manager <br><sub>🌐 Remote - United States - Remote • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Accounting Manager <br><sub>🌐 Remote - USA • NA</sub> | $300k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Karius - Staff Biostatistician <br><sub>🏢 Redwood City, CA (Hybrid) or Remote • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Software Engineer, Full Stack <br><sub>🏢 San Francisco, CA; Sunnyvale, CA; S • NA</sub> | $131k–$192k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Software Engineering Intern <br><sub>🌐 Remote - USA • NA</sub> | $121k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Software Engineer - Full Stack... <br><sub>🏢 Washington, D.C. Metro Area • NA</sub> | $180k–$240k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Careers - Senior Data Engineer, Product <br><sub>🏢 NA</sub> | $198k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Full Stack Developer [U.S. Citizenshi... <br><sub>🌐 Remote - USA • NA</sub> | $75k–$100k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Product Engineer <br><sub>🏢 San Francisco, California, United S • NA</sub> | $180k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Lead Cloud Engineers <br><sub>🏢 United States • NA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Principal Engineer, Streaming Systems <br><sub>🌐 Remote - (North America) • NA</sub> | $180k–$400k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Staff Software Engineer, Full Stack <br><sub>🌐 Remote - USA • NA</sub> | $100k–$300k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Software Engineer in Test <br><sub>🌐 Remote - USA * • NA</sub> | $120k–$140k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 
 
 ---
 
-## <a id="latam"></a>Latin America (639)
+## <a id="latam"></a>Latin America (660)
 
 | Company | Role | Salary USD | Age | |
 |---------|------|------------|-----|---|
-| <img src="https://wagey.gg/api/company-logo?id=ffbbbdc6d3c35321" alt="" height="16"> Bybit | Compliance Operations Expert  <br><sub>🏢 LATAM - Remote - Hybrid • LATAM</sub> |  | 5h | [Apply](https://wagey.gg/jobs/7e6616e3b8813177-compliance-operations-expert-at-bybit?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Third-Party Job Posts | Tech Lead Data Engineer <br><sub>🌐 Remote - Chile; Colombia; Ecuador;  • LATAM</sub> |  | 9h | [Apply](https://wagey.gg/jobs/0df17c65f52ad55e-tech-lead-data-engineer-at-third-party-job-posts?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> NTT DATA, Europe & LATAM, | AI Technical Lead, Amazon Bedrock <br><sub>🌐 Remote - LATAM • LATAM</sub> | $52k–$62k/year | 9h | [Apply](https://wagey.gg/jobs/07936d44ccda01b4-ai-technical-lead-amazon-bedrock-at-ntt-data-europe-latam-branch-in-usa-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Aspenview Technology Part | Salesforce Technical Lead <br><sub>🌐 Remote - Latin America • LATAM</sub> |  | 9h | [Apply](https://wagey.gg/jobs/1e9ce444bd0dfe2f-salesforce-technical-lead-at-aspenview-technology-partners?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_f0e23d8811ebe2ef" alt="" height="16"> Muttdata | Senior Machine Learning Engineer <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 11h | [Apply](https://wagey.gg/jobs/614ab567969387b6-senior-machine-learning-engineer-at-muttdata?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Precision Medicine Group | Senior Principal Technical Data Speci... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 12h | [Apply](https://wagey.gg/jobs/bc0fd3abd8ce88af-senior-principal-technical-data-specialist-latam-at-precision-medicine-group?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Precision for Medicine | Senior Principal Technical Data Speci... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 12h | [Apply](https://wagey.gg/jobs/b37a21903f06f497-senior-principal-technical-data-specialist-latam-at-precision-for-medicine?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_f0e23d8811ebe2ef" alt="" height="16"> Muttdata | Machine Learning Engineer Databricks <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 12h | [Apply](https://wagey.gg/jobs/0057a9a2434d6468-machine-learning-engineer-databricks-at-muttdata?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Lead Front-end Engineer (Javascript) <br><sub>🏢 Argentina • LATAM</sub> |  | 12h | [Apply](https://wagey.gg/jobs/72569dd468b624ed-lead-front-end-engineer-javascript-at-truelogic?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Senior Frontend Engineer <br><sub>🌐 Remote - Brazil • LATAM</sub> |  | 12h | [Apply](https://wagey.gg/jobs/2e7cfb3a488570ca-senior-frontend-engineer-at-truelogic?ref=github) |
-| ░░░░ | Senior Frontend Engineer <br><sub>🌐 Remote - Argentina, Brazil, United  • LATAM</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Operations Supervisor, Collections <br><sub>🌐 Remote - Panama • LATAM</sub> | $28k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Python Engineer (2 months) – G... <br><sub>🏢 LatAm • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | TikTok Shop Growth Strategist <br><sub>🌐 Remote - Nicaragua • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Staff Engineer (Ingeniero Staff) - Re... <br><sub>🏢 Bogota D.C. / DC / Colombia; Mexico • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Software Engineer in Test (SDET) (Ing... <br><sub>🏢 Bogota D.C. / DC / Colombia; Mexico • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Sales Manager <br><sub>🌐 Remote - Brazil - Remote • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Account Executive <br><sub>🌐 Remote - Brazil - Remote • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Inside Sales Representative - Mexico ... <br><sub>🏢 Mexico • LATAM</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Organisational Development Associate <br><sub>🌐 Remote - Home Based - Americas; Hom • LATAM</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Mid Market Onboarding Coach <br><sub>🌐 Remote - Latin America • LATAM</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Full-Stack Engineer (LATAM Remote) - ... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | QA Automation Lead (Líder de Automati... <br><sub>🏢 Bogota D.C. / DC / Colombia; Mexico • LATAM</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Quality Assurance Engineer \| ... <br><sub>🏢 São Paulo, Brazil • LATAM</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | FP&A Analyst <br><sub>🌐 Remote - São Paulo, Remote • LATAM</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=4ae35dbb42614d24" alt="" height="16"> Prompt | Senior Manager, Benefit Verification ... <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/076002258f8a268f-senior-manager-benefit-verification-authorization-operations-at-prompt?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=2c6cbf4a9179ad6f" alt="" height="16"> Valtech | Senior Cloud Engineer <br><sub>🌐 Remote - Brazil - Remote • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/de7182ff63a5b5d0-senior-cloud-engineer-at-valtech?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_03b6517aeee0eb4c" alt="" height="16"> SonicWall | Sales Development Rep <br><sub>🏢 Remote, Costa Rica - Hybrid • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/778a4423d171c1fd-sales-development-rep-at-sonicwall?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Senior Paid Advertising Strategist - ... <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/d37c1a0561e060d2-senior-paid-advertising-strategist-ecommerce-at-power-digital?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Paid Media Strategist, Fashion <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/c42d74dcad9c6147-paid-media-strategist-fashion-at-power-digital?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Fashion Paid Media Senior Performance... <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/eea4d1466fcc0cc7-fashion-paid-media-senior-performance-analyst-at-power-digital?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | CPG Senior Paid Advertising Strategis... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/1d2706287db20fef-cpg-senior-paid-advertising-strategist-client-experience-at-power-digital?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=25ad46c20243b7d0" alt="" height="16"> Newsela | Contract: Deal Support Coordinator <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 2h | [Apply](https://wagey.gg/jobs/4c517154bfc8cdef-contract-deal-support-coordinator-at-newsela?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=8dfad6c2c0682665" alt="" height="16"> Smartsheet | Partner Operations Specialist (Remote... <br><sub>🏢 San Jose, CR • LATAM</sub> |  | 5h | [Apply](https://wagey.gg/jobs/acbdf9d42b506764-partner-operations-specialist-remote-eligible-costa-rica-at-smartsheet?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Senior Paid Advertising Strategist, B2B <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | [Apply](https://wagey.gg/jobs/bd012b47fb7cf037-senior-paid-advertising-strategist-b2b-at-power-digital?ref=github) |
+| ░░░░░░░░ | Senior Paid Advertising Strategist, B2B <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Paid Advertising Strategist - Ecommerce <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Paid Advertising Strategist <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Paid Advertising Strategist <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Paid Advertising Specialist, Lead Gen... <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Paid Advertising Specialist - Ecommerce <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Media Manager, CPG <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Fashion Paid Advertising Strategist <br><sub>🌐 Remote - Nicaragua • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Fashion Paid Advertising Strategist <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Fashion Paid Advertising Specialist, ... <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | CPG Paid Advertising Strategist, Clie... <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Consumer Services Senior Paid Adverti... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | B2B Paid Advertising Strategist <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | B2B Paid Advertising Specialist <br><sub>🌐 Remote - Colombia • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Staff Software Engineer - Corporate A... <br><sub>🌐 Remote - North America and Europe - • LATAM</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Compliance Operations Expert  <br><sub>🏢 LATAM - Remote - Hybrid • LATAM</sub> |  | 12h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Tech Lead Data Engineer <br><sub>🌐 Remote - Chile; Colombia; Ecuador;  • LATAM</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | AI Technical Lead, Amazon Bedrock <br><sub>🌐 Remote - LATAM • LATAM</sub> | $52k–$62k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Salesforce Technical Lead <br><sub>🌐 Remote - Latin America • LATAM</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Muttdata - Senior Machine Learning En... <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Principal Technical Data Speci... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Principal Technical Data Speci... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Muttdata - Machine Learning Engineer ... <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Lead Front-end Engineer (Javascript) <br><sub>🏢 Argentina • LATAM</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Frontend Engineer <br><sub>🌐 Remote - Brazil • LATAM</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Frontend Engineer <br><sub>🌐 Remote - Argentina, Brazil, United  • LATAM</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Operations Supervisor, Collections <br><sub>🌐 Remote - Panama • LATAM</sub> | $28k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Python Engineer (2 months) – G... <br><sub>🌐 Remote - Panama • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | TikTok Shop Growth Strategist <br><sub>🌐 Remote - Nicaragua • LATAM</sub> | $260k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Staff Engineer (Ingeniero Staff) - Re... <br><sub>🏢 Bogota D.C. / DC / Colombia; Mexico • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Software Engineer in Test (SDET) (Ing... <br><sub>🏢 Bogota D.C. / DC / Colombia; Mexico • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Sales Manager <br><sub>🌐 Remote - Brazil - Remote • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Account Executive <br><sub>🌐 Remote - Brazil - Remote • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Inside Sales Representative - Mexico ... <br><sub>🏢 Mexico • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Organisational Development Associate <br><sub>🌐 Remote - Home Based - Americas; Hom • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Mid Market Onboarding Coach <br><sub>🌐 Remote - Latin America • LATAM</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Full-Stack Engineer (LATAM Remote) - ... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | QA Automation Lead (Líder de Automati... <br><sub>🏢 Bogota D.C. / DC / Colombia; Mexico • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Quality Assurance Engineer \| ... <br><sub>🏢 São Paulo, Brazil • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | FP&A Analyst <br><sub>🌐 Remote - São Paulo, Remote • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Security Compliance Analyst <br><sub>🌐 Remote - Bogota, Colombia, Colombia • LATAM</sub> | $520k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░ | Intermediate Data Engineer <br><sub>🌐 Remote - Brazil, Remote • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░ | Data Engineer, AI & Analytics <br><sub>🌐 Remote - Peru • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
@@ -1084,7 +1109,7 @@ True remote — no location restriction.
 | ░░░░░░░░░░░░ | AI Automation Engineer <br><sub>🏢 LATAM • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░ | Product Manager <br><sub>🌐 Remote - Dominican Republic, Colomb • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░ | Product Analyst <br><sub>🌐 Remote - Dominican Republic, Colomb • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Operations Associate (LATAM) <br><sub>🏢 Remote - Latin America - Hybrid • LATAM</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=90a71e0aa4973528" alt="" height="16"> whippy | Operations Associate (LATAM) <br><sub>🏢 Remote - Latin America - Hybrid • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/1a434228a6bc4b59-operations-associate-latam-at-whippy?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Practicante de Marketing Digital / 20... <br><sub>🏢 Remote - Colombia - Hybrid • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/0bb6e2c0d0ce7372-practicante-de-marketing-digital-2027-1-at-power-digital?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_87b361c44436ef78" alt="" height="16"> Cambly | CRM Program Manager - Brazil (contrac... <br><sub>🌐 Remote - Rio de Janeiro, Rio de Jan • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/5a89e8a471f71937-crm-program-manager-brazil-contract-remote-at-cambly?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Invisible Technologies | Software Engineer, Agentic AI <br><sub>🌐 Remote - Brazil - Remote • LATAM</sub> | $518k/year | 2d | [Apply](https://wagey.gg/jobs/d94edfd811ad2ba8-software-engineer-agentic-ai-at-invisible-technologies?ref=github) |
@@ -1092,12 +1117,12 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Senior Forward Deployed Engineer <br><sub>🌐 Remote - Panama • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/3d6739023483d2eb-senior-forward-deployed-engineer-at-truelogic?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Salesforce Developer / Administrator <br><sub>🌐 Remote - Panama • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/655f73c79b2255ef-salesforce-developer-administrator-at-truelogic?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Senior Data Scientist <br><sub>🌐 Remote - Dominican Republic • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/4ec6d6fe6f71f814-senior-data-scientist-at-truelogic?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=b87bc70886c055f6" alt="" height="16"> Capchase | Loan Operations Specialist <br><sub>🌐 Remote - Argentina, Chile, Uruguay. • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/b3b8e300e774f6a1-loan-operations-specialist-at-capchase?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=a2d5bc9cdd0da08b" alt="" height="16"> ClinChoice | Area/Local Safety Officer Consultant <br><sub>🏢 Brazil • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/4d2978cd98d40f5c-area-local-safety-officer-consultant-at-clinchoice?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=80cd46c824f8e864" alt="" height="16"> Kraken | Senior Software Engineer - Full-stack <br><sub>🌐 Remote - Peru, Sweden, Colombia... • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/9ff7d0a0d50cd5c2-senior-software-engineer-full-stack-at-kraken?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=b59b0b3e1d995bad" alt="" height="16"> Bugcrowd | Technical Delivery Manager (Technical... <br><sub>🌐 Remote - Costa Rica • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/af21322b452c20ad-technical-delivery-manager-technical-engagement-manager-at-bugcrowd?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> BEDI Partnerships | Large Enterprise Account Executive, L... <br><sub>🌐 Remote - Mexico • LATAM</sub> | $1240k–$1550k/year | 2d | [Apply](https://wagey.gg/jobs/6e95b2a892eb52bd-large-enterprise-account-executive-latam-at-bedi-partnerships?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_e16c902f170ca90e" alt="" height="16"> Clara | Customer Success Manager - Guadalajar... <br><sub>🏢 Guadalajara / JAL / Mexico • LATAM</sub> |  | 2d | [Apply](https://wagey.gg/jobs/7b1988b4c7c93cc9-customer-success-manager-guadalajara-hybrid-remote-at-clara?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=b87bc70886c055f6" alt="" height="16"> Capchase | Loan Operations Specialist <br><sub>🌐 Remote - Argentina, Chile, Uruguay. • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/b3b8e300e774f6a1-loan-operations-specialist-at-capchase?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=a2d5bc9cdd0da08b" alt="" height="16"> ClinChoice | Area/Local Safety Officer Consultant <br><sub>🏢 Brazil • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/4d2978cd98d40f5c-area-local-safety-officer-consultant-at-clinchoice?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=80cd46c824f8e864" alt="" height="16"> Kraken | Senior Software Engineer - Full-stack <br><sub>🌐 Remote - Peru, Sweden, Colombia... • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/9ff7d0a0d50cd5c2-senior-software-engineer-full-stack-at-kraken?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=b59b0b3e1d995bad" alt="" height="16"> Bugcrowd | Technical Delivery Manager (Technical... <br><sub>🌐 Remote - Costa Rica • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/af21322b452c20ad-technical-delivery-manager-technical-engagement-manager-at-bugcrowd?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> BEDI Partnerships | Large Enterprise Account Executive, L... <br><sub>🌐 Remote - Mexico • LATAM</sub> | $1240k–$1550k/year | 3d | [Apply](https://wagey.gg/jobs/6e95b2a892eb52bd-large-enterprise-account-executive-latam-at-bedi-partnerships?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_e16c902f170ca90e" alt="" height="16"> Clara | Customer Success Manager - Guadalajar... <br><sub>🏢 Guadalajara / JAL / Mexico • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/7b1988b4c7c93cc9-customer-success-manager-guadalajara-hybrid-remote-at-clara?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> anyone-ai | Senior Platform Engineer, Human Data <br><sub>🌐 Remote - Mexico City, Mexico, Mexic • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/b604706fb18520fa-senior-platform-engineer-human-data-at-anyone-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> anyone-ai | Mathematics Expert (LATAM & Europe) <br><sub>🌐 Buenos Aires, Distrito Federal, Arg • LATAM</sub> | $83k/year | 3d | [Apply](https://wagey.gg/jobs/85b6e573265da56c-mathematics-expert-latam-europe-at-anyone-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> anyone-ai | Application Security Engineer – CVE &... <br><sub>🌐 Remote - Uruguay, Chile, Ecuador... • LATAM</sub> | $135k/year | 3d | [Apply](https://wagey.gg/jobs/729bc5beca4c0ede-application-security-engineer-cve-vulnerability-research-at-anyone-ai?ref=github) |
@@ -1291,7 +1316,7 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_a0adf906799efa81" alt="" height="16"> BEES | Global Catalog Analyst <br><sub>🏢 São Paulo, São Paulo, Brazil • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/b20d80f35497ec3a-global-catalog-analyst-at-bees?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Arize AI | DevOps Support Engineer (Argentina) <br><sub>🌐 Remote - (Buenos Aires) • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/37f5a0e87813f608-devops-support-engineer-argentina-at-arize-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=f212100e38f782e1" alt="" height="16"> Antenna | People Ops Coordinator <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/20173785d7efd88a-people-ops-coordinator-at-antenna?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=f212100e38f782e1" alt="" height="16"> Antenna | Manager, Commercial Operations <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/1a3b7d59b4a1c6cd-manager-commercial-operations-at-antenna?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=f212100e38f782e1" alt="" height="16"> Antenna | Senior Manager, Finance & Commercial ... <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/1a3b7d59b4a1c6cd-senior-manager-finance-commercial-operations-at-antenna?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> A-LIGN External |  DevSecOps Engineer  <br><sub>🌐 Remote - Panama - Remote • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/05cf72570daaa207-devsecops-engineer-at-a-lign-external?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=4eaaecf1a74d7ada" alt="" height="16"> Ahrefs | Marketing Manager, Brazil <br><sub>🌐 Remote • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/6984f3db8c983121-marketing-manager-brazil-at-ahrefs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> AE Studio | Technical Account Manager (AI Driven)... <br><sub>🌐 Remote - Florianopolis office/ Braz • LATAM</sub> |  | 3d | [Apply](https://wagey.gg/jobs/665dbceb70faa4e7-technical-account-manager-ai-driven-curveglass-at-ae-studio?ref=github) |
@@ -1337,35 +1362,34 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_fcca05e691579a3a" alt="" height="16"> Unknown | AI-Native Full-Stack Engineer (Portal... <br><sub>🌐 Remote - Argentina, Brazil, Chile.. • LATAM</sub> | $60k–$84k/year | 3d | [Apply](https://wagey.gg/jobs/e5f1e53a85187d9e-ai-native-full-stack-engineer-portal-owner-at-unknown?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=80cd46c824f8e864" alt="" height="16"> Kraken | Network Engineer <br><sub>🏢 LATAM; Argentina; Brazil; Chile; Co • LATAM</sub> | $40k–$55k/year | 66d | [Apply](https://wagey.gg/jobs/0cfe024a1003d87d-network-engineer-at-kraken?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_00f77b769915cae5" alt="" height="16"> redbee | redbee - Senior Java Developer <br><sub>🌐 Buenos Aires / Argentina • LATAM</sub> |  | 66d | [Apply](https://wagey.gg/jobs/6ac0a61a7d6fdcc6-redbee-senior-java-developer-at-redbee?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=9404b9d19a6446ba" alt="" height="16"> atmosera | Head of Sales & Commercial Leadership... <br><sub>🌐 Remote - LATAM - CRI / Remote - LAT • LATAM</sub> |  | 66d | [Apply](https://wagey.gg/jobs/10567fdae6613867-head-of-sales-commercial-leadership-latin-america-remote-latam-at-atmosera?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=9404b9d19a6446ba" alt="" height="16"> atmosera | Head of Sales & Commercial Leadership... <br><sub>🌐 Remote - LATAM - CRI / Remote - LAT • LATAM</sub> |  | 67d | [Apply](https://wagey.gg/jobs/10567fdae6613867-head-of-sales-commercial-leadership-latin-america-remote-latam-at-atmosera?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=1a5f457594c77e82" alt="" height="16"> Sezzle | Principal Software Engineer - Identit... <br><sub>🌐 Remote - Mexico, Remote • LATAM</sub> | $72k–$132k/year | 68d | [Apply](https://wagey.gg/jobs/a5059814d5be8eb4-principal-software-engineer-identity-access-management-at-sezzle?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=01b2cf8ec9687a57" alt="" height="16"> nubank | Controllership  Specialist - Global P... <br><sub>🏢 São Paulo, São Paulo, Brazil - Hybr • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/70651192cc78a2c5-controllership-specialist-global-product-accounting-at-nubank?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Forward Deployed Engineer (AI & Creat... <br><sub>🌐 Remote - Dominican Republic • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/d37e120e9ad903c6-forward-deployed-engineer-ai-creative-transformation-at-truelogic?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_f0e23d8811ebe2ef" alt="" height="16"> Muttdata | Platform Engineer <br><sub>🌐 Ciudad de buenos Aires - Hybrid • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/612e89ccb41081f9-platform-engineer-at-muttdata?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_faf6e6b4580b4c4d" alt="" height="16"> LocalStack | Support Engineer (L2) <br><sub>🌐 Remote - Brazil • LATAM</sub> | $52k/year | 68d | [Apply](https://wagey.gg/jobs/ca7186e6202da104-support-engineer-l2-at-localstack?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Instructure, Inc. | Director, International Communication... <br><sub>🏢 Mexico City, México, Mexico - Hybri • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/b30a31b414755379-director-international-communications-remote-mexico-at-instructure-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Inter Carreiras | TECHNOLOGY EXECUTIVE MANAGER - Produc... <br><sub>🏢 Belo Horizonte, MG; Miami, FL; São  • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/faf8afdb8c067cd1-technology-executive-manager-product-platform-global-expansion-at-inter-carreira?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=51943ed43b150b31" alt="" height="16"> loadsmart | Loadsmart - Account Manager (Tech Tou... <br><sub>🌐 Remote - São Paulo / Remote • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/5a7a9610f5171336-loadsmart-account-manager-tech-touch-high-volume-at-loadsmart?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=d4609aa48cda2021" alt="" height="16"> mimica | Staff/Senior Backend Engineer (Node.js) <br><sub>🌐 Remote - UTC-6 to UTC+1 - Latin Ame • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/799ea257868d96dc-staff-senior-backend-engineer-node-js-at-mimica?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=89d6af7844697fed" alt="" height="16"> Lumimeds | Payment Operations Specialist - LATAM <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 68d | [Apply](https://wagey.gg/jobs/25b12babc392de4a-payment-operations-specialist-latam-at-lumimeds?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Instructure, Inc. | Director, International Communication... <br><sub>🏢 Mexico City, México, Mexico - Hybri • LATAM</sub> |  | 69d | [Apply](https://wagey.gg/jobs/b30a31b414755379-director-international-communications-remote-mexico-at-instructure-inc?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Inter Carreiras | TECHNOLOGY EXECUTIVE MANAGER - Produc... <br><sub>🏢 Belo Horizonte, MG; Miami, FL; São  • LATAM</sub> |  | 69d | [Apply](https://wagey.gg/jobs/faf8afdb8c067cd1-technology-executive-manager-product-platform-global-expansion-at-inter-carreira?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=51943ed43b150b31" alt="" height="16"> loadsmart | Loadsmart - Account Manager (Tech Tou... <br><sub>🌐 Remote - São Paulo / Remote • LATAM</sub> |  | 69d | [Apply](https://wagey.gg/jobs/5a7a9610f5171336-loadsmart-account-manager-tech-touch-high-volume-at-loadsmart?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=d4609aa48cda2021" alt="" height="16"> mimica | Staff/Senior Backend Engineer (Node.js) <br><sub>🌐 Remote - UTC-6 to UTC+1 - Latin Ame • LATAM</sub> |  | 69d | [Apply](https://wagey.gg/jobs/799ea257868d96dc-staff-senior-backend-engineer-node-js-at-mimica?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=89d6af7844697fed" alt="" height="16"> Lumimeds | Payment Operations Specialist - LATAM <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 69d | [Apply](https://wagey.gg/jobs/25b12babc392de4a-payment-operations-specialist-latam-at-lumimeds?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=ce24cfbd3b43f360" alt="" height="16"> SunnyData | Mid-level Data Engineer <br><sub>🏢 Mexico • LATAM</sub> |  | 69d | [Apply](https://wagey.gg/jobs/5bf06fb87bfb6323-mid-level-data-engineer-at-sunnydata?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9f3fda2fef6dda85" alt="" height="16"> Canonical | Senior Organisational Development Pra... <br><sub>🌐 Remote - Home Based - Americas; Hom • LATAM</sub> |  | 70d | [Apply](https://wagey.gg/jobs/ed3b36b1bcf47810-senior-organisational-development-practitioner-at-canonical?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=25ad46c20243b7d0" alt="" height="16"> Newsela | Contractor: Lead Analytics Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 70d | [Apply](https://wagey.gg/jobs/5a820bb7d7918083-contractor-lead-analytics-engineer-at-newsela?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=25ad46c20243b7d0" alt="" height="16"> Newsela | Contractor: Lead Analytics Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 71d | [Apply](https://wagey.gg/jobs/5a820bb7d7918083-contractor-lead-analytics-engineer-at-newsela?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_c491bb0894eca66b" alt="" height="16"> Insider One | Insider One - Customer Onboarding Intern <br><sub>🏢 Sao Paulo, Brazil • LATAM</sub> |  | 71d | [Apply](https://wagey.gg/jobs/42814666182734e3-insider-one-customer-onboarding-intern-at-insider-one?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=64ce6913c7a33dc1" alt="" height="16"> Delinea | Senior Software Engineer <br><sub>🏢 Mexico City, Ciudad de Mexico, Mexi • LATAM</sub> | $4k–$5k/year | 71d | [Apply](https://wagey.gg/jobs/17e3d918ef9c8467-senior-software-engineer-at-delinea?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=64ce6913c7a33dc1" alt="" height="16"> Delinea | Senior Software Engineer <br><sub>🏢 Mexico City, Ciudad de Mexico, Mexi • LATAM</sub> | $4k–$5k/year | 72d | [Apply](https://wagey.gg/jobs/17e3d918ef9c8467-senior-software-engineer-at-delinea?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=a2d5bc9cdd0da08b" alt="" height="16"> ClinChoice | REGULATORY AFFAIRS Analyst Consultant <br><sub>🏢 Brazil • LATAM</sub> |  | 72d | [Apply](https://wagey.gg/jobs/ec390ee59387d9fc-regulatory-affairs-analyst-consultant-at-clinchoice?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> RYZ Labs | RYZ Labs - Principal AI Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 72d | [Apply](https://wagey.gg/jobs/a5f5d353b371b346-ryz-labs-principal-ai-engineer-at-ryz-labs?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> RYZ Labs | RYZ Labs - Principal AI Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 73d | [Apply](https://wagey.gg/jobs/a5f5d353b371b346-ryz-labs-principal-ai-engineer-at-ryz-labs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> RYZ Labs | RYZ Labs - Principal Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 73d | [Apply](https://wagey.gg/jobs/780ff5254e85ad6d-ryz-labs-principal-engineer-at-ryz-labs?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=e1317e393c4c13c1" alt="" height="16"> directive | IT Intern (Remote MEX) <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 73d | [Apply](https://wagey.gg/jobs/76c481309945e85f-it-intern-remote-mex-at-directive?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=e1317e393c4c13c1" alt="" height="16"> directive | IT Intern (Remote MEX) <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 74d | [Apply](https://wagey.gg/jobs/76c481309945e85f-it-intern-remote-mex-at-directive?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Fresh Prints | Lifecycle & Email Marketing Manager <br><sub>🌐 Remote - Brazil (Remote) • LATAM</sub> |  | 74d | [Apply](https://wagey.gg/jobs/3da12f9acf7ed54d-lifecycle-email-marketing-manager-at-fresh-prints?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_8158a123096c7f59" alt="" height="16"> Verkada | Global Solutions Engineer, LATAM <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 74d | [Apply](https://wagey.gg/jobs/04a7975616e854b2-global-solutions-engineer-latam-at-verkada?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Junior Analytics Consultant   Latam <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 74d | [Apply](https://wagey.gg/jobs/b142f31e550ace74-junior-analytics-consultant-latam-at-monks?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Messa, Inc. | Senior Full Stack Engineer <br><sub>🏢 Argentina, Argentina • LATAM</sub> |  | 75d | [Apply](https://wagey.gg/jobs/7db18afecb5927da-senior-full-stack-engineer-at-messa-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=d4609aa48cda2021" alt="" height="16"> Mimica | Senior/Lead Talent Partner <br><sub>🌐 Remote - UTC-3 - Latin America * • LATAM</sub> |  | 75d | [Apply](https://wagey.gg/jobs/de18a975baa6cb18-senior-lead-talent-partner-at-mimica?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=eb01d07e285eefd9" alt="" height="16"> Coderio | Coderio - Senior Devops Engineer <br><sub>🌐 Remote - Bogotá / Argentina / Urugu • LATAM</sub> |  | 75d | [Apply](https://wagey.gg/jobs/771d0761268d7cfc-coderio-senior-devops-engineer-at-coderio?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> CI&T | CI&T - [Job - 30532] Senior Developer... <br><sub>🏢 Brazil • LATAM</sub> |  | 75d | [Apply](https://wagey.gg/jobs/f40a6c190c5f58e5-ci-t-job-30532-senior-developer-net-brazil-at-ci-t?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=d0498fac9d755142" alt="" height="16"> GitLab | Customer Success Engineer, LATAM (Spa... <br><sub>🌐 Remote - Brazil • LATAM</sub> | $106k/year | 75d | [Apply](https://wagey.gg/jobs/ba2a0381f1abf18e-customer-success-engineer-latam-spanish-portugese-at-gitlab?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=272b9f5409f572e0" alt="" height="16"> Braze | Cloud Security Engineer <br><sub>🏢 São Paulo • LATAM</sub> |  | 75d | [Apply](https://wagey.gg/jobs/7465603b7dc721b4-cloud-security-engineer-at-braze?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Junior Analytics Consultant   Latam <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 75d | [Apply](https://wagey.gg/jobs/b142f31e550ace74-junior-analytics-consultant-latam-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Messa, Inc. | Senior Full Stack Engineer <br><sub>🏢 Argentina, Argentina • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/7db18afecb5927da-senior-full-stack-engineer-at-messa-inc?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=d4609aa48cda2021" alt="" height="16"> Mimica | Senior/Lead Talent Partner <br><sub>🌐 Remote - UTC-3 - Latin America * • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/de18a975baa6cb18-senior-lead-talent-partner-at-mimica?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=eb01d07e285eefd9" alt="" height="16"> Coderio | Coderio - Senior Devops Engineer <br><sub>🌐 Remote - Bogotá / Argentina / Urugu • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/771d0761268d7cfc-coderio-senior-devops-engineer-at-coderio?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> CI&T | CI&T - [Job - 30532] Senior Developer... <br><sub>🏢 Brazil • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/f40a6c190c5f58e5-ci-t-job-30532-senior-developer-net-brazil-at-ci-t?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=d0498fac9d755142" alt="" height="16"> GitLab | Customer Success Engineer, LATAM (Spa... <br><sub>🌐 Remote - Brazil • LATAM</sub> | $106k/year | 76d | [Apply](https://wagey.gg/jobs/ba2a0381f1abf18e-customer-success-engineer-latam-spanish-portugese-at-gitlab?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Jeeves - Senior Collections & Account... <br><sub>🏢 Colombia - Hybrid • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/333d824e4633e859-jeeves-senior-collections-accounts-receivable-specialist-at-jeeves?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Product Manager <br><sub>🌐 Argentina - Hybrid • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/1e57111aa18e3a67-product-manager-at-jeeves?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=d4609aa48cda2021" alt="" height="16"> mimica | Staff/Lead Front-end Engineer <br><sub>🌐 Remote - UTC-1 to UTC+3 - Latin Ame • LATAM</sub> | $17k/year | 76d | [Apply](https://wagey.gg/jobs/e06e32331291a68b-staff-lead-front-end-engineer-at-mimica?ref=github) |
@@ -1392,9 +1416,9 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=85a78fcfbd075853" alt="" height="16"> brafton | Brafton - Remote Sales & Marketing Op... <br><sub>🌐 Remote - Mexico remote • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/a036f0dfe752fbe6-brafton-remote-sales-marketing-operations-specialist-at-brafton?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Software Analyst <br><sub>🌐 Remote - Locate me • LATAM</sub> | $21k/year | 76d | [Apply](https://wagey.gg/jobs/1afe4e3bae24f66e-software-analyst-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Senior Data Analytics <br><sub>🏢 Mexico City • LATAM</sub> | $21k/year | 76d | [Apply](https://wagey.gg/jobs/7d240e627158b51f-senior-data-analytics-at-monks?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_04e8b824232486cc" alt="" height="16"> BriteCore | BriteCore - Senior Python Backend Eng... <br><sub>🌐 Remote - Buenos Aires / São Paulo • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/2d3c0f3be0d695b7-britecore-senior-python-backend-engineer-at-britecore?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> CSC Generation | CSC Generation - Site Reliability Eng... <br><sub>🌐 Remote - Costa Rica • LATAM</sub> |  | 76d | [Apply](https://wagey.gg/jobs/dc6ae078de0e2ad6-csc-generation-site-reliability-engineer-at-csc-generation?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Head of Design Studio <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 77d | [Apply](https://wagey.gg/jobs/7025bd7146cb144d-head-of-design-studio-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_04e8b824232486cc" alt="" height="16"> BriteCore | BriteCore - Senior Python Backend Eng... <br><sub>🌐 Remote - Buenos Aires / São Paulo • LATAM</sub> |  | 77d | [Apply](https://wagey.gg/jobs/2d3c0f3be0d695b7-britecore-senior-python-backend-engineer-at-britecore?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> CSC Generation | CSC Generation - Site Reliability Eng... <br><sub>🌐 Remote - Costa Rica • LATAM</sub> |  | 77d | [Apply](https://wagey.gg/jobs/dc6ae078de0e2ad6-csc-generation-site-reliability-engineer-at-csc-generation?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Head of Design Studio <br><sub>🌐 Remote - Mexico City, Mexico • LATAM</sub> | $21k/year | 77d | [Apply](https://wagey.gg/jobs/7025bd7146cb144d-head-of-design-studio-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=6e365821425455cd" alt="" height="16"> Oyster | Senior Counsel (Employment Products) <br><sub>🌐 Remote - Philippines, Portugal, Spa • LATAM</sub> |  | 77d | [Apply](https://wagey.gg/jobs/7eea57b717a5fdb9-senior-counsel-employment-products-at-oyster?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Senior Product Manager <br><sub>🌐 Remote - Anywhere - Latin America * • LATAM</sub> | $21k/year | 77d | [Apply](https://wagey.gg/jobs/420d468820b8d180-senior-product-manager-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=26cc112004f6e530" alt="" height="16"> Samsara | Field Service Engineer (Automotive) -... <br><sub>🌐 Remote - USA • LATAM</sub> | $119k/year | 77d | [Apply](https://wagey.gg/jobs/2c08d444510c8163-field-service-engineer-automotive-remote-at-samsara?ref=github) |
@@ -1405,35 +1429,35 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Overview Corporation | Business Development Representative -... <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 90d | [Apply](https://wagey.gg/jobs/b9a624e618805b73-business-development-representative-latam-based-at-overview-corporation?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=eb01d07e285eefd9" alt="" height="16"> Coderio | Coderio - Senior Mobile Developer (Re... <br><sub>🌐 Remote - Argentina / Chile / Colomb • LATAM</sub> |  | 91d | [Apply](https://wagey.gg/jobs/de50ba596581bfea-coderio-senior-mobile-developer-react-native-kotlin-at-coderio?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Coins.ph | Coins.ph - Risk Associate (Transactio... <br><sub>🌐 Remote - Vila Velha, Espírito Santo • LATAM</sub> |  | 91d | [Apply](https://wagey.gg/jobs/60d8ad8bb05cb686-coins-ph-risk-associate-transaction-monitoring-at-coins-ph?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=1a5f457594c77e82" alt="" height="16"> Sezzle |  IT Operations Analyst <br><sub>🌐 Remote - Mexico, Remote • LATAM</sub> |  | 91d | [Apply](https://wagey.gg/jobs/a5f6bd9fb3530c2f-it-operations-analyst-at-sezzle?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Lifestyle Marketing Associate Account... <br><sub>🌐 Remote - Chile • LATAM</sub> |  | 91d | [Apply](https://wagey.gg/jobs/6565f45936acb790-lifestyle-marketing-associate-account-director-at-power-digital?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1a5f457594c77e82" alt="" height="16"> Sezzle |  IT Operations Analyst <br><sub>🌐 Remote - Mexico, Remote • LATAM</sub> |  | 92d | [Apply](https://wagey.gg/jobs/a5f6bd9fb3530c2f-it-operations-analyst-at-sezzle?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Lifestyle Marketing Associate Account... <br><sub>🌐 Remote - Chile • LATAM</sub> |  | 92d | [Apply](https://wagey.gg/jobs/6565f45936acb790-lifestyle-marketing-associate-account-director-at-power-digital?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Windranger Labs | Mantle Squad - Global <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 92d | [Apply](https://wagey.gg/jobs/c9322588cd32a4b7-mantle-squad-global-at-windranger-labs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Frontend Engineer, Quality Platform <br><sub>🏢 LATAM</sub> |  | 94d | [Apply](https://wagey.gg/jobs/40e19a08c05e05fe-frontend-engineer-quality-platform-at-airbnb?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_54775c56d3cb6f6a" alt="" height="16"> ekumenlabs | Senior Software Engineer - Roboticist <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 95d | [Apply](https://wagey.gg/jobs/cafae249e8f65629-senior-software-engineer-roboticist-at-ekumenlabs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> The Global Talent Co. | PAID SEARCH SPECIALIST (Google Ads <br><sub>🌐 Remote - Colombia, Bogota, Colombia • LATAM</sub> |  | 95d | [Apply](https://wagey.gg/jobs/3bcda233f5ccd2d2-paid-search-specialist-google-ads-at-the-global-talent-co?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=89d6af7844697fed" alt="" height="16"> Lumimeds | Patient Success Representative — Rete... <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 95d | [Apply](https://wagey.gg/jobs/55311e7dbfb65519-patient-success-representative-retention-subscription-at-lumimeds?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=89d6af7844697fed" alt="" height="16"> Lumimeds | Patient Success Representative — Rete... <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 96d | [Apply](https://wagey.gg/jobs/55311e7dbfb65519-patient-success-representative-retention-subscription-at-lumimeds?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | AI Workflow Engineer \| LATAM <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 96d | [Apply](https://wagey.gg/jobs/1146b4c1d166845a-ai-workflow-engineer-latam-at-backblaze-external-website?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=e5df9cc32c68723d" alt="" height="16"> Tala | Tala - Senior SecOps Engineer <br><sub>🌐 Remote - Mexico • LATAM</sub> | $104k/year | 97d | [Apply](https://wagey.gg/jobs/301052198df28239-tala-senior-secops-engineer-at-tala?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=261a49d40f935685" alt="" height="16"> Truelogic | Senior Software Architect (C#/Angular... <br><sub>🌐 Remote - São Paulo, Brazil • LATAM</sub> |  | 97d | [Apply](https://wagey.gg/jobs/202a3f62b284cda5-senior-software-architect-c-angular-ai-first-at-truelogic?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_e16c902f170ca90e" alt="" height="16"> Clara | Senior Fullstack Engineer (Ingeniero/... <br><sub>🏢 Bogota / CUN / Colombia; Mexico Cit • LATAM</sub> |  | 97d | [Apply](https://wagey.gg/jobs/5a6cb55b203ba036-senior-fullstack-engineer-ingeniero-a-de-software-fullstack-senior-remote-at-cla?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Oowlish Technology | Oowlish Technology - Full Stack Web E... <br><sub>🌐 São Paulo / Greater Fortaleza / Rio • LATAM</sub> |  | 97d | [Apply](https://wagey.gg/jobs/9375f0c63e52c4ad-oowlish-technology-full-stack-web-engineer-python-react-at-oowlish-technology?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Head of Technology Partnerships <br><sub>🌐 Remote - Brazil • LATAM</sub> | $21k/year | 99d | [Apply](https://wagey.gg/jobs/368badc1cdc4d7b9-head-of-technology-partnerships-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Head of Technology Partnerships <br><sub>🌐 Remote - Mexico City, Mexico • LATAM</sub> | $21k/year | 99d | [Apply](https://wagey.gg/jobs/368badc1cdc4d7b9-head-of-technology-partnerships-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=ffbbbdc6d3c35321" alt="" height="16"> Bybit | Finance Manager (El Salvardor) <br><sub>🌐 Remote - LATAM - Remote • LATAM</sub> |  | 103d | [Apply](https://wagey.gg/jobs/1fe1423fe43b95e7-finance-manager-el-salvardor-at-bybit?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7c94aa8ec867299a" alt="" height="16"> Addi | Senior B2B Marketing Manager <br><sub>🏢 Bogota, Colombia • LATAM</sub> |  | 103d | [Apply](https://wagey.gg/jobs/fe86b20c4f96cdfa-senior-b2b-marketing-manager-at-addi?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_9cce460b868970a5" alt="" height="16"> drata | Manager, Technical Support - Mexico <br><sub>🌐 Mexico City, Mexico, Mexico • LATAM</sub> | $850k/year | 103d | [Apply](https://wagey.gg/jobs/ca874ee2d1d0ce1a-manager-technical-support-mexico-at-drata?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_9cce460b868970a5" alt="" height="16"> drata | Associate Technical Support Engineer ... <br><sub>🌐 Mexico City, Mexico, Mexico • LATAM</sub> | $468k/year | 103d | [Apply](https://wagey.gg/jobs/e50d6ef8becd1162-associate-technical-support-engineer-mexico-at-drata?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> IDT | IDT - Accounts Receivable / Collectio... <br><sub>🏢 Guatemala City - Hybrid • LATAM</sub> | $89k/year | 104d | [Apply](https://wagey.gg/jobs/f0de3ca6527e7529-idt-accounts-receivable-collections-representative-at-idt?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=aee88a33a7d6aa39" alt="" height="16"> Orderly | AI Operations & Research Intern (Flor... <br><sub>🏢 Florianopolis, Santa Catarina, Braz • LATAM</sub> |  | 104d | [Apply](https://wagey.gg/jobs/022a48af595800e8-ai-operations-research-intern-florianopolis-for-partner-company-at-orderly?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=726ffa765f3d48eb" alt="" height="16"> Chromatic | Developer Experience Engineer <br><sub>🌐 Remote - \| North America or Europe • LATAM</sub> | $175k/year | 105d | [Apply](https://wagey.gg/jobs/c9de1908731f531c-developer-experience-engineer-at-chromatic?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Goodway Group | Global Staff Accountant <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 105d | [Apply](https://wagey.gg/jobs/bae115b27ab3ee1c-global-staff-accountant-at-goodway-group?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Senior ABM Strategist <br><sub>🌐 Remote - Chile • LATAM</sub> |  | 105d | [Apply](https://wagey.gg/jobs/3379d480294a9528-senior-abm-strategist-at-power-digital?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Sr. Full-Stack Developer <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 105d | [Apply](https://wagey.gg/jobs/73b4a9b073dd4c3c-sr-full-stack-developer-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=aee88a33a7d6aa39" alt="" height="16"> Orderly | AI Operations & Research Intern (Flor... <br><sub>🏢 Florianopolis, Santa Catarina, Braz • LATAM</sub> |  | 105d | [Apply](https://wagey.gg/jobs/022a48af595800e8-ai-operations-research-intern-florianopolis-for-partner-company-at-orderly?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=726ffa765f3d48eb" alt="" height="16"> Chromatic | Developer Experience Engineer <br><sub>🌐 Remote - \| North America or Europe • LATAM</sub> | $175k/year | 106d | [Apply](https://wagey.gg/jobs/c9de1908731f531c-developer-experience-engineer-at-chromatic?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Goodway Group | Global Staff Accountant <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 106d | [Apply](https://wagey.gg/jobs/bae115b27ab3ee1c-global-staff-accountant-at-goodway-group?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Power Digital | Senior ABM Strategist <br><sub>🌐 Remote - Chile • LATAM</sub> |  | 106d | [Apply](https://wagey.gg/jobs/3379d480294a9528-senior-abm-strategist-at-power-digital?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Sr. Full-Stack Developer <br><sub>🌐 Remote - Mexico City, Mexico • LATAM</sub> | $21k/year | 106d | [Apply](https://wagey.gg/jobs/73b4a9b073dd4c3c-sr-full-stack-developer-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Silver.dev | TrashLab - Sr. Software Backend Engineer <br><sub>🌐 Buenos Aires, Argentina • LATAM</sub> | $75k–$100k/year | 106d | [Apply](https://wagey.gg/jobs/6f92cc8909906931-trashlab-sr-software-backend-engineer-at-silver-dev?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> bluelightconsulting | Bluelight Consulting - Data Engineer ... <br><sub>🌐 Remote - Valparaíso, Chile • LATAM</sub> |  | 106d | [Apply](https://wagey.gg/jobs/513eab2253a40805-bluelight-consulting-data-engineer-azure-remote-latin-america-at-bluelightconsul?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> bluelightconsulting | Bluelight Consulting - Data Engineer ... <br><sub>🌐 Remote - Valparaíso, Chile • LATAM</sub> |  | 107d | [Apply](https://wagey.gg/jobs/513eab2253a40805-bluelight-consulting-data-engineer-azure-remote-latin-america-at-bluelightconsul?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Siena AI | Senior Fullstack Engineer <br><sub>🌐 Remote - United Kingdom, Romania, B • LATAM</sub> |  | 107d | [Apply](https://wagey.gg/jobs/f8277597bd8f6614-senior-fullstack-engineer-at-siena-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Influencer Marketing Manager <br><sub>🌐 Remote - Brazil, Argentina, Croatia • LATAM</sub> |  | 107d | [Apply](https://wagey.gg/jobs/38fa8d3aa7b622e6-influencer-marketing-manager-at-partyhat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> ElasticElastic logo | Software Engineer II, Frontend <br><sub>🏢 LATAM</sub> |  | 108d | [Apply](https://wagey.gg/jobs/904bc59c8e4b45fe-software-engineer-ii-frontend-at-elasticelastic-logo?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=7f7ba397854db2d6" alt="" height="16"> omniscient | Senior Recruiter <br><sub>🌐 Remote - Argentina - Remote • LATAM</sub> | $40k–$50k/year | 108d | [Apply](https://wagey.gg/jobs/d40bc48ac673ea4a-senior-recruiter-at-omniscient?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=7f7ba397854db2d6" alt="" height="16"> omniscient | Senior Recruiter <br><sub>🌐 Remote - Argentina - Remote • LATAM</sub> | $40k–$50k/year | 109d | [Apply](https://wagey.gg/jobs/d40bc48ac673ea4a-senior-recruiter-at-omniscient?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Account Executive <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 109d | [Apply](https://wagey.gg/jobs/68bde239f85f61e2-account-executive-at-jeeves?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=b816d09a1b8b6231" alt="" height="16"> InvGate | Sales Manager <br><sub>🏢 Buenos Aires • LATAM</sub> |  | 109d | [Apply](https://wagey.gg/jobs/ea7f20862ac63a67-sales-manager-at-invgate?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9f3fda2fef6dda85" alt="" height="16"> Canonical | Global Treasury Analyst <br><sub>🏢 Home Based - Americas; Home based - • LATAM</sub> |  | 109d | [Apply](https://wagey.gg/jobs/61f57931844976d0-global-treasury-analyst-at-canonical?ref=github) |
@@ -1447,35 +1471,35 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Silver.dev | Siena - Fullstack Engineer <br><sub>🌐 Remote - Buenos Aires, Argentina • LATAM</sub> | $80k–$120k/year | 110d | [Apply](https://wagey.gg/jobs/0ae2ee47bdbd6b96-siena-fullstack-engineer-at-silver-dev?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Precision for Medicine | Senior Financial Analyst <br><sub>🏢 Remote, Brazil; Remote, Mexico - Hy • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/53cfac536cfe0158-senior-financial-analyst-at-precision-for-medicine?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=dee64dc0a2c9f3ad" alt="" height="16"> Webflow | Senior Infrastructure Engineer  <br><sub>🌐 Remote - Argentina Remote • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/c918a9b451d6593e-senior-infrastructure-engineer-at-webflow?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=89d6af7844697fed" alt="" height="16"> Lumimeds | Sales Representative – Telehealth (Pa... <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/24b44851e84144f0-sales-representative-telehealth-patient-conversion-at-lumimeds?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Precision Medicine Group | Senior Financial Analyst <br><sub>🏢 Remote, Brazil; Remote, Mexico - Hy • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/ddb6b2f4a9f3dc1d-senior-financial-analyst-at-precision-medicine-group?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_7069ff29f984423e" alt="" height="16"> EBANX | Group Product Manager \| Argentina <br><sub>🌐 Remote - in Buenos Aires • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/be5f27a0ab720e17-group-product-manager-argentina-at-ebanx?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> AB InBev | Data Product Manager <br><sub>🌐 Remote - Americas • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/bfb7aceade4b689c-data-product-manager-at-ab-inbev?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=f2d1ca25e4fce001" alt="" height="16"> doola | FP&A Analyst <br><sub>🌐 Remote - in Latin America • LATAM</sub> |  | 110d | [Apply](https://wagey.gg/jobs/691d5bcc2fd2a60d-fp-a-analyst-at-doola?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=89d6af7844697fed" alt="" height="16"> Lumimeds | Sales Representative – Telehealth (Pa... <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 111d | [Apply](https://wagey.gg/jobs/24b44851e84144f0-sales-representative-telehealth-patient-conversion-at-lumimeds?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Precision Medicine Group | Senior Financial Analyst <br><sub>🏢 Remote, Brazil; Remote, Mexico - Hy • LATAM</sub> |  | 111d | [Apply](https://wagey.gg/jobs/ddb6b2f4a9f3dc1d-senior-financial-analyst-at-precision-medicine-group?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_7069ff29f984423e" alt="" height="16"> EBANX | Group Product Manager \| Argentina <br><sub>🌐 Remote - in Buenos Aires • LATAM</sub> |  | 111d | [Apply](https://wagey.gg/jobs/be5f27a0ab720e17-group-product-manager-argentina-at-ebanx?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> AB InBev | Data Product Manager <br><sub>🌐 Remote - Americas • LATAM</sub> |  | 111d | [Apply](https://wagey.gg/jobs/bfb7aceade4b689c-data-product-manager-at-ab-inbev?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=f2d1ca25e4fce001" alt="" height="16"> doola | FP&A Analyst <br><sub>🌐 Remote - in Latin America • LATAM</sub> |  | 111d | [Apply](https://wagey.gg/jobs/691d5bcc2fd2a60d-fp-a-analyst-at-doola?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=b0b92c592968bdc7" alt="" height="16"> Coinbase | Senior Machine Learning Engineer, CX ... <br><sub>🌐 Remote - Brazil • LATAM</sub> | $947k/year | 111d | [Apply](https://wagey.gg/jobs/b80310dc20b351cf-senior-machine-learning-engineer-cx-intelligence-at-coinbase?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Loka, Inc | Senior Talent Acquisition Specialist <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 111d | [Apply](https://wagey.gg/jobs/4aae1ddb3a89ffb4-senior-talent-acquisition-specialist-at-loka-inc?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=a0ef0415c0dec190" alt="" height="16"> Cloudbeds | Accounting Specialist <br><sub>🌐 Remote - Latin America • LATAM</sub> |  | 117d | [Apply](https://wagey.gg/jobs/bf954d233857b763-accounting-specialist-at-cloudbeds?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> sierra-studio | Lead Full Stack Engineer  <br><sub>🌐 Remote - Brazil (Remote) • LATAM</sub> | $60k–$80k/year | 117d | [Apply](https://wagey.gg/jobs/614a858e38a9c181-lead-full-stack-engineer-at-sierra-studio?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> sierra-studio | Lead Full Stack Engineer  <br><sub>🌐 Remote - Brazil (Remote) • LATAM</sub> | $60k–$80k/year | 118d | [Apply](https://wagey.gg/jobs/614a858e38a9c181-lead-full-stack-engineer-at-sierra-studio?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=c29d541e6dc13197" alt="" height="16"> Oscilar | Sr./Staff Backend Engineer <br><sub>🌐 Remote - Brazil • LATAM</sub> | $79k–$115k/year | 118d | [Apply](https://wagey.gg/jobs/3069c4d5cf0a77b9-sr-staff-backend-engineer-at-oscilar?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=7592fa175d6eef57" alt="" height="16"> Airbnb | Lead, Advanced Analytics, Hosting Ser... <br><sub>🌐 LATAM</sub> | $100k/year | 118d | [Apply](https://wagey.gg/jobs/76efd8b4f6831006-lead-advanced-analytics-hosting-services-mexico-at-airbnb?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=9b11504171869db3" alt="" height="16"> getwingapp | Wing Assistant - Sales Development Re... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 118d | [Apply](https://wagey.gg/jobs/0345d674a07d0cb7-wing-assistant-sales-development-representative-bilingual-spanish-english-remote?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=9b11504171869db3" alt="" height="16"> getwingapp | Wing Assistant - Sales Development Re... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 119d | [Apply](https://wagey.gg/jobs/0345d674a07d0cb7-wing-assistant-sales-development-representative-bilingual-spanish-english-remote?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> CI&T | CI&T - [Job - 29586] System Architect... <br><sub>🏢 Colombia • LATAM</sub> |  | 119d | [Apply](https://wagey.gg/jobs/851d4b842b20297c-ci-t-job-29586-system-architect-colombia-at-ci-t?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Sr. AI Security Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 119d | [Apply](https://wagey.gg/jobs/a3b315c3e13732cf-sr-ai-security-engineer-at-backblaze-external-website?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_d114fa86865a6c4e" alt="" height="16"> Swile | Senior Software Engineer, Backend (Pa... <br><sub>🌐 Remote - Brasil - Latin America * • LATAM</sub> |  | 122d | [Apply](https://wagey.gg/jobs/087eef592d258d41-senior-software-engineer-backend-payments-at-swile?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=6ca268371eeb5d93" alt="" height="16"> constructor | LATAM Account Director <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 123d | [Apply](https://wagey.gg/jobs/86ca3084757536df-latam-account-director-at-constructor?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tech Holding | Full Stack Engineer (Contract) - Remote <br><sub>🏢 Mexico • LATAM</sub> |  | 123d | [Apply](https://wagey.gg/jobs/3f3808e7cfd29514-full-stack-engineer-contract-remote-at-tech-holding?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tech Holding | Full Stack Engineer (Contract) - Remote <br><sub>🏢 Mexico • LATAM</sub> |  | 124d | [Apply](https://wagey.gg/jobs/3f3808e7cfd29514-full-stack-engineer-contract-remote-at-tech-holding?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_c5c0905e846269be" alt="" height="16"> Justworks | Senior Developer Experience Engineer <br><sub>🏢 Mexico City, Mexico; New York, New  • LATAM</sub> | $168k–$212k/year | 124d | [Apply](https://wagey.gg/jobs/d67595455d560834-senior-developer-experience-engineer-at-justworks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_80145ff974828a45" alt="" height="16"> CLO Virtual Fashion | CLO Virtual Fashion - 3D Design & Imp... <br><sub>🏢 Mexico City - Hybrid • LATAM</sub> |  | 125d | [Apply](https://wagey.gg/jobs/37e20e7269b83bae-clo-virtual-fashion-3d-design-implementation-specialist-clo-at-clo-virtual-fashi?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> CI&T | CI&T - [Job - 29586] System Architect... <br><sub>🏢 Brazil • LATAM</sub> |  | 126d | [Apply](https://wagey.gg/jobs/09a831f5de15f042-ci-t-job-29586-system-architect-brazil-at-ci-t?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Connectly Inc | Account Manager (Brazil) <br><sub>🏢 Brazil, Brazil, Brazil - Hybrid • LATAM</sub> |  | 126d | [Apply](https://wagey.gg/jobs/c63dff44537a56e9-account-manager-brazil-at-connectly-inc?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Connectly Inc | Account Manager (Brazil) <br><sub>🏢 Brazil, Brazil, Brazil - Hybrid • LATAM</sub> |  | 127d | [Apply](https://wagey.gg/jobs/c63dff44537a56e9-account-manager-brazil-at-connectly-inc?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Ajax Systems | Ajax Systems - Area Sales Manager (Gu... <br><sub>🌐 Remote - Guadalajara • LATAM</sub> |  | 128d | [Apply](https://wagey.gg/jobs/554df40cad92d626-ajax-systems-area-sales-manager-guadalajara-mexico-at-ajax-systems?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_6eaa13ebc62a724e" alt="" height="16"> Futureproofing | Applied AI/ML Engineer <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 128d | [Apply](https://wagey.gg/jobs/09f40650d18e076e-applied-ai-ml-engineer-at-futureproofing?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Bi Analyst <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 129d | [Apply](https://wagey.gg/jobs/3c6889510754cfc1-bi-analyst-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_6eaa13ebc62a724e" alt="" height="16"> Futureproofing | Applied AI/ML Engineer <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 129d | [Apply](https://wagey.gg/jobs/09f40650d18e076e-applied-ai-ml-engineer-at-futureproofing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Bi Analyst <br><sub>🌐 Remote - Mexico City, Mexico • LATAM</sub> | $21k/year | 129d | [Apply](https://wagey.gg/jobs/3c6889510754cfc1-bi-analyst-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Jeeves - Product Manager, Stablecoin ... <br><sub>🌐 Remote - Mexico City • LATAM</sub> | $312k/year | 129d | [Apply](https://wagey.gg/jobs/cddf87b3e85564f6-jeeves-product-manager-stablecoin-digital-assets-at-jeeves?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=da8122daff70c59d" alt="" height="16"> kueski | Growth Marketing Manager (Paid Analyt... <br><sub>🌐 Remote - Mexico (remote) • LATAM</sub> |  | 129d | [Apply](https://wagey.gg/jobs/4b75a483e376ff5d-growth-marketing-manager-paid-analytics-at-kueski?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_54775c56d3cb6f6a" alt="" height="16"> ekumenlabs | Data Engineer <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 129d | [Apply](https://wagey.gg/jobs/152fb0d3885f5291-data-engineer-at-ekumenlabs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=fee4cd1aad864e05" alt="" height="16"> zippi | Zippi - Senior Software Engineer <br><sub>🌐 Remote - São Paulo, Remote • LATAM</sub> |  | 131d | [Apply](https://wagey.gg/jobs/f7c8d2a0d4d5883f-zippi-senior-software-engineer-at-zippi?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=272b9f5409f572e0" alt="" height="16"> Braze | Senior Software Engineer II, BrazeAI ... <br><sub>🏢 São Paulo • LATAM</sub> |  | 131d | [Apply](https://wagey.gg/jobs/d48770b317d12d9c-senior-software-engineer-ii-brazeai-operator-at-braze?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=272b9f5409f572e0" alt="" height="16"> Braze | Senior Software Engineer II, BrazeAI ... <br><sub>🏢 São Paulo • LATAM</sub> |  | 132d | [Apply](https://wagey.gg/jobs/d48770b317d12d9c-senior-software-engineer-ii-brazeai-operator-at-braze?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Silver.dev | Fuse Finance - Forward Deployed Engineer <br><sub>🌐 Remote - Argentina • LATAM</sub> | $48k–$72k/year | 132d | [Apply](https://wagey.gg/jobs/6ce1765c0961554d-fuse-finance-forward-deployed-engineer-at-silver-dev?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_e16c902f170ca90e" alt="" height="16"> Clara | Sales Lead [Líder de Ventas Regional]... <br><sub>🏢 Guadalajara / JAL / Mexico • LATAM</sub> |  | 132d | [Apply](https://wagey.gg/jobs/db6786520a1a2249-sales-lead-l-der-de-ventas-regional-guadalajara-territory-remote-at-clara?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9088b1659613fad8" alt="" height="16"> dLocal | Operations Talent Pool <br><sub>🏢 Montevideo (Hybrid) - Hybrid • LATAM</sub> |  | 135d | [Apply](https://wagey.gg/jobs/62bc8c60d55ab889-operations-talent-pool-at-dlocal?ref=github) |
@@ -1484,23 +1508,22 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_73854239902f55f6" alt="" height="16"> Terrific | Terrific - Principal Engineer (LATAM) <br><sub>🌐 Remote - Buenos Aires / Mexico City • LATAM</sub> |  | 139d | [Apply](https://wagey.gg/jobs/f952f16b75f86501-terrific-principal-engineer-latam-at-terrific?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=dee64dc0a2c9f3ad" alt="" height="16"> Webflow | Staff Software Engineer, Developer Pr... <br><sub>🌐 Remote - Argentina Remote • LATAM</sub> |  | 139d | [Apply](https://wagey.gg/jobs/c43b7f0d37486020-staff-software-engineer-developer-productivity-at-webflow?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Social Media Manager <br><sub>🌐 Remote - Argentina, Australia, Braz • LATAM</sub> |  | 140d | [Apply](https://wagey.gg/jobs/56b330258d808197-social-media-manager-at-partyhat?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_73854239902f55f6" alt="" height="16"> Terrific | Terrific - E-Commerce, PLG Commercial... <br><sub>🌐 Remote - Miami / Mexico City / Mana • LATAM</sub> |  | 140d | [Apply](https://wagey.gg/jobs/ffa059139da789bb-terrific-e-commerce-plg-commercial-saas-shopify-at-terrific?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_73854239902f55f6" alt="" height="16"> Terrific | Terrific - E-Commerce, PLG Commercial... <br><sub>🌐 Remote - Miami / Mexico City / Mana • LATAM</sub> |  | 141d | [Apply](https://wagey.gg/jobs/ffa059139da789bb-terrific-e-commerce-plg-commercial-saas-shopify-at-terrific?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_505d9eb8ce33e014" alt="" height="16"> legora | Director, Community, North America <br><sub>🏢 New York City, New York, United Sta • LATAM</sub> | $185k–$235k/year | 141d | [Apply](https://wagey.gg/jobs/210e08c315688a18-director-community-north-america-at-legora?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Growth Lead <br><sub>🌐 Remote - Argentina, Australia, Braz • LATAM</sub> |  | 142d | [Apply](https://wagey.gg/jobs/b344e485d0f90535-growth-lead-at-partyhat?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Senior Backend Engineer <br><sub>🌐 Remote - Argentina, Bulgaria, Colom • LATAM</sub> |  | 142d | [Apply](https://wagey.gg/jobs/65153c3956cf945c-senior-backend-engineer-at-partyhat?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Senior Backend Engineer <br><sub>🌐 Remote - Argentina, Bulgaria, Colom • LATAM</sub> |  | 143d | [Apply](https://wagey.gg/jobs/65153c3956cf945c-senior-backend-engineer-at-partyhat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Studio Director <br><sub>🌐 Remote - Argentina, Australia, Braz • LATAM</sub> |  | 143d | [Apply](https://wagey.gg/jobs/c035a72a11f4d2d0-studio-director-at-partyhat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Investment Associate <br><sub>🌐 Remote - Argentina, Australia, Braz • LATAM</sub> |  | 143d | [Apply](https://wagey.gg/jobs/d43dc279d00c7f3b-investment-associate-at-partyhat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Head of Partnerships <br><sub>🌐 Remote - Argentina, Australia, Braz • LATAM</sub> |  | 143d | [Apply](https://wagey.gg/jobs/ea526ccbf7f4518e-head-of-partnerships-at-partyhat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_db4e14800a55c2e1" alt="" height="16"> Partyhat | Senior Frontend Engineer <br><sub>🌐 Remote - Bulgaria, Argentina, Lithu • LATAM</sub> |  | 143d | [Apply](https://wagey.gg/jobs/c05ad39638177e6c-senior-frontend-engineer-at-partyhat?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=282e883f7e3f5e3c" alt="" height="16"> Taktile | Senior Forward Deployed Engineer <br><sub>🌐 Remote - Brazil • LATAM</sub> |  | 144d | [Apply](https://wagey.gg/jobs/10429d6c6b007ee9-senior-forward-deployed-engineer-at-taktile?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tilt Finance | Head of Credit, Brazil <br><sub>🌐 Remote - Brazil • LATAM</sub> |  | 144d | [Apply](https://wagey.gg/jobs/6265a691f3804c5b-head-of-credit-brazil-at-tilt-finance?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Visual QA, Lead <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 145d | [Apply](https://wagey.gg/jobs/f469e219c420a42e-visual-qa-lead-at-monks?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Squad \| Bowery |  Sr Digital Marketing Analyst <br><sub>🌐 Remote - in Argentina • LATAM</sub> |  | 146d | [Apply](https://wagey.gg/jobs/6d665cf7abfcfbc5-sr-digital-marketing-analyst-at-squad-bowery?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=1c6e29ed8a875ca6" alt="" height="16"> Praxent | LATAM Software Engineer(s) (React/Node) <br><sub>🌐 Remote - International • LATAM</sub> |  | 146d | [Apply](https://wagey.gg/jobs/a45ec5beb1aa0585-latam-software-engineer-s-react-node-at-praxent?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=1c6e29ed8a875ca6" alt="" height="16"> Praxent | LATAM Software Engineer(s) (Angular/.... <br><sub>🌐 Remote - International • LATAM</sub> |  | 146d | [Apply](https://wagey.gg/jobs/701f52f125db3145-latam-software-engineer-s-angular-net-at-praxent?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=1c6e29ed8a875ca6" alt="" height="16"> Praxent | LATAM QA Automation Engineer(s) <br><sub>🌐 Remote - International • LATAM</sub> |  | 146d | [Apply](https://wagey.gg/jobs/7883029855bcb11f-latam-qa-automation-engineer-s-at-praxent?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Visual QA, Lead <br><sub>🌐 Remote - Mexico City, Mexico • LATAM</sub> | $21k/year | 145d | [Apply](https://wagey.gg/jobs/f469e219c420a42e-visual-qa-lead-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Squad \| Bowery |  Sr Digital Marketing Analyst <br><sub>🌐 Remote - in Argentina • LATAM</sub> |  | 147d | [Apply](https://wagey.gg/jobs/6d665cf7abfcfbc5-sr-digital-marketing-analyst-at-squad-bowery?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1c6e29ed8a875ca6" alt="" height="16"> Praxent | LATAM Software Engineer(s) (React/Node) <br><sub>🌐 Remote - International • LATAM</sub> |  | 147d | [Apply](https://wagey.gg/jobs/a45ec5beb1aa0585-latam-software-engineer-s-react-node-at-praxent?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1c6e29ed8a875ca6" alt="" height="16"> Praxent | LATAM Software Engineer(s) (Angular/.... <br><sub>🌐 Remote - International • LATAM</sub> |  | 147d | [Apply](https://wagey.gg/jobs/701f52f125db3145-latam-software-engineer-s-angular-net-at-praxent?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1c6e29ed8a875ca6" alt="" height="16"> Praxent | LATAM QA Automation Engineer(s) <br><sub>🌐 Remote - International • LATAM</sub> |  | 147d | [Apply](https://wagey.gg/jobs/7883029855bcb11f-latam-qa-automation-engineer-s-at-praxent?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> IV AI, Inc | Data Scientist <br><sub>🌐 Remote - Any, Argentina, Argentina • LATAM</sub> | $20k–$36k/year | 147d | [Apply](https://wagey.gg/jobs/f1539b7ec4c670c7-data-scientist-at-iv-ai-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Senior Visual QA <br><sub>🌐 Buenos Aires - Hybrid • LATAM</sub> | $21k/year | 149d | [Apply](https://wagey.gg/jobs/2dc767e6a19fdda1-senior-visual-qa-at-monks?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Senior Visual QA <br><sub>🌐 Remote - Mexico City, Mexico • LATAM</sub> | $21k/year | 149d | [Apply](https://wagey.gg/jobs/2dc767e6a19fdda1-senior-visual-qa-at-monks?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="16"> Binance | Binance - Backend Java Engineer - Kaz... <br><sub>🌐 Hybrid - Latin America * • LATAM</sub> |  | 149d | [Apply](https://wagey.gg/jobs/bcc5aa62de154aeb-binance-backend-java-engineer-kazakhstan-russian-speaker-6-months-contract-at-bi?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> The Global Talent Co. | Technical Marketing Engineer <br><sub>🌐 Remote - LATAM • LATAM</sub> |  | 149d | [Apply](https://wagey.gg/jobs/9e6c719b83038665-technical-marketing-engineer-at-the-global-talent-co?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Media Analyst <br><sub>🏢 Brazil ; Sorocaba; São Carlos; São  • LATAM</sub> | $21k/year | 149d | [Apply](https://wagey.gg/jobs/3817dfb96a9edfa9-media-analyst-at-monks?ref=github) |
@@ -1512,15 +1535,15 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Growth Marketing Director \| LATAM <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 149d | [Apply](https://wagey.gg/jobs/5a6dd91c1b5900e2-growth-marketing-director-latam-at-backblaze-external-website?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Goodway Group | Global Data Engineer <br><sub>🌐 Remote - Latin America * • LATAM</sub> |  | 149d | [Apply](https://wagey.gg/jobs/04228fa45e3973da-global-data-engineer-at-goodway-group?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=a5be6acb9b14f075" alt="" height="16"> kpler | Data Engineer <br><sub>🌐 Remote - Colombia (Remote) • LATAM</sub> |  | 149d | [Apply](https://wagey.gg/jobs/ac4ae745e688cfd8-data-engineer-at-kpler?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c4d62e83f2593630" alt="" height="16"> articul8 | Principal Applied AI Researcher - Dom... <br><sub>🌐 Remote - Brazil/Remote • LATAM</sub> |  | 153d | [Apply](https://wagey.gg/jobs/cd94294032692440-principal-applied-ai-researcher-domain-specific-models-brazil-at-articul8?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c4d62e83f2593630" alt="" height="16"> articul8 | Senior Applied AI Researcher (Brazil) <br><sub>🏢 Brazil/Remote - Hybrid • LATAM</sub> |  | 153d | [Apply](https://wagey.gg/jobs/70dd235e7168ff2e-senior-applied-ai-researcher-brazil-at-articul8?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c4d62e83f2593630" alt="" height="16"> articul8 | Applied AI Researcher (Brazil) <br><sub>🌐 Remote - Brazil/Remote • LATAM</sub> |  | 153d | [Apply](https://wagey.gg/jobs/75ce5f9583c2bf04-applied-ai-researcher-brazil-at-articul8?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Software Engineer, AI  <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 154d | [Apply](https://wagey.gg/jobs/c2ca3de8a60ae30d-software-engineer-ai-at-backblaze-external-website?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c4d62e83f2593630" alt="" height="16"> articul8 | Principal Applied AI Researcher - Dom... <br><sub>🌐 Remote - Brazil/Remote • LATAM</sub> |  | 154d | [Apply](https://wagey.gg/jobs/cd94294032692440-principal-applied-ai-researcher-domain-specific-models-brazil-at-articul8?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c4d62e83f2593630" alt="" height="16"> articul8 | Senior Applied AI Researcher (Brazil) <br><sub>🏢 Brazil/Remote - Hybrid • LATAM</sub> |  | 154d | [Apply](https://wagey.gg/jobs/70dd235e7168ff2e-senior-applied-ai-researcher-brazil-at-articul8?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c4d62e83f2593630" alt="" height="16"> articul8 | Applied AI Researcher (Brazil) <br><sub>🌐 Remote - Brazil/Remote • LATAM</sub> |  | 154d | [Apply](https://wagey.gg/jobs/75ce5f9583c2bf04-applied-ai-researcher-brazil-at-articul8?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Software Engineer, AI  <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 155d | [Apply](https://wagey.gg/jobs/c2ca3de8a60ae30d-software-engineer-ai-at-backblaze-external-website?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=dd862ec503f310c6" alt="" height="16"> Bellroy | Software Engineer - Functional Progra... <br><sub>🌐 Remote - Collingwood, Victoria, Aus • LATAM</sub> |  | 155d | [Apply](https://wagey.gg/jobs/8f92fccda0166898-software-engineer-functional-programming-au-nz-at-bellroy?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="16"> Binance | Binance jobs <br><sub>🌐 Hybrid - Latin America * • LATAM</sub> |  | 157d | [Apply](https://wagey.gg/jobs/6c4d72e846d0b2f0-binance-jobs-at-binance?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Sr. Software Engineer  <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 157d | [Apply](https://wagey.gg/jobs/b83c17e7ad68119c-sr-software-engineer-at-backblaze-external-website?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Sr. Software Engineer - Application S... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 158d | [Apply](https://wagey.gg/jobs/38b054d95dcf4b34-sr-software-engineer-application-security-at-backblaze-external-website?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tech Holding | Technical Lead - Remote, MX (Contract) <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 159d | [Apply](https://wagey.gg/jobs/0612ea19ed37db0b-technical-lead-remote-mx-contract-at-tech-holding?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Backblaze External Websit | Sr. Software Engineer - Application S... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 159d | [Apply](https://wagey.gg/jobs/38b054d95dcf4b34-sr-software-engineer-application-security-at-backblaze-external-website?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tech Holding | Technical Lead - Remote, MX (Contract) <br><sub>🌐 Remote - Mexico • LATAM</sub> |  | 160d | [Apply](https://wagey.gg/jobs/0612ea19ed37db0b-technical-lead-remote-mx-contract-at-tech-holding?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> The Global Talent Co. | GTM Engineer / AI Engineer <br><sub>🌐 Remote - Argentina, Colombia, Chile • LATAM</sub> |  | 161d | [Apply](https://wagey.gg/jobs/eb524df0f063c795-gtm-engineer-ai-engineer-at-the-global-talent-co?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Squad \| Bowery | Fullstack Product Engineer <br><sub>🌐 Remote - in Argentina • LATAM</sub> |  | 162d | [Apply](https://wagey.gg/jobs/d8427b310a9dd299-fullstack-product-engineer-at-squad-bowery?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> assist-world | Immigration Forms Specialist (Part-Ti... <br><sub>🌐 Remote - Colombia • LATAM</sub> | $104k/year | 163d | [Apply](https://wagey.gg/jobs/a1b5664cb157d710-immigration-forms-specialist-part-time-remote-at-assist-world?ref=github) |
@@ -1528,39 +1551,17 @@ True remote — no location restriction.
 | <img src="https://wagey.gg/api/company-logo?id=co_fcca05e691579a3a" alt="" height="16"> Unknown | Product Support Engineer - Remote <br><sub>🏢 LATAM</sub> |  | 165d | [Apply](https://wagey.gg/jobs/85ff889069f62406-product-support-engineer-remote-at-unknown?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=26cc112004f6e530" alt="" height="16"> Samsara | Product Support Engineer - Remote <br><sub>🏢 LATAM</sub> |  | 165d | [Apply](https://wagey.gg/jobs/03ad54d29aae9a88-product-support-engineer-remote-at-samsara?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Blockchain.com | Senior React Native Engineer <br><sub>🏢 Buenos Aires • LATAM</sub> |  | 165d | [Apply](https://wagey.gg/jobs/cc4ac065a57c17a8-senior-react-native-engineer-at-blockchain-com?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Blockchain.com | Mid-Level React Native Engineer <br><sub>🏢 Buenos Aires • LATAM</sub> |  | 165d | [Apply](https://wagey.gg/jobs/ddb087a9be080689-mid-level-react-native-engineer-at-blockchain-com?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> The Global Talent Co. | Senior Product Marketing Manager <br><sub>🌐 Remote - Colombia, Bogota, Colombia • LATAM</sub> |  | 166d | [Apply](https://wagey.gg/jobs/698b7a34b949e259-senior-product-marketing-manager-at-the-global-talent-co?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=e8183e0b7bb27569" alt="" height="16"> Flexport | Global Operations Specialist <br><sub>🏢 Guadalajara, Mexico • LATAM</sub> | $21k/year | 166d | [Apply](https://wagey.gg/jobs/3d3bfbd5da8b650c-global-operations-specialist-at-flexport?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_2890edf5e5fbff24" alt="" height="16"> singular | GTM Engineer <br><sub>🌐 Remote - LATAM Remote • LATAM</sub> |  | 166d | [Apply](https://wagey.gg/jobs/b26b3a75c7d236c7-gtm-engineer-at-singular?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Head of Sales, Brazil <br><sub>🏢 São Paulo - Hybrid • LATAM</sub> |  | 167d | [Apply](https://wagey.gg/jobs/6dee280b695ecb92-head-of-sales-brazil-at-jeeves?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="16"> Binance | Binance - Binance Accelerator Program <br><sub>🏢 Asia / Taiwan, Taipei / Hong Kong • LATAM</sub> |  | 167d | [Apply](https://wagey.gg/jobs/461ed3cfc4b7be30-binance-binance-accelerator-program-at-binance?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=90a71e0aa4973528" alt="" height="16"> whippy | Customer Support Specialist (LATAM Only) <br><sub>🏢 Remote - Latin America - Hybrid • LATAM</sub> |  | 170d | [Apply](https://wagey.gg/jobs/774913e437e8c903-customer-support-specialist-latam-only-at-whippy?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Jeeves - Sales Development Representa... <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 172d | [Apply](https://wagey.gg/jobs/0ddc5550884d465e-jeeves-sales-development-representative-at-jeeves?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=218362e2c5f963a8" alt="" height="16"> Monks | Sr. QA Engineer <br><sub>🌐 Bogotá, Bogotá, Colombia • LATAM</sub> | $21k/year | 172d | [Apply](https://wagey.gg/jobs/6a85d78a382d10c3-sr-qa-engineer-at-monks?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=73cf0cdad6d309ba" alt="" height="16"> talkiatry | Remote Therapist - New Mexico <br><sub>🌐 Remote - New Mexico, United States • LATAM</sub> | $70k/year | 173d | [Apply](https://wagey.gg/jobs/b085bb2548151af0-remote-therapist-new-mexico-at-talkiatry?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Jeeves - Senior AI Engineer <br><sub>🌐 Remote - Brazil • LATAM</sub> |  | 173d | [Apply](https://wagey.gg/jobs/0f7b8bfa6bf5e8a2-jeeves-senior-ai-engineer-at-jeeves?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=f8773f695d3b0e7f" alt="" height="16"> Jeeves | Jeeves - Principal Backend Engineer <br><sub>🌐 Remote - Brazil • LATAM</sub> |  | 173d | [Apply](https://wagey.gg/jobs/a0e87dc11e822b03-jeeves-principal-backend-engineer-at-jeeves?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Think Academy US | Remote Math Teacher (in Costa Rica） <br><sub>🌐 Remote • LATAM</sub> | $31k/year | 174d | [Apply](https://wagey.gg/jobs/2b2e569d95f8e2e6-remote-math-teacher-in-costa-rica-at-think-academy-us?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Finch Care | Product Designer <br><sub>🌐 Remote - (North/South America) • LATAM</sub> |  | 175d | [Apply](https://wagey.gg/jobs/c302260d43e1bc04-product-designer-at-finch-care?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_e144b57ad0b4e235" alt="" height="16"> SingleStore | Partner Operations Manager \| Costa R... <br><sub>🏢 United States • LATAM</sub> | $125k–$140k/year | 175d | [Apply](https://wagey.gg/jobs/3e1e14e0ce9ad095-partner-operations-manager-costa-rica-remote-at-singlestore?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Silver.dev | Ramp - Early Career Software Engineer <br><sub>🌐 Buenos Aires, Argentina • LATAM</sub> | $120k–$200k/year | 175d | [Apply](https://wagey.gg/jobs/b8922c3f0ccda749-ramp-early-career-software-engineer-at-silver-dev?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=02b881d645ba4241" alt="" height="16"> sonatype | Sonatype - Senior Java Product Suppor... <br><sub>🌐 Remote - Colombia - Remote • LATAM</sub> |  | 178d | [Apply](https://wagey.gg/jobs/9d599794a1f8a07a-sonatype-senior-java-product-support-engineer-at-sonatype?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Silver.dev | Silver.dev - Talent Scout <br><sub>🌐 Remote - Latin America * • LATAM</sub> | $24k/year | 178d | [Apply](https://wagey.gg/jobs/48087055f8193402-silver-dev-talent-scout-at-silver-dev?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Connectly Inc | EU GO Senior Software Engineer <br><sub>🏢 Europe, Europe, European Union - Hy • LATAM</sub> |  | 179d | [Apply](https://wagey.gg/jobs/9e114f9654ee2d1a-eu-go-senior-software-engineer-at-connectly-inc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="16"> Binance | Binance - Regional Branding & Partner... <br><sub>🏢 Brazil, Sao Paulo / Argentina, Buen • LATAM</sub> |  | 179d | [Apply](https://wagey.gg/jobs/a19dc41e293af59d-binance-regional-branding-partnerships-manager-at-binance?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_f0e23d8811ebe2ef" alt="" height="16"> Mutt Data | Data Engineer Lead <br><sub>🌐 Remote - Argentina • LATAM</sub> |  | 179d | [Apply](https://wagey.gg/jobs/4092bfc6ec46545d-data-engineer-lead-at-mutt-data?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_e16c902f170ca90e" alt="" height="16"> Clara | Territory Sales Lead (Líder de Vendas... <br><sub>🏢 Brasil - Latin America * • LATAM</sub> |  | 181d | [Apply](https://wagey.gg/jobs/e8581d49a30c7a73-territory-sales-lead-l-der-de-vendas-locais-recife-pe-at-clara?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=2c6cbf4a9179ad6f" alt="" height="16"> Valtech | Platform Database Engineer <br><sub>🌐 Remote - Argentina - Remote • LATAM</sub> |  | 181d | [Apply](https://wagey.gg/jobs/baeb99a5117c46db-platform-database-engineer-at-valtech?ref=github) |
 
 
 ---
 
 ## Update History
 
-Last 42 updates. Full history in each repo's [commit log](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commits/main/).
+Last 41 updates. Full history in each repo's [commit log](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commits/main/).
 
 | Time (UTC) | Main | EMEA | APAC |
 |---|---|---|---|
+| 6-Oct-2026 15:51 UTC | [`d5dcb88`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/d5dcb886404fa54c354329c69ee533445accc7e9) 24,616 | [`025e386`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/025e386049cabd206a468ab343d5789c6f891516) 7,807 | [`5e84bc8`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/5e84bc85f23409fea70832a8f4bd0d9c2ea2d029) 2,626 |
 | 5-Oct-2026 18:21 UTC | [`c32e2b8`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/c32e2b897be9b75c76f642c45de8d3454431d831) 24,293 | [`25d7bed`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/25d7bed7ee1d36bd53735aabd81c8398a5959073) 7,727 | [`5459066`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/54590660886128c53d6b4b0c67f303218956d51c) 2,603 |
 | 4-Oct-2026 14:45 UTC | [`f15839f`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/f15839f3c749ad1805c643d5bade67f4fa1f9588) 23,687 | [`5ef7edd`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/5ef7eddfd843c5c3f4250b8638ba96348f1d3a23) 7,476 | [`68bc6a7`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/68bc6a75c26015875cd716c4faa58a34faf2317b) 2,558 |
 | 3-Oct-2026 14:17 UTC | [`602b31f`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/602b31f5f677831223f12635f231c9fcdbce83d8) 40,426 | [`d13dce9`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/d13dce91a8fa8778ad5202e4f1b8c44cb9468389) 12,622 | [`eca2dff`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/eca2dff9a1969d02188e1b3fe382db95fc3d79a7) 4,064 |
@@ -1601,10 +1602,8 @@ Last 42 updates. Full history in each repo's [commit log](https://github.com/7-o
 | 29-Aug-2026 14:25 UTC | [`11a3a7b`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/11a3a7bc5ff64888a4e1e6d7f683800512f9c014) 31,363 | [`e66bc48`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/e66bc489d2ff818e295222c28012a91768075e96) 9,444 | [`a48abdb`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/a48abdbc40e197efc66114306ffca1144e54c213) 3,204 |
 | 28-Aug-2026 20:49 UTC | [`cc2e432`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/cc2e432cbcaaff15d0acaa3d9e9e97874101db21) 31,363 | [`954d956`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/954d9563d1bac1217010591fd8dabcd88e5bb345) 9,444 | [`2162cc8`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/2162cc880939a660b0933d1e1b77bb1daeba196c) 3,204 |
 | 27-Aug-2026 19:48 UTC | [`d38730d`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/d38730d319de68896da4a8ff139de6061629650d) 31,363 | [`62881bb`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/62881bba9094fc9f0819cdbcb870de6a29ab421b) 9,444 | [`0df870c`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/0df870c7c70dc13d807717dad184c5b31f96a30c) 3,204 |
-| 26-Aug-2026 09:52 UTC | [`43c8c4e`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/43c8c4e8eff88a7a25418fcfcf5ffdcd5b3cdd73) 31,363 | [`23cbe43`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/23cbe4349253e5df8cb145d022f3620ef444e3c0) 9,444 | [`6de69ce`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/6de69ced81d0d4c4941bc4ed87625b3187090f4c) 3,204 |
-| 25-Aug-2026 09:46 UTC | [`45ee86a`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/45ee86a32cd9bf000f8c3631474714dba263ed57) 31,365 | [`751a91c`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/751a91c7482bb328c74c61e17a7561456b89dd0c) 9,445 | [`ab91732`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/ab91732d846732d84b9be6936fc00f9bccfe6273) 3,204 |
 
 
 *Updated daily. Powered by [wagey.gg](https://wagey.gg?ref=github).*
 
-<sub>Generated 6-Oct-2026 15:51 UTC · 10s · © 2026 Dominic Morris</sub>
+<sub>Generated 6-Oct-2026 23:05 UTC · 8s · © 2026 Dominic Morris</sub>
