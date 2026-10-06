@@ -159,6 +159,8 @@ async function fetchJobs() {
     try {
       const resp = await fetch(url, {
         headers: {
+          // Scoped publisher token (wagey.gg no longer accepts a bare x-user-id header).
+          ...(process.env.WAGEY_PUBLISH_TOKEN ? { Authorization: `Bearer ${process.env.WAGEY_PUBLISH_TOKEN}` } : {}),
           'x-user-id': USER_ID,
           'Accept': 'application/x-ndjson',
           'Accept-Encoding': 'gzip',

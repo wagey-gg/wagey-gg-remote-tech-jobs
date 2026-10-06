@@ -41,6 +41,7 @@ jobs:
         env:
           API_BASE_URL: ${{ secrets.API_BASE_URL }}
           SYSTEM_USER_ID: ${{ secrets.SYSTEM_USER_ID }}
+          WAGEY_PUBLISH_TOKEN: ${{ secrets.WAGEY_PUBLISH_TOKEN }}
         run: node wagey-gg-remote-tech-jobs/scripts/publish-github-jobs.mjs
 
       - name: Commit and push main repo
